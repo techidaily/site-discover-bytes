@@ -1,7 +1,7 @@
 ---
 title: Optimizing Gaming & Streaming with Nvidia's Advanced Encoder (NVENC) Technology
-date: 2024-09-19 12:43:47
-updated: 2024-09-20 12:10:15
+date: 2024-09-19T16:00:11.126Z
+updated: 2024-09-23T16:10:08.184Z
 tags:
   - product
 categories:
@@ -52,6 +52,13 @@ Action Tutorials
 
  Please check NVIDIA NVENC system requirements below to see if your PC is ready to use NVIDIA NVENC accelerated H.264/AVC encoding.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  System Requirements for NVIDIA NVENC acceleration 
 
  System requirements to use NVIDIA NVENC acceleration for gameplay and desktop recording:
@@ -60,11 +67,32 @@ Action Tutorials
 * The latest NVIDIA drivers installed
 * The latest Action! version
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to set Action! to use NVIDIA NVENC acceleration
 
  To set Action! to use NVIDIA NVENC acceleration for gameplay and Windows desktop recording please open Action! Video Recording / Capture tab. Find File format and hardware acceleration settings and select MP4 with NVIDIA NVENC. If you do not see NVIDIA NVENC on the list please make sure that you meet all NVIDIA NVENC acceleration requirements. 
 
 ![NVIDIA NVENC acceleration](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_nvenc_acceleration.jpg "NVIDIA NVENC acceleration") 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What does Action! use NVIDIA NVENC acceleration for? 
 
@@ -88,11 +116,30 @@ Action Tutorials
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-cerebral-quests-the-ultimate-list-of-escape-rooms/"><u>[New] Cerebral Quests The Ultimate List of Escape Rooms</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-stardom-a-beginners-blueprint/"><u>[New] Instagram Stardom A Beginner's Blueprint</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-ultimate-image-transformation-with-polarr-editors-power-for-2024/"><u>[Updated] Ultimate Image Transformation with Polarr Editor's Power for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1726220901481-gif-jpg-movavi/"><u>網路上免費 GIF變更成 JPG - 利用 Movavi 自動化工具</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1726224542020-mp3mp4-movavi/"><u>直接上線將MP3格式變更成MP4的免費方法 - Movavi 檢視器指南</u></a></li>
+<li><a href="https://win-webster.techidaily.com/downsizing-your-flipbook-design-on-flipbuildercom-step-by-step-guide/"><u>Downsizing Your FlipBook Design on FlipBuilder.com - Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/gratis-gif-to-mp4-converter-online-efficient-en-gemakkelijke-vorming-van-jeeves-movavi/"><u>Gratis GIF-to-MP4 Converter Online: Efficiënt en Gemakkelijke Vorming Van Jeeves - Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-logitech-speaker-drivers-for-easy-installation-on-windows-os-versions-10-7-and-8/"><u>Latest Logitech Speaker Drivers for Easy Installation on Windows OS Versions: 10, 7, and 8</u></a></li>
+<li><a href="https://games-able.techidaily.com/massive-labor-day-discount-experience-top-notch-performance-with-the-latest-samsung-tv-deals-zdnet/"><u>Massive Labor Day Discount: Experience Top-Notch Performance with the Latest Samsung TV Deals - ZDNet</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/methode-facile-pour-transformer-des-videos-m4v-en-swf-sans-frais-avec-loutil-gratuit-de-movavi-online/"><u>Méthode Facile Pour Transformer Des Vidéos M4V en SWF Sans Frais Avec L'outil Gratuit De Movavi Online</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/powerdirector-color-grading-unifying-your-video-clips-look/"><u>PowerDirector Color Grading Unifying Your Video Clips Look</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/the-ultimate-ranking-of-2024s-best-voice-transcription-programs-expert-insights-from-movavi/"><u>The Ultimate Ranking of 2024'S Best Voice Transcription Programs – Expert Insights From Movavi</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/transferring-iphone-display-to-pc-a-guide-to-windows-10-compatible-solutions-in-seven-steps/"><u>Transferring iPhone Display to PC: A Guide to Windows 10 Compatible Solutions in Seven Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-mystery-behind-artificial-intelligence-and-copyright-law-ownership-explained/"><u>Unveiling the Mystery Behind Artificial Intelligence and Copyright Law: Ownership Explained</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/jpegraw-movavi/"><u>オンラインで簡単に行えるJPEG画像の無料RAW変換 - Movavi</u></a></li>
+</ul></div>
+
