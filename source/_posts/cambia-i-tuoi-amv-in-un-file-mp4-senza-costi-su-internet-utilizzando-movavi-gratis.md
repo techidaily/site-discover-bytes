@@ -1,7 +1,7 @@
 ---
 title: Cambia I Tuoi AMV in Un File MP4 Senza Costi Su Internet, Utilizzando Movavi Gratis
-date: 2024-09-25T18:28:20.144Z
-updated: 2024-10-03T01:08:46.996Z
+date: 2024-10-07T16:47:46.520Z
+updated: 2024-10-08T16:00:09.741Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/a018e8a9f0d428a05e6f8e5f431115fbc243ce5256805ecd4c390c919b578ebe.jpg
@@ -166,13 +166,6 @@ Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'u
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
 
 La carte graphique travaille pour rendre les images fixes, ou frames, pendant que vous jouez à un jeu. Elle travaille en collaboration avec d'autres composants matériels tels que la RAM, le CPU et le GPU pour créer une expérience de jeu complète. En cas d'arrêt de l'un de ces composants, votre FPS commencera à baisser. La plupart des joueurs préfèrent un taux de 60 FPS en jouant, mais la plupart des jeux sont en fait très bien à 30 FPS.
@@ -192,10 +185,10 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Régler les paramètres graphiques d'un jeu
@@ -205,6 +198,13 @@ Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aid
 1. **Anti-crénelage :** Lorsqu'un jeu utilise le crénelage, il corrige les petites lignes irrégulières et inégales autour de textures ou d'objets spécifiques. Pensez aux lignes floues que vous voyez lorsque l'herbe apparaît dans la plupart des jeux. Chaque jeu possède différents niveaux d'anticrénelage (SSAA, TAA, MSAA, etc.). - et vous pouvez généralement les modifier dans les paramètres du jeu pour obtenir de meilleures performances.
 2. **Flou de mouvement :** Pour rendre les choses plus réalistes, les jeux intègrent des flous de mouvement afin d'émuler la vie réelle. Le désactiver peut souvent vous aider à économiser de la puissance graphique.
 3. **Synchronisation verticale :** Parfois, lorsque vous vous déplacez rapidement, la carte graphique ne peut pas suivre et l'écran semble se déchirer en son milieu. La synchronisation verticale aide à résoudre ce problème mais ajoute un certain décalage. Une façon de corriger ce problème est d'utiliser le VSync adaptatif ou le Triple Buffering. Vous utiliserez davantage de puissance de la carte graphique, mais vous trouverez un juste milieu entre les déchirures et le décalage.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à jour les pilotes de votre GPU
 
@@ -223,13 +223,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes AMD](https://www.amd.com/en/support)
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Installer DirectX 12
 
@@ -308,13 +301,6 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Régler le panneau de contrôle NVIDIA
 
 Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiques à la carte dans le panneau de configuration. Voici quelques-uns des meilleurs paramètres Windows 10 pour les cartes NVIDIA pour les jeux.
@@ -326,6 +312,13 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -333,6 +326,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 1. Activez l'accentuation des images d'AMD en cliquant sur **Paramètres**, puis sur **Graphiques** pour trouver le paramètre. Vous pouvez l'activer pour des jeux individuels ou globalement.
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
 
@@ -347,10 +347,16 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -359,18 +365,24 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
 ### Optez pour un SSD
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
@@ -497,6 +509,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Foire aux questions 
@@ -521,10 +540,16 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Comment faire fonctionner un ordinateur plus rapidement ?
@@ -558,13 +583,6 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -601,20 +619,24 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/chieve-financial-insight-the-simple-three-steps-to-assess-youtube-earning-potential/"><u>[New] Achieve Financial Insight The Simple Three Steps To Assess YouTube Earning Potential</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-step-by-step-lenovo-laptop-screen-recording/"><u>[Updated] In 2024, Step-by-Step Lenovo Laptop Screen Recording</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquering-monster-hunters-stealthy-foes-eradicating-the-dark-screen-malfunction-when-initiating-gameplay/"><u>Conquering Monster Hunter's Stealthy Foes: Eradicating the Dark Screen Malfunction When Initiating Gameplay</u></a></li>
 <li><a href="https://discover-bytes.techidaily.com/download-free-webinar-recording-tools-capture-and-share-your-sessions-seamlessly/"><u>Download Free Webinar Recording Tools: Capture & Share Your Sessions Seamlessly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensuring-proper-installation-how-to-effectively-update-your-dell-cameras-drivers/"><u>Ensuring Proper Installation: How to Effectively Update Your Dell Camera's Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-to-get-and-set-up-epson-wf-3540-printer-drivers-in-windows-environment/"><u>Easy Guide to Get and Set Up Epson WF-3540 Printer Drivers in Windows Environment</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effortless-transformation-turn-your-wlmp-files-into-high-quality-mp4-format/"><u>Effortless Transformation: Turn Your WLMP Files Into High-Quality MP4 Format</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/elite-2023-leading-8-stealthy-video-download-tools/"><u>Elite 2023 Leading 8 Stealthy Video Download Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-dialogue-support-merging-gpt-3-with-whatsapp/"><u>Enhanced Dialogue Support: Merging GPT-3 with WhatsApp</u></a></li>
 <li><a href="https://discover-bytes.techidaily.com/essential-tips-and-techniques-every-aspiring-portrait-photographer-must-learn/"><u>Essential Tips and Techniques Every Aspiring Portrait Photographer Must Learn</u></a></li>
 <li><a href="https://discover-bytes.techidaily.com/how-to-detect-and-prevent-malware-in-your-downloaded-files/"><u>How to Detect and Prevent Malware in Your Downloaded Files</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-honor-x50-gt-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Honor X50 GT Phone?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-instructions-on-changing-fb-page-backdrop/"><u>In 2024, Instructions on Changing FB Page Backdrop</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-hardware-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>How to identify some outdated hardware drivers with Windows Device Manager in Windows 7</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-pop-7-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Pop 7 Pro Phone?</u></a></li>
 <li><a href="https://discover-bytes.techidaily.com/mastering-cybersecurity-defending-against-attack-vectors-as-explained-by-malwarefox/"><u>Mastering Cybersecurity: Defending Against Attack Vectors as Explained by MalwareFox</u></a></li>
 <li><a href="https://discover-bytes.techidaily.com/maximize-amazon-listing-success-with-professional-product-imagery-and-boost-sales-instantly/"><u>Maximize Amazon Listing Success with Professional Product Imagery and Boost Sales Instantly</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/mesh-wi-fi-a-net-worth-investment/"><u>Mesh Wi-Fi: A Net Worth Investment?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-excessive-cpu-consumption-caused-by-wudfhostexe-on-windows-11/"><u>Resolved: Excessive CPU Consumption Caused by wudfhost.exe on Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-destinations-players-peak-places/"><u>Ultimate Destinations: Players' Peak Places</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/ultimate-guide-to-digitally-erasing-individuals-from-photographs-perfectly/"><u>Ultimate Guide to Digitally Erasing Individuals From Photographs Perfectly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-system-help-with-these-essential-steps/"><u>Simplify System Help with These Essential Steps</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-changing-your-computer-screens-wallpaper-easily/"><u>Step-by-Step Guide: Changing Your Computer Screen's Wallpaper Easily</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/turn-your-photos-into-movies-with-our-powerful-image-to-video-converter/"><u>Turn Your Photos Into Movies with Our Powerful Image-to-Video Converter</u></a></li>
 <li><a href="https://discover-bytes.techidaily.com/ultimate-guide-to-optimizing-your-experience-with-animal-crossing-on-pc-platforms/"><u>Ultimate Guide to Optimizing Your Experience with Animal Crossing on PC Platforms</u></a></li>
 </ul></div>
 

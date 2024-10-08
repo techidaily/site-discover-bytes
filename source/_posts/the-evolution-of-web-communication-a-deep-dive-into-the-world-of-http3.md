@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Web Communication: A Deep Dive Into the World of HTTP/3"
-date: 2024-09-28T00:14:30.814Z
-updated: 2024-10-03T02:08:42.877Z
+date: 2024-10-02T16:34:59.254Z
+updated: 2024-10-08T16:24:59.135Z
 tags:
   - product
   - antivirus
@@ -84,16 +84,22 @@ In contrast, QUIC can perform both these actions simultaneously.
 
 [![QUIC Illustration](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As Google [illustrates](https://blog.chromium.org/2015/04/a-quic-update-on-googles-experimental.html) in this image above, the signals bounce back and forth between your computer and the server, which eats up precious milliseconds. In comparison, QUIC only needs to send one signal to get the job done, without faffing around by transmitting data on multiple occasion.
 
 In short, HTTP/3, powered by QUIC, cuts the number of times computers need to request data from a server, ultimately speeding up the transmissions and connectivity for everyone involved. It also improves security by including the SSL (Secure Sockets Layer) handshake in the setup. Plus, this new technology also reduces overhead in another key area, when multiple substreams are sent over a single connection.
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will HTTP/3 be used?
 
@@ -102,13 +108,6 @@ Soon. The transition has already begun, and slowly but surely the entire web wil
 This independent organization was founded by the US government in 1986, and is made up from volunteers from leading technology companies. They have been overseeing the proceedings for Internet technologies since 1993.
 
 [![IETF logo](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf_logo.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf%5Flogo.png)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Admittedly, development on this end has been slow, with HTTP/1.1 seeing a release in 1999, and HTTP/2 being officially out in 2015\. But things are picking up pace with the release of the HTTP/3 due in 2019.
 
@@ -123,10 +122,10 @@ The technology is fine and dandy, but what about software? Well, Google, which h
 [![chrome and opera browser](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome_opera_logos.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome%5Fopera%5Flogos.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As of right now, [Opera](https://www.opera.com/) is the only other browser that supports QUIC. If you use either Chrome or Opera to browse these websites that support HTTP/3, you will notice that they load web pages faster.
@@ -141,22 +140,30 @@ HTTP/3, an evolution of the QUIC protocol from Google, is a major departure from
 
 And while it changes how users and devices access the Internet a lot, HTTP/3 is all set to take the mantle as the newest and most widespread version of the venerable Hypertext Transfer Protocol.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1 thought on “What is HTTP/3”
 
 1. ![](https://secure.gravatar.com/avatar/310abc9d873d41cede1258891d6bcaf3?s=50&d=mm&r=g)  
 Gwyneth Llewelyn  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [June 25, 2021 at 6:58 am](https://tools.techidaily.com/malwarefox/products/)  
 While TCP/IP is the older protocol (designed in 1974, as mentioned), there is a misleading statement in the article, implying (perhaps due to a specific choice of words) that UDP/IP is a ‘brand new’ protocol, somehow designed by Google to address the limitations of TCP/IP.  
 In reality, UDP/IP was invented back in 1980 by David P. Reed (<https://en.wikipedia.org/wiki/User%5FDatagram%5FProtocol>; <https://www.deepplum.com/blog-dpr/?page%5Fid=6>) — Page and Brin were roughly 7 years old back then, and a long, long way before they came up with the concept of Google…  
 QUIC (technically, QUIC over IP), by contrast, is a technology developed initially by Google, built on top of UDP/IP, providing a simple mechanism of establishing reliable, encrypted connections, but without the massive overhead required by TCP/IP.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -183,19 +190,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/best-practices-for-an-aesthetically-pleasing-instagram-presence-tips-and-strategies/"><u>Best Practices for an Aesthetically Pleasing Instagram Presence : Tips and Strategies</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/complete-guide-how-to-remove-a-virtual-private-network-on-your-ipad/"><u>Complete Guide: How to Remove a Virtual Private Network on Your iPad</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/complete-guide-how-to-restore-accidentally-deleted-photos-from-your-iphone/"><u>Complete Guide: How to Restore Accidentally Deleted Photos From Your iPhone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-v30-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from V30</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-change-gps-location-on-xiaomi-redmi-note-12-pro-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Xiaomi Redmi Note 12 Pro 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-reno-9a-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo Reno 9A to iPad | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maintaining-optimal-performance-updating-ati-radeon-graphics-card-drivers-in-windows-environments/"><u>Maintaining Optimal Performance: Updating ATI Radeon Graphics Card Drivers in Windows Environments</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/mastering-pc-gameplay-in-mobiles-hit-esports-title-league-of-legends-wild-rift/"><u>Mastering PC Gameplay in Mobile's Hit Esports Title, 'League of Legends: Wild Rift'</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-how-to-fade-in-and-fade-out-audio-in-adobe-after-effects-effortlessly/"><u>New 2024 Approved How to Fade In and Fade Out Audio in Adobe After Effects Effortlessly</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/recording-device-quality-analysis-for-2024/"><u>Recording Device Quality Analysis for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/the-ultimate-selection-top-6-mobile-apps-for-eliminating-audio-background-noise-on-android-and-ios/"><u>The Ultimate Selection: Top 6 Mobile Apps for Eliminating Audio Background Noise on Android and iOS</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/top-4-mp3-converters-from-instagram-the-latest-picks-for-pc-and-online-use/"><u>Top 4 MP3 Converters From Instagram: The Latest Picks for PC & Online Use</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/top-tips-for-sharpening-blurry-photos-on-your-iphone-2022-guide/"><u>Top Tips for Sharpening Blurry Photos on Your iPhone - 2022 Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expertly-lit-the-17-must-haves-for-youtubers/"><u>[New] 2024 Approved Expertly Lit The 17 Must-Haves for Youtubers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-level-acid-review-and-beyond-comparisons/"><u>[New] Pro-Level ACID Review and Beyond Comparisons</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-srt-mastery-a-technological-deep-dive-for-media-professionals/"><u>[Updated] SRT Mastery A Technological Deep-Dive for Media Professionals</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1-seamless-guide-how-to-convert-and-move-your-pdfs-onto-an-ipad-or-iphone/"><u>1. Seamless Guide: How to Convert and Move Your PDFs Onto an iPad or iPhone</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerating-system-restart-utilizing-windows-11s-quick-start-function/"><u>Accelerating System Restart: Utilizing Windows 11'S Quick Start Function</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/easy-methods-for-mirroring-a-redmi-mobile-device-with-your-personal-computer/"><u>Easy Methods for Mirroring a Redmi Mobile Device with Your Personal Computer</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/easy-peel-mac-screenshots-for-no-cost/"><u>Easy-Peel Mac Screenshots for No Cost</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-to-scrolling-through-youtube-comment-threads-for-2024/"><u>Guide to Scrolling Through YouTube Comment Threads for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/guide-seamlessly-moving-images-from-your-samsung-galaxy-note-10-onto-a-computer/"><u>Guide: Seamlessly Moving Images From Your Samsung Galaxy Note 10 Onto a Computer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-itel-a60s-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Itel A60s to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/mastering-the-art-of-screen-shotting-on-a-surface-pro-device/"><u>Mastering the Art of Screen Shotting on a Surface Pro Device</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/seamless-recording-of-skype-job-interviews-a-step-by-step-guide/"><u>Seamless Recording of Skype Job Interviews: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/simple-steps-how-to-effortlessly-move-your-iphone-photos-to-pc-or-mac/"><u>Simple Steps: How to Effortlessly Move Your iPhone Photos to PC or Mac</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solve-your-netflix-woes-19-proven-tips-for-troubleshooting-lg-tv-issues/"><u>Solve Your Netflix Woes: 19 Proven Tips for Troubleshooting LG TV Issues</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-accessing-snapchat-through-your-computer/"><u>Step-by-Step Guide: Accessing Snapchat Through Your Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-reviving-your-disabled-instagram-account/"><u>Step-by-Step Guide: Reviving Your Disabled Instagram Account</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-10-free-antivirus-software-of-2cuary-protect-your-system-without-spending-a-dime/"><u>Top 10 Free Antivirus Software of 2Cuary: Protect Your System Without Spending a Dime</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-mastering-dvd-extraction-with-winx-dvd-ripper-pro-for-mac/"><u>Ultimate Guide: Mastering DVD Extraction with WinX DVD Ripper Pro for Mac</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/ultimate-techniques-for-superimposing-text-over-photos-successfully/"><u>Ultimate Techniques for Superimposing Text Over Photos Successfully</u></a></li>
 </ul></div>
 
