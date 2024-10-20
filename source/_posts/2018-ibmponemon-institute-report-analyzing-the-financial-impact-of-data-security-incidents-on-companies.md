@@ -1,7 +1,7 @@
 ---
 title: "2018 IBM/Ponemon Institute Report: Analyzing the Financial Impact of Data Security Incidents on Companies"
-date: 2024-10-12T09:55:54.612Z
-updated: 2024-10-14T03:59:49.221Z
+date: 2024-10-15T09:25:21.806Z
+updated: 2024-10-20T00:28:31.351Z
 tags:
   - product
   - antivirus
@@ -66,10 +66,10 @@ Based on analysis of 11 companies experiencing a mega breach over the past two y
 For mega breaches, the biggest expense category was costs associated with lost business, which was estimated at nearly $118 million for breaches of 50 million records – almost a third of the total cost of a breach this size. IBM analyzed the publicly reported costs of several high profile mega breaches, and found the reported numbers are often less than the average cost found in the study.4 This is likely due to publicly reported cost often being limited to direct costs, such as technology and services to recover from the breach, legal and regulatory fees, and reparations to customers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Impacts the Average Cost of a Data Breach?
@@ -90,10 +90,10 @@ The amount of lost or stolen records also impacts the cost of a breach, costing 
 This year for the first time, the report examined the effect of security automation tools which use artificial intelligence, machine learning, analytics and orchestration to augment or replace human intervention in the identification and containment of a breach. The analysis found that organizations that had extensively deployed automated security technologies saved over $1.5 million on the total cost of a breach ($2.88 million, compared to $4.43 million for those who had not deployed security automation.)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Regional and Industry Differences
@@ -106,10 +106,10 @@ The study also compared the cost of data breaches in different industries and re
 [![cost of data breach by countries](https://www.malwarefox.com/wp-content/uploads/2019/04/cost-of-data-breach-regions.png)](https://www.malwarefox.com/wp-content/uploads/2019/04/cost-of-data-breach-regions.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 One major factor impacting the cost of a data breach in the U.S. was the reported cost of lost business, which was $4.2 million – more than the total average cost of a breach globally, and more than double the amount of “lost business costs” compared to any other region surveyed. One major factor impacting lost business costs is customer turnover in the aftermath of a breach; in fact a recent [IBM / Harris poll report](https://www.prnewswire.com/news-releases/new-survey-finds-deep-consumer-anxiety-over-data-privacy-and-security-300630067.html) found that  75 percent of consumers in the U.S. say that they will not do business with companies that they do not trust to protect their data .
@@ -126,10 +126,10 @@ One major factor impacting the cost of a data breach in the U.S. was the reporte
 Source: IBM
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -157,17 +157,21 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-little-legends-top-gaming-adventures/"><u>[Updated] 2024 Approved Little Legends Top Gaming Adventures</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-unleashing-potential-career-exploration-in-design/"><u>[Updated] In 2024, Unleashing Potential Career Exploration in Design</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-trendsetters-in-instagram-ae-best-selling-template-collections-for-2024/"><u>[Updated] Trendsetters in Instagram AE Best-Selling Template Collections for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-list-of-best-mp4-players/"><u>2024 Approved Master List of Best MP4 Players</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-docx-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For .docx </u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-hyperx-cloud-mic-malfunctions-for-optimal-audio-quality/"><u>How to Resolve HyperX Cloud Mic Malfunctions for Optimal Audio Quality</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-xiaomi-13t-pro-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Xiaomi 13T Pro</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/solution-strategies-for-unlocking-a-damaged-iphone-display/"><u>Solution Strategies for Unlocking a Damaged iPhone Display</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/step-by-step-tutorial-on-utilizing-apowersoft-mac-screen-recording-tool/"><u>Step-by-Step Tutorial on Utilizing Apowersoft Mac Screen Recording Tool</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/the-evolution-of-web-communication-a-deep-dive-into-the-world-of-http3/"><u>The Evolution of Web Communication: A Deep Dive Into the World of HTTP/3</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/the-ultimate-guide-to-the-best-photo-collage-apps-for-smartphones-ios-and-android-2022-edition/"><u>The Ultimate Guide to the Best Photo Collage Apps for Smartphones (iOS & Android) - 2022 Edition</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/vidvault-seamless-techniques-for-securing-tweeted-videos/"><u>VidVault Seamless Techniques for Securing Tweeted Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-nanocapture-screen-video-review/"><u>[Updated] 2024 Approved NanoCapture Screen Video Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-streamlabs-vs-obs-assessing-the-leading-livestream-tools/"><u>[Updated] In 2024, Streamlabs Vs. OBS Assessing the Leading Livestream Tools</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/44cm44gu5yip55so44ge44gf44gg44gn44gc44kk44gm44go44gg44gu44gw44ge44gplus44gz77yb5lia55y844kr44oh44op44gu44oh44o844k5rai5ruf5b6p5ywd44ks44kk44oj44cn/"><u>「ご利用いただきありがとうございます！一眼カメラのデータ消滅復元ガイド」</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/come-eseguire-un-copia-di-sicurezza-rapida-da-disco-esterno-a-disco-interno/"><u>Come Eseguire Un Copia Di Sicurezza Rapida Da Disco Esterno a Disco Interno</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/complete-guide-to-eliminating-adware-and-blocking-pop-ups-on-windows-10/"><u>Complete Guide to Eliminating Adware & Blocking Pop-Ups on Windows 10</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effiziente-losungen-zum-wechseln-von-computern-ein-alternatives-software-programm-fur-datenubertragung-ohne-probleme/"><u>Effiziente Lösungen Zum Wechseln Von Computern: Ein Alternatives Software-Programm Für Datenübertragung Ohne Probleme</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhanced-connection-routes-between-hp-printers-and-laptops/"><u>Enhanced Connection Routes Between HP Printers and Laptops</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-tecno-phantom-v-fold-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Tecno Phantom V Fold</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/konnte-ihr-upgrade-von-windows-7-32-bit-zu-windows-7-64-bit-erfolgreich-abschliessen-ohne-dass-dabei-daten-verloren-gegangen-sind/"><u>Konnte Ihr Upgrade Von Windows 7 (32-Bit) Zu Windows 7 (64-Bit) Erfolgreich Abschließen, Ohne Dass Dabei Daten Verloren Gegangen Sind?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620227685-modern-compatible-swf-to-mp4-transformation-tools-find-the-optimal-converter/"><u>Modern-Compatible SWF to MP4 Transformation Tools - Find the Optimal Converter</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-and-painless-way-to-find-out-your-nvidia-driver-version/"><u>Quick and Painless Way to Find Out Your Nvidia Driver Version</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/reparacion-guia-paso-a-paso-para-el-registro-bios-en-sistemas-gpt-y-uefi/"><u>Reparación Guía Paso a Paso Para El Registro BIOS en Sistemas GPT Y UEFI</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-the-stanley-j5c09-a-powerful-workhorse-for-heavy-duty-tasks/"><u>Review of the Stanley J5C09 - A Powerful Workhorse for Heavy Duty Tasks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ltimate-hash-list-boosting-youtube-views-to-6000plus-for-2024/"><u>The Ultimate Hash List Boosting Youtube Views to $6,000+ for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/troubleshooting-steps-for-resolving-apricorn-ez-gig-iv-cloning-failures/"><u>Troubleshooting Steps for Resolving Apricorn EZ Gig IV Cloning Failures</u></a></li>
 </ul></div>
 

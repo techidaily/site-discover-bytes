@@ -1,7 +1,7 @@
 ---
 title: "Comment Purger Votre Historique De Fichiers : Une Méthode Pour Éliminer Les Anciennes Versions en Un Clic"
-date: 2024-10-10T01:02:30.280Z
-updated: 2024-10-14T06:16:23.937Z
+date: 2024-10-18T19:26:47.920Z
+updated: 2024-10-19T16:41:52.438Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/280632bcded78a124b04e053c7d047b36940366fb100b93a3444f92f9f5d3614.jpg
@@ -49,13 +49,6 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
 La barra di ricerca di Windows 10 funge da strumento centrale per un accesso rapido alle app, ai file e alle impostazioni. Quando ti ritrovi impossibilitato a digitare in questa funzione essenziale, sorgono preoccupazioni riguardo alla funzionalità del sistema e alla produttività. Le possibili cause di questo problema sono:
@@ -71,13 +64,6 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 **Interferenze di Terze Parti**
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
@@ -101,6 +87,19 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
 Passo 1\. Apri Impostazioni:
@@ -119,13 +118,6 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
 Passo 1\. Accedi alle Opzioni di Indicizzazione:
@@ -143,6 +135,13 @@ Sotto la scheda Opzioni Avanzate, clicca su "Ricostruisci."
 Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
@@ -218,13 +217,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -232,6 +224,13 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -245,6 +244,13 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -255,13 +261,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -271,13 +270,20 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -294,20 +300,21 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-innovative-methods-for-chronological-disruption-in-acting/"><u>[New] 2024 Approved Innovative Methods for Chronological Disruption in Acting</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fastest-video-views-to-hit-100-million-list-for-2024/"><u>[Updated] Fastest Video Views to Hit 100 Million List for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/4-reasons-your-chatgpt-account-is-blocked-and-how-to-fix-it/"><u>4 Reasons Your ChatGPT Account Is Blocked (and How to Fix It)</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/how-to-customize-your-e-book-dimensions-using-flipbuilder-expert-tips-and-tricks/"><u>How To Customize Your E-Book Dimensions Using FlipBuilder – Expert Tips and Tricks</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/how-to-effectively-exhibit-flipbooks-online-ideal-locations-and-tips-for-using-flipbuildercom/"><u>How to Effectively Exhibit Flipbooks Online: Ideal Locations & Tips for Using FlipBuilder.com</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-3-proven-methods-to-enhance-your-music-archives/"><u>In 2024, 3 Proven Methods to Enhance Your Music Archives</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-s23-ultra-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy S23 Ultra FRP?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-nokia-g42-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Nokia G42 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-14-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone 14 without Password?</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/mastering-layout-design-adjusting-margin-settings-for-flipbooks-on-flipbuildercom/"><u>Mastering Layout Design: Adjusting Margin Settings for Flipbooks on FlipBuilder.com</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/mastering-the-art-of-embedding-contact-forms-in-ebooks-using-flipbuilders-tools/"><u>Mastering the Art of Embedding Contact Forms in Ebooks Using FlipBuilder's Tools</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/navigating-the-full-display-challenge-solving-keyboard-issues-in-flipbuilder-mode/"><u>Navigating the Full Display Challenge: Solving Keyboard Issues in FlipBuilder Mode</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/personalizing-flipbooks-in-mother-tongue-a-how-to-using-flipbuilders-language-settings/"><u>Personalizing Flipbooks in Mother Tongue: A How-To Using FlipBuilder's Language Settings</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/pop-up-image-slider-tutorial-using-flipbuilder-for-interactive-presentations/"><u>Pop Up Image Slider Tutorial Using FlipBuilder for Interactive Presentations</u></a></li>
-<li><a href="https://win-great.techidaily.com/top-ranking-gaming-seats-a-comprehensive-guide-by-zdnet/"><u>Top-Ranking Gaming Seats : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-comprehensive-fb-messenger-recordings-explained-for-2024/"><u>[New] Comprehensive FB Messenger Recordings Explained for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ranked-best-voice-change-software-echo-magic-edition-for-2024/"><u>[Updated] Ranked Best Voice Change Software Echo Magic Edition for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/4-simple-methods-seamlessly-moving-your-ibooks-from-one-iphone-to-another/"><u>4 Simple Methods: Seamlessly Moving Your iBooks From One iPhone to Another</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/error-404-unable-to-locate-your-desired-webpage/"><u>Error 404: Unable to Locate Your Desired Webpage</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-brainpower-a-detailed-look-at-tcls-32-inch-2019-roku-smart-tv/"><u>Evaluating Brainpower: A Detailed Look at TCL's 32-Inch (2019) Roku Smart TV</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/how-to-recover-deleted-items-from-the-recycle-bin-of-a-windows-n-8-computer/"><u>How to Recover Deleted Items From the Recycle Bin of a Windows N 8 Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-audio-issues-in-dying-light-expert-solutions-uncovered/"><u>How to Resolve Audio Issues in Dying Light – Expert Solutions Uncovered!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/perfect-your-video-pacing-with-these-snapchat-tips-for-2024/"><u>Perfect Your Video Pacing with These Snapchat Tips for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/snapping-back-up-a-comprehensive-guide-to-restoring-your-lost-snapchats-on-windows-iphone-and-android-systems/"><u>Snapping Back Up: A Comprehensive Guide to Restoring Your Lost Snapchats on Windows, iPhone & Android Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-start-csgo-in-windows-11-successfully/"><u>Strategies to Start CS:GO in Windows 11 Successfully</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/the-https-illusion-separating-online-safety-realities-from-common-misconceptions/"><u>The HTTPS Illusion: Separating Online Safety Realities From Common Misconceptions</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-2-techniques-pour-recuperer-des-fichiers-dun-pc-defectueux-une-solution-facile-a-suivre/"><u>Top 2 Techniques Pour Récupérer Des Fichiers D'un PC Défectueux: Une Solution Facile À Suivre</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultra-hd-monitor-roundup-lgs-27ud68-reviewed-for-2024/"><u>Ultra HD Monitor Roundup LG's 27UD68 Reviewed for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-want-to-know-about-phone-aspect-ratio-vertical-trying-to-learn-about-iphone-vertical-video-dimensions-read-this-article-to-get-all-yo/"><u>Updated In 2024, Do You Want to Know About Phone Aspect Ratio Vertical? Trying to Learn About iPhone Vertical Video Dimensions? Read This Article to Get All Your Answers on Vertical Phone Aspect Ratio Definition, Types and Tips</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/windows-1114/"><u>Windows 11:高いメモリ使用率に対処するための14のコツとソリューション</u></a></li>
 </ul></div>
 

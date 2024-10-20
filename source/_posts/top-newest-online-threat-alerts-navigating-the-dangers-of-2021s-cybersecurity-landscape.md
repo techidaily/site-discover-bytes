@@ -1,7 +1,7 @@
 ---
 title: "Top Newest Online Threat Alerts: Navigating the Dangers of 2021'S Cybersecurity Landscape"
-date: 2024-10-10T06:52:43.497Z
-updated: 2024-10-13T23:33:45.297Z
+date: 2024-10-18T03:39:16.574Z
+updated: 2024-10-19T16:24:52.747Z
 tags:
   - product
   - antivirus
@@ -63,13 +63,6 @@ Recently, Clop targeted one of the biggest software companies in the world, [**S
 
 [11 Best Anti-Ransomware Software](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Cyborg Ransomware
 
 Cyborg is a ransomware variant that is spread to the users through a fake, infected Windows 10 update. Users are sent an email requesting them to install the latest Windows update urgently. When clicking on the email’s fraudulent link, the Cyborg gets entry into the system and starts encrypting files in the background. A ransom note is released in the form of a “**Cyborg\_DECRYPT.txt**” text file after the encryption. As of now, there is no way to crack the Cyborg ransomware.
@@ -80,41 +73,35 @@ Glupteba is one of the deadliest trojans that have multiple forms that perform d
 
 [5 Best Trojan Removal Tools](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### B0r0nt0k Ransomware
 
 B0r0nt0k, like any other ransomware program, infiltrates your system and encrypt your data, after that demands the ransom in return. That is not it. It has the added ability too. Unlike other ransomware malware programs, B0r0nt0k can make changes to Startup Settings, Registry entries, and File or programs. The attacker demands 20 bitcoin for decrypting the data.
 
 [35 Ransomware Prevention Tips](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Zeus Gameover
 
 Zeus Gameover is a type of trojan malware that disguises itself as an essential and legitimate application. It then gets access to your sensitive bank details and steals your money. Zeus Gameover is dangerous because, unlike other malware, it does not require a centralized Command and Control server to complete the transaction. It can easily bypass the centralized servers and create an independent server for transferring sensitive information.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Gustuff
 
 Gustuff is another trojan type of malware that basically targets Android devices. It is the Android banking trojan that targets popular banking apps such as Bank of America, Chase Bank, and others. Even the cryptocurrency apps are on its radar. For retrieving the sensitive information, this trojan malware uses the social engineering attack to force users to give access to the Android Accessibility service.
 
 [How to remove IDP.Generic virus?](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Ryuk Ransomware
 
@@ -123,10 +110,10 @@ Ryuk is another deadly ransomware program that encrypts files using the RA-248 a
 [Android Ransomware Guide: How to Remove and Protect](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Astaroth Trojan
@@ -160,6 +147,13 @@ Prevention is always a better option than a cure. It is essential to avoid such 
 7. Always keep a backup of important files to counter any ransomware attack
 8. Keep your OS and system applications updated
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
 Comment
@@ -185,22 +179,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-best-kept-secrets-top-5-social-platforms-beyond-tiktok/"><u>[Updated] 2024 Approved Best-Kept Secrets Top 5 Social Platforms Beyond TikTok</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-whats-in-it-for-a-million-youtube-viewers/"><u>[Updated] 2024 Approved What’s in It for a Million YouTube Viewers?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-is-watching-facebook-on-the-television-set-a-future-possibility/"><u>[Updated] In 2024, Is Watching Facebook on the Television Set a Future Possibility?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-stellar-skincare-secrets-top-youtubes-expertise/"><u>[Updated] Stellar Skincare Secrets Top Youtube's Expertise</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1-mastering-image-protection-adding-watermarks-with-ease-using-flipbuilder/"><u>1) Mastering Image Protection: Adding Watermarks with Ease Using FlipBuilder</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-scrutinizing-youtubes-top-viewed-community-inputs/"><u>2024 Approved Scrutinizing YouTube's Top Viewed Community Inputs</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/building-your-own-rotatable-photobook-from-physical-images-with-flipbuilder-techniques/"><u>Building Your Own Rotatable Photobook From Physical Images with FlipBuilder Techniques</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/creating-interactive-flash-ebook-guides-with-flipbuilder/"><u>Creating Interactive Flash Ebook Guides with FlipBuilder</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/customizing-your-flipbuilder-books-app-icon-with-personal-images/"><u>Customizing Your FlipBuilder Book's App Icon with Personal Images</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/data-detonation-disintegrate-losses-with-stellar/"><u>Data Detonation – Disintegrate Losses with Stellar</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/direct-page-printing-guide-enable-users-to-print-specific-pages-in-flipbooks-with-flipbuilder/"><u>Direct Page Printing Guide: Enable Users to Print Specific Pages in Flipbooks with FlipBuilder</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/easily-navigate-your-digital-content-with-our-flipbook-page-turning-buttons-try-now-at-flipbuildercom/"><u>Easily Navigate Your Digital Content with Our Flipbook Page-Turning Buttons - Try Now at FlipBuilder.com</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/efficiently-reduce-image-size-with-expert-imaging-solutions-from-movavi/"><u>Efficiently Reduce Image Size with Expert Imaging Solutions From Movavi</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lightning-speed-say-goodbye-to-lags/"><u>Lightning Speed: Say Goodbye to Lags</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/symphonic-sounds-windows-edition/"><u>Symphonic Sounds Windows Edition</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/transformation-en-ligne-gratuite-des-fichiers-w64-avec-movavi/"><u>Transformation en Ligne Gratuite Des Fichiers W64 Avec Movavi</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-comprehensively-guide-to-transferring-videos-onto-facebook-from-pc-and-android/"><u>[New] Comprehensively Guide to Transferring Videos Onto Facebook From PC & Android</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-cost-effective-recorder-selections-for-youtube-vloggers-for-2024/"><u>[New] Cost-Effective Recorder Selections for YouTube Vloggers for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-experts-choice-top-green-screen-tools-list/"><u>[Updated] 2024 Approved Expert's Choice Top Green Screen Tools List</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-educational-evolution-via-virtual-reality-for-2024/"><u>[Updated] Educational Evolution via Virtual Reality for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728506740452-vs/"><u>「イメージでのシステム復元」vs「本格的なシステム復旧」: 用語と意味の違いを明らかにせよ</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/44cm44gu5yip55so44ge44gf44gg44gn44gc44kk44gm44go44gg44gu44gw44ge44gplus44gz77yb5lia55y844kr44oh44op44gu44oh44o844k5rai5ruf5b6p5ywd44ks44kk44oj44cn/"><u>「ご利用いただきありがとうございます！一眼カメラのデータ消滅復元ガイド」</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-finest-free-and-paid-windows-drawing-software-ranked/"><u>2024 Approved Finest Free & Paid Windows Drawing Software Ranked</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-swiftly-find-and-access-lost-reddit-discussions/"><u>2024 Approved How to Swiftly Find and Access Lost Reddit Discussions</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/come-eseguire-un-copia-di-sicurezza-rapida-da-disco-esterno-a-disco-interno/"><u>Come Eseguire Un Copia Di Sicurezza Rapida Da Disco Esterno a Disco Interno</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/complete-guide-to-eliminating-adware-and-blocking-pop-ups-on-windows-10/"><u>Complete Guide to Eliminating Adware & Blocking Pop-Ups on Windows 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-assessment-report-toolwiz-app-for-imaging-aficionados/"><u>In 2024, Assessment Report Toolwiz App for Imaging Aficionados</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/methodes-pour-reconstruire-un-fichier-illustrator-apercu-non-enregistre-desapparait-ou-endommage/"><u>Méthodes Pour Reconstruire Un Fichier Illustrator Aperçu (Non Enregistré, Désapparaît Ou Endommagé)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-smartphone-speech-to-text-solutions-compiling-the-best-android-and-iphone-apps-for-2024/"><u>New Smartphone Speech-to-Text Solutions Compiling the Best Android and iPhone Apps for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/reparacion-guia-paso-a-paso-para-el-registro-bios-en-sistemas-gpt-y-uefi/"><u>Reparación Guía Paso a Paso Para El Registro BIOS en Sistemas GPT Y UEFI</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/risolvi-velocemente-il-blocco-blu-di-windows-soluzioni-efficaci/"><u>Risolvi Velocemente Il Blocco Blu Di Windows: Soluzioni Efficaci</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/troubleshooting-steps-for-resolving-apricorn-ez-gig-iv-cloning-failures/"><u>Troubleshooting Steps for Resolving Apricorn EZ Gig IV Cloning Failures</u></a></li>
 </ul></div>
 

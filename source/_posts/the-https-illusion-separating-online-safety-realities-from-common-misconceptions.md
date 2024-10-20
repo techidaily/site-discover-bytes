@@ -1,7 +1,7 @@
 ---
 title: "The HTTPS Illusion: Separating Online Safety Realities From Common Misconceptions"
-date: 2024-10-11T06:41:32.627Z
-updated: 2024-10-14T04:31:38.723Z
+date: 2024-10-13T03:18:33.085Z
+updated: 2024-10-20T05:31:32.602Z
 tags:
   - product
   - antivirus
@@ -47,10 +47,16 @@ For those who are not aware of the HTTPS, its full form is Hyper Text Transmissi
 Anyone can easily read your sensitive and confidential information in the middle. So HTTPS was created. It encrypts the data before sending and receiving from the server. So, even if someone gets the access, they couldn’t read it. As of now, HTTPS has become the basic standard. Almost, every website runs on secure HTTP. If it is so, then why there are still so much malware? Why isn’t the internet secure yet?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why doesn’t HTTPS mean a Secure Site?
@@ -63,16 +69,16 @@ Probably that’s why Google removes the secure word from the URL field.
 
 Malicious websites can easily get the SSL certificates and get the HTTPS to make them look like a genuine website. If you are accessing such a site, then you are just accessing it over a secured connection. That doesn’t mean the content on the website is safe.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Should we Stop looking for HTTPS?
 
 ![](https://www.malwarefox.com/wp-content/uploads/2019/01/https-1.png)If HTTPS doesn’t guarantee the safe website, then should we stop bothering about it? NO, HTTPS is still great. It does what it is meant to do. It protects your confidential information like login credentials, banking details, and credit card information. If you are entering such information on an official website, then HTTPS is useful. It encrypts your details so that no one can read your information in the middle. So, you still need HTTPS.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Just looking on HTTPS is not effective, you should make sure the whole URL is accurate. It will keep your information safe from the phishing websites. Cybercriminals could easily create a lookalike website that you access and steal your information.
 
@@ -81,16 +87,10 @@ Just looking on HTTPS is not effective, you should make sure the whole URL is ac
 For example, they could create a fake website like amajon.com and copy everything from the original amazon.com. They can also get the SSL certificate and make the URL https://amajon.com. You will see a secure padlock and then trust on this website. When you enter the login credentials and enter your credit card details, it reaches to the criminals. The HTTPS will work, it will encrypt the information and no one in the middle can access it, but the owner of the website can read it without any effort.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -98,10 +98,10 @@ For example, they could create a fake website like amajon.com and copy everythin
 HTTPS make sure that your connection to a website is secure. It doesn’t give you guarantee that the content on the site is safe for you. But that doesn’t mean that you should stop looking for HTTPS sign. It protects your information from reaching in the hands of [hackers](https://tools.techidaily.com/malwarefox/products/) and cybercriminals. At the same time, you should also check the complete URL of the website and make sure it isn’t a phishing website.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -129,16 +129,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-soil-spinners-finding-the-next-stardew-title/"><u>[New] 2024 Approved Soil Spinners Finding the Next Stardew Title</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-top-8-affordable-3d-videos-players-on-pcmac/"><u>[Updated] 2024 Approved Top 8 Affordable 3D Videos Players on PC/Mac</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-quintet-of-top-10-royale-battles-for-2024/"><u>[Updated] Quintet of Top 10 Royale Battles for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/adobes-flash-player-and-its-security-risks-insights-from-malwarefox/"><u>Adobe's Flash Player and Its Security Risks, Insights From MalwareFox</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/avoiding-common-pitfalls-in-digital-marketing-journey/"><u>Avoiding Common Pitfalls in Digital Marketing Journey</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/before-you-buy-5-important-tips-to-keep-in-mind-when-shopping-for-used-ipads/"><u>Before You Buy: 5 Important Tips to Keep in Mind When Shopping for Used iPads</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/comprehensive-user-manual-mastering-the-apowermanager-system/"><u>Comprehensive User Manual: Mastering the ApowerManager System</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/display-blackout-mystery/"><u>Display Blackout Mystery</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/mi-user-discover-the-top-4-optimal-screen-casting-tools-compatible-with-xiaomi-devices/"><u>Mi User? Discover the Top 4 Optimal Screen Casting Tools Compatible with Xiaomi Devices</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/understanding-attack-vectors-strategies-for-prevention-and-protection-insights-from-malwarefox/"><u>Understanding Attack Vectors: Strategies for Prevention & Protection – Insights From MalwareFox</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-full-disclosure-on-nero-audiomanipulation-kit-features/"><u>Updated Full Disclosure on Nero AudioManipulation Kit Features</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-expert-level-recording-app-clean-and-clear/"><u>[New] 2024 Approved Expert-Level Recording App - Clean and Clear</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-digital-content-excellence-through-effective-screencasts/"><u>[Updated] 2024 Approved Digital Content Excellence Through Effective Screencasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-initiating-seamless-zoom-gatherings/"><u>[Updated] Initiating Seamless Zoom Gatherings</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1-quick-and-simple-guide-transferring-your-data-laptop-to-onedrive-with-just-3-methods/"><u>1. Quick & Simple Guide: Transferring Your Data - Laptop to OneDrive with Just 3 Methods!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-is-itop-a-must-have-screencast-tool/"><u>2024 Approved Is ITop a Must-Have Screencast Tool?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-unhindered-routine-changing-video-direction-with-vlc/"><u>2024 Approved Unhindered Routine Changing Video Direction with VLC</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/anker-premium-30-ultra-fast-charger-and-hub-evaluation-unrivaled-charging-capabilities/"><u>Anker Premium 3.0 Ultra-Fast Charger & Hub Evaluation: Unrivaled Charging Capabilities</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728470174468-aomei-backupper/"><u>AOMEI Backupperについて学ぶ:主要単語・用語リスト</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728484400184-aomei/"><u>AOMEI異機還原與不相似硬體還原:實用指南</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/comment-recuperer-les-donnees-dune-carte-de-stockage-corrompue-un-tutoriel-pratique/"><u>Comment Récupérer Les Données D'une Carte De Stockage Corrompue ? Un Tutoriel Pratique</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effortless-guide-for-mastering-system-state-recovery-in-ws-2008-r2-servers/"><u>Effortless Guide for Mastering System State Recovery in WS 2008 (R2) Servers</u></a></li>
+<li><a href="https://solve-info.techidaily.com/enhancing-websites-with-cookiebot-technology-for-better-engagement/"><u>Enhancing Websites with Cookiebot Technology for Better Engagement</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/evaluating-tenorshare-data-recovery-software-a-comprehensive-review/"><u>Evaluating Tenorshare Data Recovery Software: A Comprehensive Review</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/exploring-malwarefox-costs-subscription-options-and-protection-features/"><u>Exploring MalwareFox: Costs, Subscription Options & Protection Features</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/fixes-for-black-screen-issue-on-windows-10-post-login-troubleshooting-steps/"><u>Fixes for Black Screen Issue on Windows 10 Post-Login Troubleshooting Steps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-exclusive-tools-to-elevate-your-horizontal-and-vertical-igtv-posts/"><u>In 2024, Exclusive Tools to Elevate Your Horizontal and Vertical IGTV Posts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rapid-results-perfecting-your-shader-settings-in-star-wars-bf2/"><u>Rapid Results: Perfecting Your Shader Settings in Star Wars BF2</u></a></li>
+<li><a href="https://games-able.techidaily.com/slashed-size-heightened-vibrancy-at-tech-fairs-new-models/"><u>Slashed Size, Heightened Vibrancy at Tech Fair's New Models</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728474366590-windows/"><u>セーフモードでWindowsの不具合時にファイル移行テクニック</u></a></li>
 </ul></div>
 
