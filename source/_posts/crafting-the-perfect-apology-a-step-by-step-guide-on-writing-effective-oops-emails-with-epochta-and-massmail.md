@@ -1,7 +1,7 @@
 ---
 title: "Crafting the Perfect Apology: A Step-by-Step Guide on Writing Effective 'Oops' Emails with ePochta & Massmail"
-date: 2024-10-30T22:28:19.540Z
-updated: 2024-10-31T23:28:58.776Z
+date: 2024-11-01T18:29:53.799Z
+updated: 2024-11-06T18:09:50.697Z
 tags:
   - product
 categories:
@@ -23,10 +23,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -39,23 +39,9 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -70,6 +56,13 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -95,16 +88,16 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -114,43 +107,38 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -179,14 +167,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-elite-game-line-up-best-7-fps-classics/"><u>[Updated] 2024 Approved Elite Game Line-Up Best 7 FPS Classics</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/a-polyglot-commemoration-for-teaching-excellence/"><u>A Polyglot Commemoration for Teaching Excellence</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-xiaomi-redmi-k70-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Xiaomi Redmi K70 Pro</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/simplified-tutorial-mastering-meets-background-blur/"><u>Simplified Tutorial Mastering Meet's Background Blur</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/top-rated-seo-software-and-applications-for-windows-users-discover-the-most-effective-strategies-with-our-comprehensive-guide/"><u>Top-Rated SEO Software and Applications for Windows Users: Discover the Most Effective Strategies with Our Comprehensive Guide</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/ultimate-guide-to-cloning-your-data-the-best-samsung-ssd-860-and-aomei-backupper-toolset/"><u>Ultimate Guide to Cloning Your Data: The Best Samsung SSD ˈ860 and AOMEI Backupper Toolset</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/understanding-viewports-in-web-design-and-seo-strategies-a-comprehensive-guide/"><u>Understanding Viewports in Web Design and SEO Strategies – A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/spisok-luchshih-agentstv-po-optimizacii-dlya-poiskovyh-sistem-v-stambule-itogi-2n24-goda-otbor-i-opisanie-uslug/"><u>Список Лучших Агентств По Оптимизации Для Поисковых Систем В Стамбуле - Итоги 2N24 Года: Отбор И Описание Услуг</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/an-a-brief-subscribe-boost-your-content-viewing-in-2024/"><u>[New] Can a Brief Subscribe Boost Your Content Viewing, In 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-best-in-storytelling-eight-film-genre-showcase/"><u>[New] In 2024, The Best in Storytelling Eight Film Genre Showcase</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-smooth-panoramas-state-of-the-art-tracker-tech/"><u>[Updated] Smooth Panoramas State-of-the-Art Tracker Tech</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-venture-into-virtual-worlds-a-close-look-at-lgs-360-tech/"><u>2024 Approved Venture Into Virtual Worlds A Close Look at LG's 360 Tech</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-nokia-g42-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/come-ripristinare-i-tuoi-file-cancellati-con-testdisk-in-sistemi-operativi-windows/"><u>Come Ripristinare I Tuoi File Cancellati Con TestDisk in Sistemi Operativi Windows</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/comment-proteger-en-toute-securite-votre-partition-efi-avec-ces-deux-solutions-gratuites-et-faciles-a-utiliser/"><u>Comment Protéger en Toute Sécurité Votre Partition EFI Avec Ces Deux Solutions Gratuites Et Faciles À Utiliser !</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-versatility-top-10-innovative-ways-to-use-powertoys-tools/"><u>Discover Versatility: Top 10 Innovative Ways to Use PowerToys Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-drivers-for-hp-officejet-pro-8720-windows-compatible/"><u>Download Updated Drivers for HP Officejet Pro 8720 - Windows Compatible</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effective-remedies-for-unrecognized-drives-on-windows-1011-a-step-by-step-guide/"><u>Effective Remedies for Unrecognized Drives on Windows 10/11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effiziente-strategien-zur-datenubereinstimmung-wie-man-zwei-ordner-synchronisiert/"><u>Effiziente Strategien Zur Datenübereinstimmung: Wie Man Zwei Ordner Synchronisiert</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/guida-rapida-e-facile-al-clonazione-di-windows-11-con-istruzioni-video-dettagliate/"><u>Guida Rapida E Facile Al Clonazione Di Windows 11 Con Istruzioni Video Dettagliate</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-installing-new-display-drivers-for-your-toshiba-satellite-under-windows-os/"><u>Guide: Installing New Display Drivers for Your Toshiba Satellite Under Windows OS</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/locating-restored-excel-documents-on-a-windows-11-system-a-comprehensive-guide/"><u>Locating Restored Excel Documents on a Windows 11 System: A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/troubleshooting-guide-restore-bootability-on-dell-venue-with-windows-11-pro/"><u>Troubleshooting Guide: Restore Bootability on Dell Venue With Windows 11 Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-overwatch-2-pc-game-crashes/"><u>Troubleshooting Steps: Resolving Overwatch 2 PC Game Crashes</u></a></li>
 </ul></div>
 

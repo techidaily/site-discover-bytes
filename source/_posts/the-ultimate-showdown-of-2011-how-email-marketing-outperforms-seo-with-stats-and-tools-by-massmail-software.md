@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Showdown of 2011: How Email Marketing Outperforms SEO with Stats and Tools by Massmail Software"
-date: 2024-10-26T22:27:00.826Z
-updated: 2024-10-31T16:15:48.351Z
+date: 2024-11-02T18:49:23.100Z
+updated: 2024-11-06T19:17:36.433Z
 tags:
   - product
 categories:
@@ -22,53 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-### Mobile is multichannel
-
-In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
-
-_For example:_
-
-A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
-
-_Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
-
-### It’s engaging
-
-This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-### It’s cost effective
-
-Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
-
-_For example:_
-
-When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### It’s measurable
-
-Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
-
-Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-## Why SMS’ Value Skyrockets
-
-SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
-
-All of those benefits make SMS a highly effective way for a mobile marketing campaign ([SMS Marketing Campaign](https://tools.techidaily.com/massmailsoftware/products/)) to reach the mass market – far more than, say, smartphone applications, which have a rapidly growing yet still small addressable market.
-
-That is why in 2022, SMS will increasingly serve as the glue that cements multichannel campaigns. More campaigns that span print, direct mail, digital signage, and broadcast will use SMS to enable calls-to-action, e-coupons, and metrics such as the number of people who view an advertisement.
-
-One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware/products/), which helps local businesses and national chains to create and execute campaigns that feature shortcodes in direct mailers. After texting the shortcode, consumers receive an e-coupon on their phone that they redeem by showing to the merchant’s sales associate.
-
-Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
-
 <!-- affiliate ads begin -->
 <span id="1975658">
 					<video width="128" height="480" style="cursor:pointer"
@@ -82,20 +35,88 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+### Mobile is multichannel
+
+In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
+
+_For example:_
+
+A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
+
+_Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### It’s engaging
+
+This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### It’s cost effective
+
+Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
+
+_For example:_
+
+When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+### It’s measurable
+
+Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
+
+Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Why SMS’ Value Skyrockets
+
+SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
+
+All of those benefits make SMS a highly effective way for a mobile marketing campaign ([SMS Marketing Campaign](https://tools.techidaily.com/massmailsoftware/products/)) to reach the mass market – far more than, say, smartphone applications, which have a rapidly growing yet still small addressable market.
+
+That is why in 2022, SMS will increasingly serve as the glue that cements multichannel campaigns. More campaigns that span print, direct mail, digital signage, and broadcast will use SMS to enable calls-to-action, e-coupons, and metrics such as the number of people who view an advertisement.
+
+One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware/products/), which helps local businesses and national chains to create and execute campaigns that feature shortcodes in direct mailers. After texting the shortcode, consumers receive an e-coupon on their phone that they redeem by showing to the merchant’s sales associate.
+
+Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -121,23 +142,9 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -146,13 +153,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -173,20 +173,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-unlock-your-potential-transformative-video-edits-with-pro-tools-on-mac-for-2024/"><u>[New] Unlock Your Potential Transformative Video Edits with Pro Tools on Mac for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-google-meet-recording-on-iphonesandroids-for-2024/"><u>[Updated] Mastering Google Meet Recording on iPhones/Androids for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-how-to-brighten-a-dark-video-on-iphone-3-simple-methods/"><u>2024 Approved How to Brighten a Dark Video on Iphone| 3 Simple Methods</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/best-seo-companies-in-warsaw-your-ultimate-guide-with-seo-powersuite-solutions/"><u>Best SEO Companies in Warsaw: Your Ultimate Guide with SEO PowerSuite Solutions</u></a></li>
-<li><a href="https://win-special.techidaily.com/cirrocumulus/"><u>Cirrocumulus</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/effortless-guide-to-uploading-iphone-sms-to-gmail/"><u>Effortless Guide to Uploading iPhone SMS to Gmail</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/enhance-your-broadcasts-with-manycams-advanced-live-video-applications-and-digital-camera-alternatives/"><u>Enhance Your Broadcasts with ManyCam's Advanced Live Video Applications and Digital Camera Alternatives</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-lava-yuva-3-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-apple-iphone-8-plus-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the Apple iPhone 8 Plus Without Previous Owner?</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/mastering-seo-with-dofollow-anchor-texts-definition-usage-and-best-practices-for-enhanced-rankings/"><u>Mastering SEO with DoFollow Anchor Texts: Definition, Usage & Best Practices for Enhanced Rankings</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/money-laundering-in-virtual-worlds-the-continued-use-of-wow-and-second-life/"><u>Money Laundering in Virtual Worlds: The Continued Use of WoW & Second Life</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/professionele-wegwijzer-voor-samsung-datamigration-naar-windows-11-zeker-download-en-handleiding/"><u>Professionele Wegwijzer Voor Samsung-Datamigration Naar Windows 11: Zeker Download en Handleiding</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/revenue-insights-maximizing-profits-in-software-creation-versus-web-service-provision/"><u>Revenue Insights: Maximizing Profits in Software Creation versus Web Service Provision</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-modifying-languages-on-aomei-backup-software/"><u>Step-by-Step Guide: Modifying Languages on AOMEI Backup Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveiling-the-essentials-an-in-depth-review-of-lightroom-for-android/"><u>Unveiling the Essentials An In-Depth Review of Lightroom for Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-trimming-the-tremble-a-guide-to-smoother-gopro-videos/"><u>[Updated] Trimming the Tremble A Guide to Smoother GoPro Videos</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/adapting-email-strategies-the-impact-of-covid-19-on-marketing-campaigns-insights-from-mmsw-blog/"><u>Adapting Email Strategies: The Impact of COVID-19 on Marketing Campaigns - Insights From MMSW Blog</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/aktivierung-von-offline-dateien-in-windows-11-entdecken-sie-die-3-effizientesten-methoden/"><u>Aktivierung Von Offline-Dateien in Windows 11: Entdecken Sie Die 3 Effizientesten Methoden!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/auto-enhancing-shots-with-innovative-exposure-algorithms-for-2024/"><u>Auto-Enhancing Shots with Innovative Exposure Algorithms for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/back-track-technique-reverse-video-in-ios-devices-for-2024/"><u>Back-Track Technique Reverse Video in iOS Devices for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/begin-the-conversation-chatgpt-awaits/"><u>Begin the Conversation: ChatGPT Awaits</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/captivating-subject-lines-crafting-stunning-imagery-for-effective-email-marketing-using-massmail-tools/"><u>Captivating Subject Lines: Crafting Stunning Imagery for Effective Email Marketing Using MassMail Tools</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/cutting-down-on-returns-6-proven-strategies-with-massmails-solution/"><u>Cutting Down on Returns: 6 Proven Strategies with MassMail's Solution</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effective-business-messaging-21-example-texts-and-how-to-use-them-in-massmail-applications/"><u>Effective Business Messaging: 21 Example Texts and How to Use Them in Massmail Applications</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/elite-8-blu-ray-player-rankings-for-4k-quality/"><u>Elite 8 Blu-Ray Player Rankings for 4K Quality</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/essential-insights-on-utilizing-email-pre-headlines-with-massmail-toolset/"><u>Essential Insights on Utilizing Email Pre-Headlines with MassMail Toolset</u></a></li>
+<li><a href="https://article-tips.techidaily.com/guide-to-acquiring-free-picture-frame-videos-for-2024/"><u>Guide to Acquiring Free Picture Frame Videos for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-rise-and-reality-of-magix-paintbox/"><u>In 2024, The Rise and Reality of MAGIX Paintbox</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/recording-rivalry-obs-versus-for-2024/"><u>Recording Rivalry OBS Versus for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/resolving-mobile-ssl-certificate-issues-in-android-apps/"><u>Resolving Mobile SSL Certificate Issues in Android Apps</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/restoring-lost-images-on-your-fuji-camera-a-complete-guide/"><u>Restoring Lost Images on Your Fuji Camera: A Complete Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secure-social-media-comprehensive-guide-to-change-your-facebook-account-password/"><u>Secure Social Media: Comprehensive Guide to Change Your Facebook Account Password</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Relocate The Documents Folder Within Different Hardware Partitions Using Windows 11
-date: 2024-10-26T23:37:38.587Z
-updated: 2024-10-31T21:12:04.443Z
+date: 2024-11-05T18:50:08.063Z
+updated: 2024-11-06T17:21:51.464Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/302790bfdd6c387be2ce7104b2f0ec7045e52a09e036ffbf26a83ecf9455ec5e.jpg
@@ -44,25 +44,19 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
@@ -93,13 +87,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -111,13 +98,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -131,6 +111,13 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -140,10 +127,10 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -195,13 +182,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -218,24 +212,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-making-the-most-out-of-your-films-b-roll/"><u>[New] Making the Most Out of Your Film's B-Roll</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-practical-steps-to-enhance-videos-with-device-based-filtering-for-2024/"><u>[New] Practical Steps to Enhance Videos with Device-Based Filtering for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-mastering-stunning-photographic-mosaics/"><u>[Updated] Mastering Stunning Photographic Mosaics</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1728468114237-windows-7-8-10-11/"><u>「Windows 7, 8, 10, 11のダメージ/削除されたシステムファイルを修復して復元する手順」</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-pixlr-essentials-10-pro-tips-to-transform-your-images/"><u>2024 Approved Pixlr Essentials 10 Pro Tips to Transform Your Images</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-power-of-language-20-words-and-phrases-that-transform-your-marketing/"><u>2024 Approved The Power of Language 20 Words and Phrases That Transform Your Marketing</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/easy-to-follow-tutorial-how-to-exchange-data-with-your-ipad-using-a-usb-cable/"><u>Easy-to-Follow Tutorial: How to Exchange Data with Your iPad Using a USB Cable</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/harnessing-economic-signals-for-forex-success-discover-10-proven-strategies-and-techniques-using-mt4-copy-trader/"><u>Harnessing Economic Signals for Forex Success: Discover 10 Proven Strategies & Techniques Using MT4 Copy Trader</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-solutions-to-spy-on-apple-iphone-se-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>In 2024, Solutions to Spy on Apple iPhone SE with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/mastering-currency-fluctuations-leveraging-the-consumer-price-index-for-effective-forex-risk-management-on-mt4/"><u>Mastering Currency Fluctuations: Leveraging the Consumer Price Index for Effective Forex Risk Management on MT4</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/mastering-the-art-of-pogo-sticking-in-seo-definitions-insights-and-effective-tips-for-rank-boosting/"><u>Mastering the Art of Pogo Sticking in SEO - Definitions, Insights, and Effective Tips for Rank Boosting</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-make-a-lasting-impression-with-the-best-video-invitation-apps/"><u>New 2024 Approved Make a Lasting Impression with the Best Video Invitation Apps</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/steps-for-setting-up-a-vcenter-backup-job-status-notifier/"><u>Steps for Setting Up a vCenter Backup Job Status Notifier</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-editors-handbook-utilizing-strikethrough-and-callout-tools-for-2024/"><u>The Editor's Handbook Utilizing Strikethrough and Callout Tools for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/titre-methodes-rapides-pour-retrouver-les-fichiers-wps-sans-frais-guide-gratuit/"><u>Titre : Méthodes Rapides Pour Retrouver Les Fichiers WPS Sans Frais - Guide Gratuit.</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-a-non-functional-tablet-touch-display-with-these-8-key-strategies/"><u>Troubleshoot a Non-Functional Tablet Touch Display with These 8 Key Strategies</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/populyarnye-zameny-spyfu-poleznye-stati-i-instrumenty-seo-powersuite/"><u>Популярные Замены SpyFu - Полезные Статьи И Инструменты SEO PowerSuite</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/sila-seo-na-linux-v-2024-samye-effektivnye-utility-i-prilozheniya-dlya-prodvinutoj-optimizacii-sajta/"><u>Сила SEO На Linux В 2024: Самые Эффективные Утилиты И Приложения Для Продвинутой Оптимизации Сайта</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-a-comprehensive-walkthrough-of-adobe-presenter-recording/"><u>[New] In 2024, A Comprehensive Walkthrough of Adobe Presenter Recording</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/oggwav/"><u>自動無縫OGG到WAV格式转换 - 提高音频质量的移动优化工具</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/best-seo-firms-in-washington-dc-an-overview-of-top-performers-including-seo-powersuite/"><u>Best SEO Firms in Washington, DC: An Overview of Top Performers Including SEO PowerSuite</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-directory-of-pixel-tones-websites/"><u>Comprehensive Directory of Pixel Tones Websites</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-quick-refresh-of-critical-directories-in-ws11/"><u>Guide to Quick Refresh of Critical Directories in WS11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-quickly-resolve-dota-2-error-code-2024-change-rendering-api-issue/"><u>How to Quickly Resolve Dota 2 Error Code 2024: Change Rendering API Issue</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-infinix-smart-8-hd-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Infinix Smart 8 HD</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/mastering-the-art-of-email-drip-campaigns-with-essential-tips-from-massmail-platform/"><u>Mastering the Art of Email Drip Campaigns with Essential Tips From Massmail Platform</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quick-tips-for-transforming-pinterest-videos-into-mp3s-for-2024/"><u>Quick Tips for Transforming Pinterest Videos Into MP3s for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-5-seo-tools-for-boosting-your-b2b-niche-visibility/"><u>Top 5 SEO Tools for Boosting Your B2B Niche Visibility</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-rated-dvd-to-mp4-converters-of-2024-optimized-for-windows-11-users/"><u>Top Rated DVD to MP4 Converters of 2024: Optimized for Windows 11 Users</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-strategies-for-restoring-accidentally-deleted-partitions-in-windows-10-and-11/"><u>Top Strategies for Restoring Accidentally Deleted Partitions in Windows 10 & 11</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/troubleshooting-guide-locating-the-reset-this-pc-feature-on-windows-10/"><u>Troubleshooting Guide: Locating the 'Reset This PC' Feature on Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-downloading-and-installing-msi-b350-tomahawks-latest-graphics-card-drivers-for-pcs-running-windows/"><u>Ultimate Guide to Downloading and Installing MSI B350 Tomahawk's Latest Graphics Card Drivers for PCs Running Windows</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/understanding-content-type-headers-a-comprehensive-guide-with-essential-seo-strategies/"><u>Understanding Content Type Headers - A Comprehensive Guide with Essential SEO Strategies</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-solutions-for-common-final-cut-pro-x-crash-problems/"><u>Updated 2024 Approved Solutions for Common Final Cut Pro X Crash Problems</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728503331702-wd/"><u>WDハードドライブ専用に作られた完璧なコピーソフトウェア</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/issledovanie-pervoklassnyh-agentstv-po-seo-v-omane-effektivnoe-poyavlenie-interneta-s-ispolzovaniem-seo-powersuite/"><u>Исследование Первоклассных Агентств По SEO В Омане - Эффективное Появление Интернета С Использованием SEO-PowerSuite</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/najdite-luchshie-instrumenty-dlya-seo-i-reklamy-usovershenstvovat-onlajn-prisutstvie-vashego-predpriyatiya-s-opytnymi-agentstvami-iz-rima-italiya/"><u>Найдите Лучшие Инструменты Для SEO И Рекламы: Усовершенствовать Онлайн-Присутствие Вашего Предприятия С Опытными Агентствами Из Рима, Италия!</u></a></li>
 </ul></div>
 

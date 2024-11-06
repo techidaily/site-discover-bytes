@@ -1,7 +1,7 @@
 ---
 title: 解決方法：如何轉移光盤上的錯誤系統保存分塊
-date: 2024-10-30T21:15:32.995Z
-updated: 2024-10-31T17:14:37.399Z
+date: 2024-10-30T17:41:40.848Z
+updated: 2024-11-06T17:32:17.346Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b69670867cf0671d294f1cd7b.jpg
@@ -43,10 +43,10 @@ Adding ringtones to iPhone 7 may be difficult for some people. Although iPhone c
 So how to add ringtones to iPhone 7? Keep reading on this tutorial, we will show you the instructions to add or set ringtones on iPhone 7/iPhone 7 Plus.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 1\. How to Add Ringtones to iPhone 7 with iTunes**
@@ -63,11 +63,25 @@ iTunes can be a good way to add ringtones to an iPhone. It can help you to custo
 
 [![](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/intercept-ringtone.png)](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/intercept-ringtone.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4\. Right-click the same song and select **Create AAC Version**.
 
 5\. Right-click the song segment and choose **Show in Windows Explorer**. Then change the extension from “.m4a” to “.m4r.”.
 
 6\. Copy the file & delete the old one.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Part 2\. Add custom ringtones to iPhone 7
 
@@ -78,6 +92,13 @@ iTunes can be a good way to add ringtones to an iPhone. It can help you to custo
 3\. Click the device icon and choose **Summary**. Check the option **Manually manage music and videos**. Click **Apply** to confirm.
 
 4\. Choose **Tones** \> **Sync** **Tones** to your iPhone 7.[![](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/drag-and-drop-the-ringtone-to-iphone.png)](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/drag-and-drop-the-ringtone-to-iphone.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **? Tips:** 
 * If the song you liked is not in the iTunes library, you can click **File** \> **Add Folder to Library** \> browse your computer and select the song you want to set as a ringtone to iTunes library.
@@ -90,13 +111,6 @@ Sometimes the song which you want to set as a ringtone stored on iPhone 7, you c
 1\. Open GarageBand on iPhone 7 > Click “+” in the top right corner > Tap **TRACKS >** Scroll down to choose **AUDIO RECORDER** interface.
 
 [![Add Ringtones With Garageband](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/phone/screenshot/en/others/iphone/add-ringtones-with-garageband.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2\. Click “+” in the top right corner > Choose **Section A** in Song Sections > Turn off **Automatic** option > Tap the arrow to change the number to 12 > Tap **Done**.
 
@@ -115,6 +129,13 @@ Sometimes the song which you want to set as a ringtone stored on iPhone 7, you c
 
 [![](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/set-a-song-as-a-ringtone-on-iphone-4.png)](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/set-a-song-as-a-ringtone-on-iphone-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **? Tips:** 
 * **Standard Ringtone**: Set the customized ringtone as standard ringtone.
 * **Standard Text Tone**: Use the ringtone as your standard text or notifications tone.
@@ -131,10 +152,10 @@ What will be the easiest way to add ringtones to your iPhone, that's the profess
 ![yes](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) **Wide compatibility** lets AOMEI FoneBackup can support various iOS devices and versions including the latest ones.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now go for it now and discover more!
@@ -147,19 +168,6 @@ Step 1\. Launch AOMEI FoneBackup on Windows PC > Connect your iPhone to the comp
 
 ![transfer from pc to iphone](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2\. Click the **Ringtones** option > Drag and drop the files you need to the box.
 
 ![select ringtones](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
@@ -168,30 +176,9 @@ Step 3\. Confirm the ringtones you need > Click **Start Transfer** to begin the 
 
 ![transfer ringtones from pc to iphone](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **How to Set Custom Ringtone on iPhone 7 after the Process**
 
 After you have put the newly created ringtones on your iPhone 7(Plus) with iTunes, GarageBand or AOMEI FoneBackup, you can now change your iPhone ringtone by setting a custom one in Settings. Go to **Settings** on your iPhone 7 > **Sounds & Haptics** \> **Ringtone** \> Select the ringtone you just added to your iPhone.[![Add Ringtones To Iphone Settings](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/phone/screenshot/en/others/iphone/add-ringtones-to-iphone-settings.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -206,13 +193,6 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Dylan](https://www.ubackup.com/assets/images/author/dylan.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Dylan](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -242,6 +222,13 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Free Get FoneBackup Now
 
 One-Stop iPhone Data Backup and Transfer Solution.
@@ -251,6 +238,13 @@ One-Stop iPhone Data Backup and Transfer Solution.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
 ![](https://www.ubackup.com/resource/images/ub-fb-theme/article-fb-img-dibu@1x.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -267,22 +261,22 @@ One-Stop iPhone Data Backup and Transfer Solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevating-channel-excellence-with-ideas-and-vision-for-2024/"><u>[New] Elevating Channel Excellence with Ideas & Vision for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-nine-powerful-microphone-capture-options-decoded-for-2024/"><u>[New] Nine Powerful Microphone Capture Options Decoded for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unleashing-auditory-brilliance-without-a-mic-in-sight/"><u>[Updated] Unleashing Auditory Brilliance without a Mic in Sight</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-unraveling-successs-secrets-how-to-amass-more-subscribers-on-youtube/"><u>2024 Approved Unraveling Success's Secrets How to Amass More Subscribers on YouTube</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/a-comprehensive-tutorial-on-creating-recovery-environments-in-aomei-builder-pro/"><u>A Comprehensive Tutorial on Creating Recovery Environments in AOMEI Builder Pro</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/best-marketing-software-top-5-marketmuse-competitors-improving-your-seo-strategy/"><u>Best Marketing Software: Top 5 MarketMuse Competitors Improving Your SEO Strategy</u></a></li>
-<li><a href="https://article-posts.techidaily.com/comparing-apples-m1-pro-and-m1-max-key-distinctions-for-2024/"><u>Comparing Apple's M1 Pro and M1 Max Key Distinctions for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/lenovo-secure-boot-deaktivierung-eine-schritt-fur-schritt-anleitung/"><u>Lenovo Secure Boot Deaktivierung: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/recover-lost-data-how-to-extract-individual-files-from-a-backup-image-on-windowsmac/"><u>Recover Lost Data: How to Extract Individual Files From a Backup Image on Windows/Mac</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/revealing-hidden-applications-a-step-by-step-guide-for-iphones/"><u>Revealing Hidden Applications: A Step-by-Step Guide for iPhones</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-easy-way-to-share-screens-with-your-lg-smart-tv/"><u>The Easy Way to Share Screens with Your LG Smart TV</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/top-5-critical-errors-in-multi-level-marketing-insights-from-massmail-software/"><u>Top 5 Critical Errors in Multi-Level Marketing: Insights From MassMail Software</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/ultimate-guide-to-ezine-promotion-strategies-discover-the-secrets-of-2009-with-complete-ezine-publishing-manual-and-massmail-app/"><u>Ultimate Guide to Ezine Promotion Strategies: Discover the Secrets of 2009 with Complete Ezine Publishing Manual & MassMail App</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/uncomplicated-video-logging-tool-w10/"><u>Uncomplicated Video Logging Tool W10</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/unlocking-profit-potential-ultimate-seo-strategies-and-affiliate-promo-codes/"><u>Unlocking Profit Potential: Ultimate SEO Strategies & Affiliate Promo Codes</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-unveiling-the-most-accessible-and-affordable-browser-based-daw-tools-for-2024/"><u>Updated Unveiling the Most Accessible and Affordable Browser-Based DAW Tools for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/luchshie-kompanii-po-seo-v-sietle-uluchshite-svoe-prisutstvie-v-internete-s-pomoshyu-seo-powersuite/"><u>Лучшие Компании По SEO В Сиэтле: Улучшите Свое Присутствие В Интернете С Помощью SEO PowerSuite</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-maximizing-zoom-experience-on-windows-pcs-with-win10/"><u>[New] In 2024, Maximizing Zoom Experience on Windows PCs with Win10</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-perfect-recording-companion-10-best-on-spotify-platforms/"><u>[New] In 2024, Perfect Recording Companion 10 Best on Spotify Platforms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-nuances-of-nonlinear-audio-editing-in-audacity/"><u>[New] Navigating the Nuances of Nonlinear Audio Editing in Audacity</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-choosing-between-independent-or-mnc-status/"><u>[Updated] The Art of Choosing Between Independent or MNC Status</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-ps5xbox-series-x-elite-console-companion-screens/"><u>2024 Approved PS5/Xbox Series X Elite Console Companion Screens</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/comment-resoudre-les-difficultes-de-demarrage-avec-windows-11-guide-pour-redemarrer-correctement-et-selectionner-lappareil-de-demarrage-adequat/"><u>Comment Résoudre Les Difficultés De Démarrage Avec Windows 11 : Guide Pour Redémarrer Correctement Et Sélectionner L'appareil De Démarrage Adéquat</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/comprendre-les-sublignes-et-leur-utilite-comparee-un-guide-approfondi/"><u>Comprendre Les Sublignes Et Leur Utilité Comparée : Un Guide Approfondi</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-an-epic-unboxing-journey-for-2024/"><u>Crafting an Epic Unboxing Journey for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/exploring-the-new-frontier-of-email-metrics-with-massmail-insights-on-modern-features-and-data-trends/"><u>Exploring the New Frontier of Email Metrics with Massmail: Insights on Modern Features and Data Trends</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/humor-as-a-powerful-tool-in-viral-advertising-2009-how-massmail-can-make-your-content-go-viral/"><u>Humor as a Powerful Tool in Viral Advertising (2009): How Massmail Can Make Your Content Go Viral</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-90-pro-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor 90 Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-guide-to-enhanced-video-clarity-on-google-meet-for-2024/"><u>In-Depth Guide to Enhanced Video Clarity on Google Meet for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/leading-seo-firms-in-la-amplify-your-digital-footprint-with-expert-strategies-by-seo-maestros/"><u>Leading SEO Firms in LA: Amplify Your Digital Footprint with Expert Strategies by SEO Maestros</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/overcoming-vmware-hosting-challenges-diagnosing-and-repairing-the-missing-master-ha-agent-in-vcenter/"><u>Overcoming VMware Hosting Challenges: Diagnosing and Repairing the 'Missing Master HA Agent' In vCenter</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-troubleshooting-tips-for-constant-outriders-game-crashes/"><u>Quick Troubleshooting Tips for Constant Outriders Game Crashes</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/understanding-customer-impact-on-business-longevity-insights-with-massmail-software/"><u>Understanding Customer Impact on Business Longevity: Insights with MassMail Software</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/understanding-search-engine-results-and-optimization-techniques-with-seopowersuite/"><u>Understanding Search Engine Results & Optimization Techniques with SEOPowerSuite</u></a></li>
 </ul></div>
 

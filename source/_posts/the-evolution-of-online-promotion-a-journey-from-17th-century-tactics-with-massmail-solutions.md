@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Online Promotion: A Journey From 17Th Century Tactics with MassMail Solutions"
-date: 2024-10-27T16:24:10.998Z
-updated: 2024-10-31T23:12:06.445Z
+date: 2024-10-31T16:15:50.730Z
+updated: 2024-11-06T19:24:40.389Z
 tags:
   - product
 categories:
@@ -22,6 +22,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -31,6 +38,13 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -62,43 +76,30 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -110,15 +111,22 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -132,13 +140,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -146,13 +147,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -173,20 +167,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-pop-culture-sounds-to-your-ringtone-a-compreeved-guide/"><u>[New] From Pop Culture Sounds to Your Ringtone A Compreeved Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-crafting-superior-recordings-a-guide-to-audacity/"><u>[Updated] Crafting Superior Recordings A Guide to Audacity</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-firefox-pip-simplified-for-the-everyday-user/"><u>2024 Approved Firefox PIP Simplified for the Everyday User</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/comment-modifier-des-musique-partitions-gratuitement/"><u>Comment Modifier Des Musique Partitions Gratuitement</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/complete-tutorial-on-retrieving-photos-from-your-olympus-digital-device/"><u>Complete Tutorial on Retrieving Photos From Your Olympus Digital Device</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/discover-the-power-of-massmail-for-indian-affiliates-at-the-exclusive-india-affiliate-summit-conference/"><u>Discover the Power of MassMail for Indian Affiliates at the Exclusive India Affiliate Summit Conference</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-oppo-find-x6-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Oppo Find X6 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/mastering-customer-value-metrics-how-to-optimize-your-cpo-and-seo-techniques-for-better-conversions/"><u>Mastering Customer Value Metrics: How to Optimize Your CPO and SEO Techniques for Better Conversions</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/overcoming-java-ransomware-effective-decryption-tactics-with-malwarefox/"><u>Overcoming Java Ransomware: Effective Decryption Tactics with MalwareFox</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/personalized-branding-made-easy-use-free-logo-templates-and-edit/"><u>Personalized Branding Made Easy Use Free Logo Templates and Edit</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-35plus-unbeatable-prime-day-2024-tablet-offers-last-chance-tech-insights/"><u>Top 35+ Unbeatable Prime Day 2024 Tablet Offers - Last Chance! | Tech Insights</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/ultimate-screen-companionship-the-right-cms-guidebook/"><u>Ultimate Screen Companionship The Right CMS Guidebook</u></a></li>
-<li><a href="https://app-tips.techidaily.com/zdnets-recent-study-a-staggering-25-of-tech-workers-may-soon-seek-new-employment-opportunities/"><u>ZDNet's Recent Study: A Staggering 25% of Tech Workers May Soon Seek New Employment Opportunities</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/sovety-po-vyboru-prevoshodnyh-internet-marketingovyh-agentstv-seo-ekspertiza-v-kanade-dlya-uspeshnogo-obsheniya-v-seti/"><u>Советы По Выбору Превосходных Интернет Маркетинговых Агентств: SEO Экспертиза В Канаде Для Успешного Общения В Сети</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-srgb-versus-rgb-a-detailed-comparison-for-professionals/"><u>[New] In 2024, Srgb Versus Rgb A Detailed Comparison for Professionals</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-total-gaze-coverage-camera-analysis/"><u>[New] Total Gaze Coverage Camera Analysis</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-tecno-camon-20-pro-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Tecno Camon 20 Pro 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effective-mass-sending-solutions-for-academic-institutions-a-deep-dive-by-mmsw-blog-discover-massmail-software-features/"><u>Effective Mass Sending Solutions for Academic Institutions: A Deep Dive by MMSW Blog | Discover Massmail Software Features</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/gunstigste-kostenlose-dateisynchronisation-tools-als-ersatz-fur-goodsync-unter-windows-betriebssystemen-781011/"><u>Günstigste Kostenlose Dateisynchronisation-Tools Als Ersatz Für GoodSync Unter Windows-Betriebssystemen (7/8/10/11)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-speech-recognition-for-silent-input/"><u>In 2024, Optimal Speech Recognition for Silent Input</u></a></li>
+<li><a href="https://facebook.techidaily.com/infiltrating-the-meta-command-center-for-fbinsta-oversight/"><u>Infiltrating the Meta Command Center for FB/Insta Oversight</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/mastering-device-synergy-unifying-desktops-with-laptops-in-windows-11-real-world-examples/"><u>Mastering Device Synergy: Unifying Desktops with Laptops in Windows 11 - Real-World Examples</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/quick-and-free-transform-your-mov-files-into-wmv-format-with-our-simple-converter/"><u>Quick & Free: Transform Your MOV Files Into WMV Format with Our Simple Converter</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/seeking-the-perfect-match-for-samsung-gear-360-find-it-here-for-2024/"><u>Seeking the Perfect Match for Samsung Gear 360 - Find It Here for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-to-retrieving-lost-iphone-notes-on-models-8-11-and-xs-series/"><u>Step-by-Step Guide to Retrieving Lost iPhone Notes on Models 8, 11, and XS Series</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-audio-transformation-made-simple-an-instructional-guide-on-altering-speed-and-pitch-through-digital-platforms/"><u>Updated In 2024, Audio Transformation Made Simple An Instructional Guide on Altering Speed & Pitch Through Digital Platforms</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728505155133-windows-11/"><u>Windows 11でマイドキュメントを再設定して新ドライブに移動する手順集</u></a></li>
 </ul></div>
 
