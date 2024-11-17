@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Online Promotion: A Journey From 17Th Century Tactics with MassMail Solutions"
-date: 2024-10-31T16:15:50.730Z
-updated: 2024-11-06T19:24:40.389Z
+date: 2024-11-13T23:40:24.504Z
+updated: 2024-11-16T21:57:03.679Z
 tags:
   - product
 categories:
@@ -23,10 +23,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -39,13 +39,6 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
@@ -57,6 +50,13 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -81,26 +81,32 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -110,22 +116,15 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -148,6 +147,13 @@ Written by:
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Emily Bronte
 
  Back to blog
@@ -167,18 +173,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-srgb-versus-rgb-a-detailed-comparison-for-professionals/"><u>[New] In 2024, Srgb Versus Rgb A Detailed Comparison for Professionals</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-total-gaze-coverage-camera-analysis/"><u>[New] Total Gaze Coverage Camera Analysis</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-tecno-camon-20-pro-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Tecno Camon 20 Pro 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/effective-mass-sending-solutions-for-academic-institutions-a-deep-dive-by-mmsw-blog-discover-massmail-software-features/"><u>Effective Mass Sending Solutions for Academic Institutions: A Deep Dive by MMSW Blog | Discover Massmail Software Features</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/gunstigste-kostenlose-dateisynchronisation-tools-als-ersatz-fur-goodsync-unter-windows-betriebssystemen-781011/"><u>Günstigste Kostenlose Dateisynchronisation-Tools Als Ersatz Für GoodSync Unter Windows-Betriebssystemen (7/8/10/11)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-speech-recognition-for-silent-input/"><u>In 2024, Optimal Speech Recognition for Silent Input</u></a></li>
-<li><a href="https://facebook.techidaily.com/infiltrating-the-meta-command-center-for-fbinsta-oversight/"><u>Infiltrating the Meta Command Center for FB/Insta Oversight</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/mastering-device-synergy-unifying-desktops-with-laptops-in-windows-11-real-world-examples/"><u>Mastering Device Synergy: Unifying Desktops with Laptops in Windows 11 - Real-World Examples</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/quick-and-free-transform-your-mov-files-into-wmv-format-with-our-simple-converter/"><u>Quick & Free: Transform Your MOV Files Into WMV Format with Our Simple Converter</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/seeking-the-perfect-match-for-samsung-gear-360-find-it-here-for-2024/"><u>Seeking the Perfect Match for Samsung Gear 360 - Find It Here for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-to-retrieving-lost-iphone-notes-on-models-8-11-and-xs-series/"><u>Step-by-Step Guide to Retrieving Lost iPhone Notes on Models 8, 11, and XS Series</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-audio-transformation-made-simple-an-instructional-guide-on-altering-speed-and-pitch-through-digital-platforms/"><u>Updated In 2024, Audio Transformation Made Simple An Instructional Guide on Altering Speed & Pitch Through Digital Platforms</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1728505155133-windows-11/"><u>Windows 11でマイドキュメントを再設定して新ドライブに移動する手順集</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-pixiz-guide-to-blending-photography-and-motion-for-2024/"><u>[New] The Pixiz Guide to Blending Photography and Motion for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-rated-software-picks-audio-adjustment-for-virtual-personalities/"><u>[New] Top-Rated Software Picks Audio Adjustment for Virtual Personalities</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-maximizing-shot-stability-on-drones-a-comprehensible-guide/"><u>[Updated] Maximizing Shot Stability on Drones A Comprehensible Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-facial-movements-using-blur-effects-in-picsart/"><u>2024 Approved The Art of Facial Movements Using Blur Effects in Picsart</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/comment-synchroniser-des-donnees-entre-deux-ordinateurs-via-le-meme-reseau-localise/"><u>Comment Synchroniser Des Données Entre Deux Ordinateurs Via Le Même Reseau Localisé</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effizient-synchronisieren-von-dropbox-zwei-strategien-fur-die-externe-datenspeicherung/"><u>Effizient Synchronisieren Von Dropbox - Zwei Strategien Für Die Externe Datenspeicherung</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effizientes-transferieren-von-bilder-aus-der-icloud-zu-alternativen-speicherlosungen-einfache-schritte-fur-nutzer/"><u>Effizientes Transferieren Von Bilder Aus Der iCloud Zu Alternativen Speicherlösungen: Einfache Schritte Für Nutzer</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/guia-paso-a-paso-para-recuperar-y-mantener-los-datos-al-mover-particiones-en-windows-11/"><u>Guía Paso a Paso Para Recuperar Y Mantener Los Datos Al Mover Particiones en Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-7-plus-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 7 Plus to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Ways to Change Spotify Location On Your Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/quick-solutions-resolving-iphone-recovery-mode-issues-on-models-13-12-11-x-and-n/"><u>Quick Solutions: Resolving iPhone Recovery Mode Issues on Models 13, 12, 11, X & N</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-class-not-registering-on-windows-11/"><u>Resolved: How to Fix Class Not Registering on Windows 11</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-file-transfers-during-safe-mode-on-windows-11-8-and-7/"><u>Step-by-Step Guide: File Transfers During Safe Mode on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-11-rdp-fails-internal-error-resolution/"><u>Tackling Windows 11 RDP Fails: Internal Error Resolution</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/times-up-rapid-tiktok-video-extraction-techniques/"><u>Time's Up Rapid TikTok Video Extraction Techniques</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/tutorial-menjelaskan-proses-mendampingi-pemulihan-gambar-dalam-windows-1011/"><u>Tutorial Menjelaskan Proses Mendampingi Pemulihan Gambar Dalam Windows 10/11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-pro-level-voice-overs-in-no-time-final-cut-pro-expert-advice/"><u>Updated Pro-Level Voice Overs in No Time Final Cut Pro Expert Advice</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/windows-pc42024/"><u>Windows PCに失われたファイルの回復手段：4つ択(2024最新メソッド)</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/iuodkeocveocsplusodspluswbnuwplusqeawueazltog44k344k544og44og44oj44op44kk44ow44gu44k144kk44k65yi26zmq44gr44gk44ge44gmig/"><u>パソコン回復方法: システムドライブのサイズ制限について</u></a></li>
 </ul></div>
 

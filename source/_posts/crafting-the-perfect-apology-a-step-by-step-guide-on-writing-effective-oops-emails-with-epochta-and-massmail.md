@@ -1,7 +1,7 @@
 ---
 title: "Crafting the Perfect Apology: A Step-by-Step Guide on Writing Effective 'Oops' Emails with ePochta & Massmail"
-date: 2024-11-01T18:29:53.799Z
-updated: 2024-11-06T18:09:50.697Z
+date: 2024-11-13T16:18:47.176Z
+updated: 2024-11-16T21:56:29.374Z
 tags:
   - product
 categories:
@@ -22,13 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -42,6 +35,13 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -57,13 +57,6 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -76,9 +69,29 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -92,16 +105,16 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -123,22 +136,15 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -167,21 +173,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/an-a-brief-subscribe-boost-your-content-viewing-in-2024/"><u>[New] Can a Brief Subscribe Boost Your Content Viewing, In 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-the-best-in-storytelling-eight-film-genre-showcase/"><u>[New] In 2024, The Best in Storytelling Eight Film Genre Showcase</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-smooth-panoramas-state-of-the-art-tracker-tech/"><u>[Updated] Smooth Panoramas State-of-the-Art Tracker Tech</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-venture-into-virtual-worlds-a-close-look-at-lgs-360-tech/"><u>2024 Approved Venture Into Virtual Worlds A Close Look at LG's 360 Tech</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-nokia-g42-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/come-ripristinare-i-tuoi-file-cancellati-con-testdisk-in-sistemi-operativi-windows/"><u>Come Ripristinare I Tuoi File Cancellati Con TestDisk in Sistemi Operativi Windows</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/comment-proteger-en-toute-securite-votre-partition-efi-avec-ces-deux-solutions-gratuites-et-faciles-a-utiliser/"><u>Comment Protéger en Toute Sécurité Votre Partition EFI Avec Ces Deux Solutions Gratuites Et Faciles À Utiliser !</u></a></li>
-<li><a href="https://windows11.techidaily.com/discover-versatility-top-10-innovative-ways-to-use-powertoys-tools/"><u>Discover Versatility: Top 10 Innovative Ways to Use PowerToys Tools</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-drivers-for-hp-officejet-pro-8720-windows-compatible/"><u>Download Updated Drivers for HP Officejet Pro 8720 - Windows Compatible</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/effective-remedies-for-unrecognized-drives-on-windows-1011-a-step-by-step-guide/"><u>Effective Remedies for Unrecognized Drives on Windows 10/11 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/effiziente-strategien-zur-datenubereinstimmung-wie-man-zwei-ordner-synchronisiert/"><u>Effiziente Strategien Zur Datenübereinstimmung: Wie Man Zwei Ordner Synchronisiert</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/guida-rapida-e-facile-al-clonazione-di-windows-11-con-istruzioni-video-dettagliate/"><u>Guida Rapida E Facile Al Clonazione Di Windows 11 Con Istruzioni Video Dettagliate</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-installing-new-display-drivers-for-your-toshiba-satellite-under-windows-os/"><u>Guide: Installing New Display Drivers for Your Toshiba Satellite Under Windows OS</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/locating-restored-excel-documents-on-a-windows-11-system-a-comprehensive-guide/"><u>Locating Restored Excel Documents on a Windows 11 System: A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/troubleshooting-guide-restore-bootability-on-dell-venue-with-windows-11-pro/"><u>Troubleshooting Guide: Restore Bootability on Dell Venue With Windows 11 Pro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-overwatch-2-pc-game-crashes/"><u>Troubleshooting Steps: Resolving Overwatch 2 PC Game Crashes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-honored-hubs-best-websites-to-download-snapalert-beats/"><u>2024 Approved Honored Hubs Best Websites to Download SnapAlert Beats</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728509614035-pcwindows-1011/"><u>日々のPCバックアップ手順：Windows 10/11で効果的な保存方法</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/aocs-newest-marvel-the-agon-pro-ag456uczd-a-gamers-review-of-the-spectacular-45-ultrawide-extreme-curve-oled-monitor-with-superior-speed-and-design-innovati56/"><u>AOC's Newest Marvel: The Agon Pro AG456UCZD - A Gamer's Review of the Spectacular 45 UltraWide, Extreme Curve OLED Monitor with Superior Speed & Design Innovation</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/back-to-basics-boosting-performance-with-a-quick-factory-reset-on-windows-10-systems/"><u>Back to Basics: Boosting Performance with a Quick Factory Reset on Windows 10 Systems</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/clearing-up-storage-almost-full-error-for-iphones-running-ios-17-or-18/"><u>Clearing Up 'Storage Almost Full' Error for iPhones Running iOS 17 or 18</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/come-esegui-il-backup-dei-tuoi-dati-su-hard-disk-esterno-con-windows-10/"><u>Come Esegui Il Backup Dei Tuoi Dati Su Hard Disk Esterno Con Windows 10</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/effortless-transfer-of-images-to-ios-device-for-2024/"><u>Effortless Transfer of Images to iOS Device for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/free-software-fur-die-erstellung-eines-kompletten-hdd-klons-mit-einem-bootfahigen-usb-stick/"><u>FREE Software Für Die Erstellung Eines Kompletten HDD-Klons Mit Einem Bootfähigen USB-Stick</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-most-recent-update-of-magicard-rio-pro-drive-optimized-for-windows-11-81-and-7-users/"><u>Get the Most Recent Update of Magicard Rio Pro Drive: Optimized for Windows 11, 8.1 & 7 Users</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719147503681-is-your-phone-a-covert-marketer-in-disguise-truth-exposed/"><u>Is Your Phone a Covert Marketer in Disguise? Truth Exposed</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/ripristino-rapido-di-immagini-cancellate-su-fotocamere-sony-2-metodi-efficaci/"><u>Ripristino Rapido Di Immagini Cancellate Su Fotocamere Sony: 2 Metodi Efficaci</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/say-goodbye-to-bulky-batteries-discover-the-sleek-speedy-magsafe-power-pack-for-a-faster-charging-experience/"><u>Say Goodbye to Bulky Batteries: Discover the Sleek, Speedy MagSafe Power Pack for a Faster Charging Experience</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/section-3c-qandas/"><u>Section 3C: Q&As</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/selecting-top-tablet-computers-by-cpu-power-and-capabilities/"><u>Selecting Top Tablet Computers by CPU Power and Capabilities</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/solutions-faciles-et-rapides-pour-resoudre-erreur-hard-disk-code-303-guide-complet/"><u>Solutions Faciles Et Rapides Pour Résoudre Erreur Hard Disk (Code 303) - Guide Complet</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-newest-online-threat-alerts-navigating-the-dangers-of-2021s-cybersecurity-landscape/"><u>Top Newest Online Threat Alerts: Navigating the Dangers of 2021'S Cybersecurity Landscape</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/troubleshoot-and-repair-the-unbootable-windows-11-system-with-these-15-essential-tips/"><u>Troubleshoot and Repair the Unbootable Windows 11 System with These 15 Essential Tips</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721267950434-uncover-how-to-salvage-images-in-windows-using-the-powerful-stellar-fixer-app/"><u>Uncover How to Salvage Images in Windows Using the Powerful Stellar Fixer App</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-soundless-screen-experience-a-walkthrough-to-remove-loud-elements-from-multiple-video-formats-mp4mkvavimov/"><u>Updated In 2024, Soundless Screen Experience A Walkthrough to Remove Loud Elements From Multiple Video Formats (MP4/MKV/AVI/MOV)</u></a></li>
 </ul></div>
 

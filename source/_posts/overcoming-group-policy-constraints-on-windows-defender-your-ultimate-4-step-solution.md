@@ -1,7 +1,7 @@
 ---
 title: Overcoming Group Policy Constraints on Windows Defender – Your Ultimate 4-Step Solution
-date: 2024-11-02T18:56:59.017Z
-updated: 2024-11-06T18:09:18.503Z
+date: 2024-11-10T19:36:42.924Z
+updated: 2024-11-16T19:21:52.820Z
 tags:
   - product
   - antivirus
@@ -53,10 +53,16 @@ There could be a number of reasons for this error to happen. Here are the most c
 * Some unauthorized changes in the Group Policies can also lead to the error. The changes can be made by mistake or intentionally too.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to fix “Windows Defender is Turned off by Group Policy”?
@@ -71,16 +77,16 @@ There could be a number of reasons for this error to happen. Here are the most c
 4. In order to enable the Microsoft Defender, click on the **Disabled** bullet.![Enable-MS-Defender](https://www.malwarefox.com/wp-content/uploads/2020/10/Enable-MS-Defender.png)
 5. Click **Apply** and **OK** to finish the configuration.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Restart the system to enable the settings.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Using Registry Editor**
 
@@ -88,20 +94,26 @@ There could be a number of reasons for this error to happen. Here are the most c
 2. Navigate to or copy & paste this path to reach the Windows Defender folder: **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows Defender**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Right-click on the **DisableRealTimeMonitoring** key and Delete it.![Delete DisableRealtimeMonitoring key](https://www.malwarefox.com/wp-content/uploads/2020/10/Delete-DisableRealtimeMonitoring-key.png)
 4. Exit from the Registry Editor and reboot your system to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -115,38 +127,32 @@ There could be a number of reasons for this error to happen. Here are the most c
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Using Windows Settings**
 
 1. Right-click on the windows start icon and choose Settings from the list.![Settings](https://www.malwarefox.com/wp-content/uploads/2020/10/Settings.png)
 2. Select **Update & Security** settings.![Update and Security](https://www.malwarefox.com/wp-content/uploads/2020/10/Update-and-Security.png)
 3. From the left-pane choose **Windows Security**![launch windows security](https://www.malwarefox.com/wp-content/uploads/2020/10/launch-windows-security.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Next, click on **Virus & threat protection**.![Choose virus & threat protection](https://www.malwarefox.com/wp-content/uploads/2020/10/Choose-virus-threat-protection.png)
 5. Navigate to Virus & threat protection settings and click on **Manage settings**.![manage V&T settings](https://www.malwarefox.com/wp-content/uploads/2020/10/manage-VT-settings.png)
 
 6. Toggle the switch to turn on the Microsoft Defender **real-time protection**.![turn On the Real Time protection](https://www.malwarefox.com/wp-content/uploads/2020/10/turn-On-the-RT-protection.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Disable the Third-Party Security App**
 
@@ -169,16 +175,10 @@ Windows Defender on your system can be turned off because of the various reasons
 To edit the Windows Defender settings in the group policy editor, you can follow this path: **Local Computer Policy > Administrative Templates > Windows Components > Windows Defender Antivirus.** In the latest Windows version, the name of the Windows Defender is changed to **Microsoft Defender.** On those systems, the path to be followed is: **Local Computer Policy > Administrative Templates > Windows Components > Microsoft Defender Antivirus**.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -206,18 +206,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-2023-assessment-of-apeaksofts-pioneering-screens-recording/"><u>[New] 2024 Approved The 2023 Assessment of Apeaksoft's Pioneering Screens Recording</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-efficiently-archive-your-content-vimeo-record-basics/"><u>2024 Approved Efficiently Archive Your Content Vimeo Record Basics</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/effective-strategies-when-atomic-hunter-gathers-limited-emails-using-massmail-software-solutions/"><u>Effective Strategies When Atomic Hunter Gathers Limited Emails: Using MassMail Software Solutions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-motorola-moto-g24-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Motorola Moto G24</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-spark-10-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Spark 10 5GFRP Lock</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/mastering-device-synergy-unifying-desktops-with-laptops-in-windows-11-real-world-examples/"><u>Mastering Device Synergy: Unifying Desktops with Laptops in Windows 11 - Real-World Examples</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-samsung-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Samsung Galaxy XCover 6 Pro Tactical Edition.</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/mlining-shoots-with-smart-camera-tech-choices-for-2024/"><u>Streamlining Shoots with Smart Camera Tech Choices for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swift-resolution-guide-for-horizontal-text-disruption-on-devices/"><u>Swift Resolution Guide for Horizontal Text Disruption on Devices</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/understanding-black-hat-seo-definitions-methods-and-potential-pitfalls/"><u>Understanding Black Hat SEO: Definitions, Methods, and Potential Pitfalls</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/understanding-dwell-time-in-seo-why-it-matters-and-how-to-boost-yours-expert-guide/"><u>Understanding Dwell Time in SEO: Why It Matters & How to Boost Yours | Expert Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-divide-superior-ai-versus-simpler-ai-techniques-explained/"><u>Understanding the Divide: Superior AI Versus Simpler AI Techniques Explained</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/unlocking-the-mystery-of-keywords-comprehensive-guide-and-proven-strategies-for-optimal-seo-performance/"><u>Unlocking the Mystery of Keywords: Comprehensive Guide and Proven Strategies for Optimal SEO Performance</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-essentials-of-creating-and-curating-instagram-highlights/"><u>[Updated] The Essentials of Creating and Curating Instagram Highlights</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-quintessential-guide-to-music-and-voiceovers-in-reels/"><u>[Updated] The Quintessential Guide to Music & Voiceovers in Reels</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-essential-emulators-reviving-sonys-ps1-games/"><u>2024 Approved Essential Emulators Reviving Sony's PS1 Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-guide-to-audio-alchemy-sites/"><u>2024 Approved Exclusive Guide to Audio Alchemy Sites</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/ace-your-blogging-game-with-leading-seo-platforms-unlock-the-secrets-of-online-visibility-and-traffic-growth/"><u>Ace Your Blogging Game with Leading SEO Platforms - Unlock the Secrets of Online Visibility & Traffic Growth</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/building-your-sales-funnel-with-massmail-a-five-stage-process-for-generating-a-prospect-list/"><u>Building Your Sales Funnel with MassMail: A Five-Stage Process for Generating a Prospect List</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/comparative-analysis-mobile-vs-desktop-email-usage-trends-and-projections-2012-2013-with-insights-from-massmail-tools/"><u>Comparative Analysis: Mobile Vs. Desktop Email Usage Trends & Projections (2012-2013) with Insights From MassMail Tools</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/descobrir-gritos-de-saudade-em-portugal-tudo-que-pensa/"><u>Descobrir Gritos De Saudade Em Portugal: Tudo Que Pensa</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effective-strategies-for-boosting-traffic-with-genuine-reviews-using-massmails-automated-email-campaign-tools/"><u>Effective Strategies for Boosting Traffic with Genuine Reviews - Using Massmail's Automated Email Campaign Tools</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effiziente-strategien-zum-transfer-von-hyper-v-dateien-anleitung-zu-schneller-und-einfacher-datenbewegung/"><u>Effiziente Strategien Zum Transfer Von Hyper-V Dateien: Anleitung Zu Schneller Und Einfacher Datenbewegung</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/massmail-software-access-your-2020-online-programs-effortlessly/"><u>MassMail Software: Access Your 2020 Online Programs Effortlessly</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/navigating-lifes-crossroads-in-2009-with-crisis-management-strategies-and-email-solutions-by-massmail/"><u>Navigating Life's Crossroads in 2009 with Crisis Management Strategies & Email Solutions by MassMail</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/navigating-through-the-google-penalty-labyrinth-defining-sandbox-strategy-and-top-seo-tips-for-success/"><u>Navigating Through the Google Penalty Labyrinth: Defining Sandbox Strategy & Top SEO Tips for Success</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-live-feed-rates-on-task-monitor-win-11/"><u>Optimize Live Feed Rates on Task Monitor Win 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/sabrent-thunderbolt-4-integrated-display-mount-at-only-350-ultimate-connectivity-with-usb-power-delivery-and-ethernet/"><u>Sabrent Thunderbolt 4 Integrated Display Mount at Only $350: Ultimate Connectivity with USB Power Delivery & Ethernet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/talk-titans-duo-comparing-gpt-and-bings-virtual-voices/"><u>Talk Titans Duo: Comparing GPT & Bing's Virtual Voices</u></a></li>
 </ul></div>
 

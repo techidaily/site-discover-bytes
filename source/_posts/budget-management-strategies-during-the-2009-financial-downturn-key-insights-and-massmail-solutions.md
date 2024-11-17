@@ -1,7 +1,7 @@
 ---
 title: "Budget Management Strategies During the 2009 Financial Downturn: Key Insights & MassMail Solutions"
-date: 2024-11-01T16:24:20.042Z
-updated: 2024-11-06T18:36:35.445Z
+date: 2024-11-09T22:10:00.764Z
+updated: 2024-11-16T16:11:31.867Z
 tags:
   - product
 categories:
@@ -22,13 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -38,13 +31,6 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -57,6 +43,13 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -77,10 +70,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -91,26 +84,26 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
@@ -120,6 +113,13 @@ When promoting your vanity short code, always provide the short code’s digits 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -133,13 +133,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -147,6 +140,13 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -167,22 +167,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-comparative-analysis-of-top-screen-recorders-with-a-spotlight-on-apeaksoft-for-2024/"><u>[New] Comparative Analysis of Top Screen Recorders with a Spotlight on Apeaksoft for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-synchronized-aesthetics-audio-meets-picture/"><u>2024 Approved Synchronized Aesthetics Audio Meets Picture</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/complete-guide-restore-images-from-windows-10-backup-with-myrecover-software/"><u>Complete Guide: Restore Images From Windows 10 Backup with MyRecover Software</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/epic-virtual-realms-finest-10-budget-friendly-mmorpgs/"><u>Epic Virtual Realms Finest 10 Budget-Friendly MMORPGs</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1728500405737-hdd-3/"><u>HDD上永久消去された情報の効果的な復元技術 - ベスト3ガイド</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/how-to-copy-dellhplenovo-factory-image-partitions-onto-a-solid-state-drive-in-windows-versions-7-10/"><u>How to Copy Dell/HP/Lenovo Factory Image Partitions Onto a Solid State Drive in Windows Versions 7-10</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/how-to-save-files-and-documents-in-windows-11-a-step-by-step-guide/"><u>How to Save Files and Documents in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-lava-blaze-2-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Lava Blaze 2 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/pasos-sencillos-para-guardar-y-reinstalar-documentos-en-windows-11-tu-nueva-guia-integral/"><u>Pasos Sencillos Para Guardar Y Reinstalar Documentos en Windows 11: Tu Nueva Guía Integral</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/quick-install-of-windows/"><u>Quick Install of Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-csgo-crash-issues-simple-solutions-inside/"><u>Resolving CSGO Crash Issues - Simple Solutions Inside!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/scopri-il-potenziale-di-movavi-photo-editor-un-ottimo-investimento-per-la-tua-creativita-fotografica/"><u>Scopri Il Potenziale Di Movavi Photo Editor - Un Ottimo Investimento per La Tua Creatività Fotografica</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-silence-a-guide-to-repairing-your-non-functional-speaker-system/"><u>Solving the Silence: A Guide to Repairing Your Non-Functional Speaker System</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/step-by-step-tutorial-implementing-a-usb-flash-drive-antivirus-solution/"><u>Step-by-Step Tutorial: Implementing a USB Flash Drive Antivirus Solution</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/trasforma-mkv-in-mov-online-e-gratis-con-mediacraft-macchina-del-cinema-digital/"><u>Trasforma MKV in MOV Online E Gratis Con MediaCraft - Macchina Del Cinema Digital</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/unlock-file-restoration-secrets-discover-how-pauline-uses-aomei-solutions/"><u>Unlock File Restoration Secrets - Discover How Pauline Uses AOMEI Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/win-1111-guide-solving-audacity-sound-error/"><u>Win 11/11 Guide: Solving Audacity Sound Error</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/xperts-choice-extracting-youtube-video-intros-online-for-2024/"><u>[New] Expert's Choice Extracting Youtube Video Intros Online for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-memelores-premier-10-templates/"><u>[New] Memelore's Premier 10 Templates</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-top-voice-transformation-tools-for-personal-use/"><u>[Updated] 2024 Approved Top Voice Transformation Tools for Personal Use</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-windows-11s-best-pc-webcam-recorders-reviewed/"><u>[Updated] 2024 Approved Windows 11'S Best PC Webcam Recorders Reviewed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-maintaining-memories-on-androidmac-through-snaps/"><u>[Updated] In 2024, Maintaining Memories on Android/Mac Through Snaps</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728465890850-windows-server-2019/"><u>如何修正：Windows Server 2019无法更新（五个有效方法） -专业指导</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-rx-6800-graphics-driver-update-for-windows-111087-free-download-options/"><u>AMD RX 6800 Graphics Driver Update for Windows 11/10/8/7 - Free Download Options</u></a></li>
+<li><a href="https://fox-access.techidaily.com/best-nine-essential-live-gaming-services/"><u>Best Nine Essential Live Gaming Services</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-best-practices-with-leading-twitch-downloaders-5/"><u>Exploring the Best Practices with Leading Twitch Downloaders #5</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/freeware-fur-die-wiederherstellung-verlorener-datentragerpartitionen-in-windows-1187/"><u>Freeware Für Die Wiederherstellung Verlorener Datenträgerpartitionen in Windows 11/8/7</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/hddwindows-server-03/"><u>HDDクローン作成ツールを使用したWindows Server ˈ03データ移行法</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-refine-your-youtube-identity-with-efficient-descriptions/"><u>In 2024, Refine Your YouTube Identity with Efficient Descriptions</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/recover-missing-folders-on-windows-11-discover-8-effective-strategies/"><u>Recover Missing Folders on Windows 11: Discover 8 Effective Strategies</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/topo-tecnico-de-clonagem-perfeita-para-unidades-de-inicializacao-faca-backups-simples-e-eficientes-com-nossos-melhores-softwares/"><u>Topo Técnico De Clonagem Perfeita Para Unidades De Inicialização: Faça Backups Simples E Eficientes Com Nossos Melhores Softwares</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/transitioning-from-uefi-to-traditional-bios-for-hyper-v-gen-2-hosts/"><u>Transitioning From UEFI to Traditional BIOS for Hyper-V Gen 2 Hosts</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/windatarestore-pro-advanced-recovery-solutions-for-windows-7-and-windows-11-users/"><u>WinDataRestore Pro: Advanced Recovery Solutions for Windows 7 and Windows 11 Users</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/windows-server-2008google-drive/"><u>Windows Server 2008と連携したGoogle Driveへのファイル同期手順</u></a></li>
 </ul></div>
 
