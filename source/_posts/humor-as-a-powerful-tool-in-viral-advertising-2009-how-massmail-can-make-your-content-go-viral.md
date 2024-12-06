@@ -1,7 +1,7 @@
 ---
 title: "Humor as a Powerful Tool in Viral Advertising (2009): How Massmail Can Make Your Content Go Viral"
-date: 2024-11-11T02:02:58.284Z
-updated: 2024-11-16T20:52:26.828Z
+date: 2024-12-04T19:06:57.915Z
+updated: 2024-12-06T00:33:32.952Z
 tags:
   - product
 categories:
@@ -18,9 +18,17 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -45,10 +53,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -74,10 +79,7 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -87,13 +89,6 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -111,26 +106,20 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -140,13 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -167,21 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-expert-tips-for-post-upload-video-improvement-for-2024/"><u>[New] Expert Tips for Post-Upload Video Improvement for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-prime-selection-of-top-20-humorous-lockdown-memes-lifting-spirits-on-facebook-for-2024/"><u>[Updated] Prime Selection of Top 20 Humorous Lockdown Memes, Lifting Spirits on Facebook for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-guide-obtaining-vlc-player-at-no-cost-and-safety-on-mac/"><u>2024 Approved Guide Obtaining VLC Player at No Cost & Safety on Mac</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/3-strategie-efficaci-per-migliorare-la-migrazione-di-ad-da-windows-server-2008-a-2amo/"><u>3 Strategie Efficaci per Migliorare La Migrazione Di AD Da Windows Server 2008 a 2Amo</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/comment-recuperer-vos-donnees-guides-experts-et-reponses-completes-sur-la-restauration-de-fichiers-perdus/"><u>Comment Récupérer Vos Données? Guides Experts Et Réponses Complètes Sur La Restauration De Fichiers Perdus</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Realme GT 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/la-procedura-ottimale-per-la-copia-del-software-di-samsung-senza-i-dati-utente/"><u>La Procedura Ottimale per La Copia Del Software Di Samsung Senza I Dati Utente</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/qualitatsbewahrende-ubertragung-von-iphonegeraten-auf-pc-einfache-schritte-und-tipps/"><u>Qualitätsbewahrende Übertragung Von iPhonegeräten Auf PC: Einfache Schritte Und Tipps</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/resolving-installation-error-code-0x800f081f-in-windows-11-step-by-step-guide/"><u>Resolving Installation Error Code 0X800F081F in Windows 11 - Step-by-Step Guide</u></a></li>
-<li><a href="https://win-lab.techidaily.com/reviving-lost-files-simple-steps-for-data-retrieval-after-a-windows-11-system-failure/"><u>Reviving Lost Files: Simple Steps for Data Retrieval After a Windows 11 System Failure</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/schnelle-anleitung-zum-herstellen-eines-sicheren-kopies-ihres-gmail-postfachs-einfach-wie-nie-zuvor/"><u>Schnelle Anleitung Zum Herstellen Eines Sicheren Kopies Ihres Gmail-Postfachs - Einfach Wie Nie Zuvor!</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/systemanforderungen-von-windows-11-prufen-sind-sie-kompatibel-oder-nicht/"><u>Systemanforderungen Von Windows 11 Prüfen: Sind Sie Kompatibel Oder Nicht?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/unlocking-potential-snapchat-insights-for-companies/"><u>Unlocking Potential Snapchat Insights for Companies</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/valhallas-fury-gods-of-war-converge-for-2024/"><u>Valhalla's Fury Gods of War Converge for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1728484766162-windows-11/"><u>Windows 11 磁碟損失隔離機制解除方法</u></a></li>
-<li><a href="https://solve-news.techidaily.com/windows-11-avimpegmp4wmvmovflv/"><u>Windows 11用フリービデオエクスチェンジャー - AVI,MPEG,MP4,WMV,MOV,FLV形式を自由に変換</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-ultimate-checklist-for-movie-maker-videos-on-vimeo-for-2024/"><u>[New] The Ultimate Checklist for Movie Maker Videos on Vimeo for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-achieve-financial-success-with-youtube-ad-profit-techniques/"><u>[Updated] 2024 Approved Achieve Financial Success with YouTube Ad Profit Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-best-online-voice-recorders/"><u>[Updated] 2024 Approved Best Online Voice Recorders</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-expert-websites-directory-personalized-ringtone-source-for-2024/"><u>[Updated] Expert Websites Directory Personalized Ringtone Source for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/st-kickstart-videos-on-youtube-for-visibility-boost-for-2024/"><u>16 Best Kickstart Videos on YouTube for Visibility Boost for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-of-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-13c-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Xiaomi Redmi 13C 5G Bootloader Easily</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-tecno-phantom-v-flip-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Tecno Phantom V Flip? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/maximizing-campaigns-in-2008-innovative-uses-of-massmail-for-business-growth/"><u>Maximizing Campaigns in 2008: Innovative Uses of MassMail for Business Growth</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/quick-guide-seamless-external-drive-copying-via-ethernet-top-methods-unveiled/"><u>Quick Guide: Seamless External Drive Copying Via Ethernet - Top Methods Unveiled</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/sandisk-for-windows-11-10-8-and-7/"><u>SanDiskバックアップに匹敵する、無料で使えるバックアップツール for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/transformative-personal-growth-strategies-unleash-your-potential-with-dream-and-achieve-methodology-and-business-tools-massmail-pro/"><u>Transformative Personal Growth Strategies - Unleash Your Potential with 'Dream and Achieve' Methodology & Business Tools (MassMail Pro)</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/understanding-not-provided-in-analytics-and-effective-seo-strategies-with-key-insights/"><u>Understanding 'Not Provided' In Analytics and Effective SEO Strategies with Key Insights</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728474729257-windows-os/"><u>Windows OSで定期的に自動バックアップさせたい? どれくらいの間隔が推奨されますか？</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-agentstva-po-optimizacii-poiskovyh-rezultatov-v-bostone-povyshenie-vashej-onlajn-vidimosti/"><u>Топ-Агентства По Оптимизации Поисковых Результатов В Бостоне: Повышение Вашей Онлайн Видимости</u></a></li>
 </ul></div>
 

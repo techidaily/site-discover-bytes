@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Showdown of 2011: How Email Marketing Outperforms SEO with Stats and Tools by Massmail Software"
-date: 2024-11-23T17:53:29.256Z
-updated: 2024-11-26T06:37:04.156Z
+date: 2024-12-01T05:49:48.006Z
+updated: 2024-12-05T23:17:37.669Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -36,10 +40,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -48,6 +48,10 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -55,7 +59,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -70,25 +74,13 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -110,17 +102,25 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,16 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-bytes.techidaily.com/1728470086102-windows-server-2016/"><u>「快速轉移Windows Server 2016到全新設置或系統」</u></a></li>
-<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/activate-double-protection-icloud-mail-and-two-step-authenticator/"><u>Activate Double Protection: ICloud Mail and Two-Step Authenticator</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-your-guide-to-crafting-engaging-text-based-roleplay-games/"><u>ChatGPT: Your Guide to Crafting Engaging Text-Based Roleplay Games</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/deplacer-windows-server-2012-r2-vers-du-nouveau-materiel-deux-methodes-efficaces/"><u>Déplacer Windows Server 2012 R2 Vers Du Nouveau Matériel : Deux Méthodes Efficaces</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/ebt2-how-to-safeguard-your-imessages-on-itunes-tips-and-tricks/"><u>Ebt2: How to Safeguard Your iMessages on iTunes: Tips and Tricks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hearing-heroism-essential-online-picks-for-tts-files-for-2024/"><u>Hearing Heroism Essential Online Picks for TTS Files for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1728500745802-icloud/"><u>ICloud檔案復原失敗:重組實用指南</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-realm-of-ar-stickers-googles-edge/"><u>In 2024, Exploring the Realm of AR Stickers - Google's Edge</u></a></li>
-<li><a href="https://facebook.techidaily.com/shattering-illusions-decoding-key-findings-from-fb-papers/"><u>Shattering Illusions: Decoding Key Findings From FB Papers</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/wie-man-den-notiz-betrieb-fur-iphoneipad-unter-ios-16-deaktiviert/"><u>Wie Man Den Notiz-Betrieb Für iPhone/iPad Unter iOS 16 Deaktiviert</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-screen-capture-simplified-top-choices-for-easy-video-making/"><u>[New] In 2024, Screen Capture Simplified Top Choices for Easy Video Making</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-guide-to-incorited-visuals-in-text-without-cost/"><u>[Updated] 2024 Approved Guide to Incorited Visuals in Text Without Cost</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-create-impact-with-intro-excellence-best-free-services-reviewed-for-2024/"><u>[Updated] Create Impact with Intro Excellence Best Free Services Reviewed for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-essential-guide-to-using-obs-for-youtube-and-twitch/"><u>[Updated] In 2024, Essential Guide to Using OBS for YouTube & Twitch</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-complete-guide-to-vr-ready-space-setup/"><u>[Updated] In 2024, The Complete Guide to VR-Ready Space Setup</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-does-your-channel-benefit-from-regular-youtube-payments/"><u>2024 Approved Does Your Channel Benefit From Regular YouTube Payments?</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728478754724-windows-11/"><u>四种有效手段：快速修复在Windows 11系统中数据消失问题</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/complete-guide-restore-images-from-windows-10-backup-with-myrecover-software/"><u>Complete Guide: Restore Images From Windows 10 Backup with MyRecover Software</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728500405737-hdd-3/"><u>HDD上永久消去された情報の効果的な復元技術 - ベスト3ガイド</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/how-to-copy-dellhplenovo-factory-image-partitions-onto-a-solid-state-drive-in-windows-versions-7-10/"><u>How to Copy Dell/HP/Lenovo Factory Image Partitions Onto a Solid State Drive in Windows Versions 7-10</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/step-by-step-tutorial-implementing-a-usb-flash-drive-antivirus-solution/"><u>Step-by-Step Tutorial: Implementing a USB Flash Drive Antivirus Solution</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/unlock-file-restoration-secrets-discover-how-pauline-uses-aomei-solutions/"><u>Unlock File Restoration Secrets - Discover How Pauline Uses AOMEI Solutions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-creativity-meets-technology-in-youtube-studio-for-2024/"><u>Where Creativity Meets Technology in YouTube Studio for 2024</u></a></li>
 </ul></div>
 

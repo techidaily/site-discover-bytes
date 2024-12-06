@@ -1,7 +1,7 @@
 ---
 title: How to Effortlessly Set Up and Use the DXTrade User Manual with MetaTrader 4 - Your Complete Step-by-Step Tutorial for MT4 & MT5 Traders
-date: 2024-11-01T18:40:11.380Z
-updated: 2024-11-06T19:27:18.000Z
+date: 2024-12-03T02:17:38.792Z
+updated: 2024-12-06T04:34:43.582Z
 tags:
   - forex
   - trades
@@ -53,6 +53,10 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Before you begin**
 
 **Please prepare the following…**
@@ -61,18 +65,15 @@ Table of Contents
 2. MT4 platform installed with the master account signed in.
 3. DxTrade broker account ID, trading account ID, password, and server name.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **How To Download And Install MT4 TO DxTrade EA**
 
 * ### **Download the software package from the Downloads Center.**
 
 [![Accessing downloads center](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-0100-Accessing-downloads-center-550x98.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-0100-Accessing-downloads-center.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * * * The link to the website is sent to your email after the purchase.  
          * The downloaded package will be a compressed zip folder.  
@@ -105,6 +106,10 @@ Table of Contents
 
 [![Auto installer-I accept agreement page](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-0600-Auto-installer-I-accept-agreement-page.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-0600-Auto-installer-I-accept-agreement-page.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * * * The installer will quickly scan your computer for MetaTrader folders. You may see a green progress bar. Once it’s done, click **Next**.  
          * Select the desired MetaTrader folder(s) for installation. You can use the **Highlight Filter** to search for folders. Multiple folders can be selected for installation.
 
@@ -126,6 +131,10 @@ Table of Contents
 
 [![MT4 data folder](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-1000-MT4-data-folder-550x265.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-1000-MT4-data-folder.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * * * Once the data folder is open, paste the “extracted MQL4” file here.
 
 [![Manual installation-How to paste MQL4 folder in MT4 data folder-Windows 11](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-1100-Manual-installation-How-to-paste-MQL4-folder-in-MT4-data-folder-Windows-11.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-1100-Manual-installation-How-to-paste-MQL4-folder-in-MT4-data-folder-Windows-11.png)_Windows 11_
@@ -138,10 +147,7 @@ _Windows 10_
 [![Replace the files in the destination prompt](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-1200-Replace-the-files-in-the-destination-prompt.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-1200-Replace-the-files-in-the-destination-prompt.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Refresh the Navigator in MetaTrader 4 to show the EA.**
@@ -160,6 +166,10 @@ _Windows 10_
 
 [![How to access options window in MT4](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-1500-How-to-access-options-window-in-MT4.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-1500-How-to-access-options-window-in-MT4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * * To enable DLL imports in MT4, go to **Tools** \> **Options.**  
    * In the **Options** window, go to the **Expert Advisors tab**.  
    * Check **Allow DLL Imports** and **WebRequest for specific URLs.**
@@ -167,10 +177,7 @@ _Windows 10_
 [![Checking allow DLL imports and allow WebRequests for listed URL in Expert Advisor Tab](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-1600-Checking-allow-DLL-imports-and-allow-WebRequests-for-listed-URL-in-Expert-Advisor-Tab-550x352.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-1600-Checking-allow-DLL-imports-and-allow-WebRequests-for-listed-URL-in-Expert-Advisor-Tab.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * * Add your DxTrade broker URL.  
@@ -208,13 +215,6 @@ _Windows 10_
 
 [![Real time trade sync demo](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-2100-Real-time-trade-sync-demo-550x413.gif)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-2100-Real-time-trade-sync-demo.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * ### **Understanding the automatic trade copying.**
 * * After connecting successfully, the copier should automatically sync every trade execution moving forward. It will not copy any existing trade placed before the installation.  
    * By default, the copier adjusts lot sizes based on account balance differences between MT4 and DxTrade. However, this setting can be adjusted.  
@@ -238,13 +238,6 @@ _Windows 10_
                   * Uses a set lot size for all copied trades regardless of the lot size you set on the master trade.
 
 [![How to modify risk management setting-General Tab-Fixed lot size](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-2400-How-to-modify-risk-management-setting-General-Tab-Fixed-lot-size.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-2400-How-to-modify-risk-management-setting-General-Tab-Fixed-lot-size.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * ### **Configuring symbol mappings under Symbol tab.**
 * * * The copier automatically maps most symbols between MT4 and DxTrade. As well as it adjusts for any contract size difference.  
@@ -276,10 +269,7 @@ _Windows 10_
 [![How to use filters to control trade copying-Filters Tab](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-2700-How-to-use-filters-to-control-trade-copying-Filters-Tab.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-2700-How-to-use-filters-to-control-trade-copying-Filters-Tab.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * ### **Using time filters.**
@@ -289,10 +279,7 @@ _Windows 10_
 [![How to use time filters-Time Tab](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-2800-How-to-use-time-filters-Time-Tab.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-2800-How-to-use-time-filters-Time-Tab.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Reminders, Additional Information and Tips**
@@ -305,13 +292,6 @@ _Windows 10_
    * They are not specific to currency pairs or asset classes but to individual trades.
 5. Remember: Always monitor your accounts and verify that trades are being copied correctly. If you encounter any issues or have questions, contact the software support team for assistance.
 6. While MT4 to DxTrade Copier copies the trades when executed, it doesn’t copy pending orders, stop losses or take profit levels. However, we will improve this soon and add functionality to copy SL/TP.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -361,6 +341,10 @@ Check the connection status, verify login details, and review filter settings. I
 
 Yes. You can filter trades by type, magic numbers, symbols, and set time restrictions to match your strategy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Related posts:
 
 1. [How to Use MT4 to DXTrade Copier (Video Tutorial) – Instantly Copy Trades Between MT4 and DXTrade](https://www.mt4copier.com/mt4-to-dxtrade-copier-video-tutorial/ "How to Use MT4 to DXTrade Copier (Video Tutorial) – Instantly Copy Trades Between MT4 and DXTrade")
@@ -382,14 +366,22 @@ Yes. You can filter trades by type, magic numbers, symbols, and set time restric
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-voice-tweaks-simple-methods-for-smooth-adjustments-for-2024/"><u>[New] Snapchat Voice Tweaks Simple Methods for Smooth Adjustments for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-screensnap-chromecast-quick-video-capture/"><u>[Updated] In 2024, ScreenSnap Chromecast Quick Video Capture</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-set-up-facebook-streaming-pcmaclaptop-tutorial-with-obs/"><u>2024 Approved Set Up Facebook Streaming PC/Mac/Laptop Tutorial with OBS</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/boost-online-sales-with-poster-advertising-discover-how-massmail-software-can-transform-your-marketing-strategy/"><u>Boost Online Sales with Poster Advertising: Discover How MassMail Software Can Transform Your Marketing Strategy</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-basics-to-advanced-building-python-tools-using-gpt-3/"><u>From Basics to Advanced: Building Python Tools Using GPT-3</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/unlock-success-in-online-partnerships-join-us-for-an-insightful-affiliate-engine-and-massmail-software-seminar/"><u>Unlock Success in Online Partnerships - Join Us for an Insightful Affiliate Engine and MassMail Software Seminar!</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-nokia-c210-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Nokia C210 on Mac?</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/vmware-esxi-cluster-alert-vha-monitoring-actions-for-high-availability/"><u>VMware ESXi Cluster Alert: VHA Monitoring Actions for High Availability</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/wie-uberschreibe-ich-windows-8-oder-81-auf-einem-neuen-pc-schritt-fur-schritt-anleitung/"><u>Wie Überschreibe Ich Windows 8 Oder 8.1 Auf Einem Neuen PC: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-broadcast-brains-vs-bodies-finding-the-frontier/"><u>[New] 2024 Approved Broadcast Brains Vs Bodies Finding the Frontier</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-srt-file-conversion-simplified-with-os-support/"><u>[Updated] SRT File Conversion Simplified with OS Support</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/windows-11-99-top4/"><u>「Windows 11 アップグレードが完了しない苦情多発！99%から突破方法をご紹介 TOP4解析」</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728467014079-windows-11/"><u>转移Windows 11壁纸内置硬盘数据步骤：三种高效技巧</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/comment-reparer-avec-succes-le-dysfonctionnement-de-demarrage-du-disque-sous-windows-section-1-advanced-problem-on-crop-resistance-to-temperature-stress/"><u>Comment Réparer Avec Succès Le Dysfonctionnement De Démarrage Du Disque Sous Windows # Section 1: Advanced Problem on Crop Resistance to Temperature Stress</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/comprehensive-guide-to-the-top-20-leading-ios-data-restoration-apps-on-pc-platforms/"><u>Comprehensive Guide to the Top 20 Leading iOS Data Restoration Apps on PC Platforms</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/efficient-video-management-how-to-include-content-in-youtube-playlists-for-2024/"><u>Efficient Video Management How to Include Content in YouTube Playlists for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/het-wegnemen-van-vergeten-episodes-tips-voor-iphone-users/"><u>Het Wegnemen Van Vergeten Episodes: Tips Voor iPhone Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-visionary-selection-best-10-audio-plugins-for-spotify/"><u>In 2024, Visionary Selection Best 10 Audio Plugins for Spotify</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/instalacion-sin-problemas-cambiar-de-hdd-a-ssd-con-windows-11/"><u>Instalación Sin Problemas: Cambiar De HDD a SSD Con Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-conversations-is-claude-the-new-leader/"><u>Pioneering Conversations: Is Claude the New Leader?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolve-device-improperly-set-up-issue-understanding-and-fixing-error-1/"><u>Resolve 'Device Improperly Set Up' Issue - Understanding and Fixing Error 1</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/the-top-two-methods-for-a-successful-kingston-secure-wipe/"><u>The Top Two Methods for a Successful Kingston Secure Wipe</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-comprehensive-computer-and-electronics-reviews/"><u>Tom's Tech Hub: Comprehensive Computer & Electronics Reviews</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixes-for-sticky-windows-keyboard-buttons/"><u>Troubleshooting & Fixes for Sticky Windows Keyboard Buttons</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/windows-10-0x80070003/"><u>Windows 10 程式错误代码 0X80070003修复指南 - 五种解决方案</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/yl-software-tutorial-customizing-regional-settings-in-the-windows-control-panel-for-optimal-user-experience/"><u>YL Software Tutorial: Customizing Regional Settings in the Windows Control Panel for Optimal User Experience</u></a></li>
 </ul></div>
 

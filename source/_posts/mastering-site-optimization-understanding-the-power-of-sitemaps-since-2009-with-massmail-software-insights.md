@@ -1,7 +1,7 @@
 ---
 title: "Mastering Site Optimization: Understanding the Power of Sitemaps Since 2009 with Massmail Software Insights"
-date: 2024-11-24T22:24:58.662Z
-updated: 2024-11-25T17:56:19.708Z
+date: 2024-11-30T18:30:19.645Z
+updated: 2024-12-06T06:22:26.916Z
 tags:
   - product
 categories:
@@ -19,12 +19,16 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -40,6 +44,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -49,7 +57,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -57,10 +65,6 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -73,10 +77,6 @@ That is why in 2022, SMS will increasingly serve as the glue that cements multic
 One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware/products/), which helps local businesses and national chains to create and execute campaigns that feature shortcodes in direct mailers. After texting the shortcode, consumers receive an e-coupon on their phone that they redeem by showing to the merchant’s sales associate.
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
@@ -106,13 +106,13 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,22 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-easy-steps-to-extract-and-save-your-youtube-watch-lists/"><u>[New] 2024 Approved Easy Steps to Extract and Save Your YouTube Watch Lists</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-seamlessly-bring-back-windows-photo-viewer-in-win-11-systems/"><u>[Updated] Seamlessly Bring Back Windows Photo Viewer in Win 11 Systems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/amd-radeon-gpu-unrecognized-in-windows-11-troubleshooting-steps/"><u>AMD Radeon GPU Unrecognized in Windows 11: Troubleshooting Steps</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/como-borrar-de-forma-segura-tu-memoria-usb-en-windows-11-tres-eficaces-tecnicas-para-proteccion/"><u>Cómo Borrar De Forma Segura Tu Memoria USB en Windows 11: Tres Eficaces Técnicas Para Protección</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/complete-guide-to-restoring-unsaved-word-files-insights-from-the-latest-ifind-data-recovery-tool-by-ifind/"><u>Complete Guide to Restoring Unsaved Word Files: Insights From the Latest ifInd Data Recovery Tool by iFinD</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/comprendre-lamplification-des-disques-dursssds-bootables-outils-et-guides-integraux-pour-les-nouveaux-utilisateurs/"><u>Comprendre L'Amplification Des Disques Durs/SSDs Bootables: Outils Et Guides Intégraux Pour Les Nouveaux Utilisateurs</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/entfernung-von-windows-11-bequem-anleitung-zu-drei-verschiedenen-ansatzen/"><u>Entfernung Von Windows 11 Bequem - Anleitung Zu Drei Verschiedenen Ansätzen</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/free-fixes-uncover-3-effective-strategies-for-restoring-corrupted-jpeg-pictures-without-spending-a-penny/"><u>Free Fixes! Uncover 3 Effective Strategies for Restoring Corrupted JPEG Pictures Without Spending a Penny</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-online-conversion-change-mp4-to-avi-using-movavis-easy-to-use-tool/"><u>Free Online Conversion: Change MP4 to AVI Using Movavi's Easy-to-Use Tool</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/guide-to-fix-helldivers-2-error-msvcr110dll-not-found/"><u>Guide to Fix HellDivers 2 Error - MSVCR110.dll Not Found</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-quick-humor-crafting-the-meme-text-genrator-way/"><u>In 2024, Quick Humor Crafting The Meme Text Gen'rator Way</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-top-tier-image-manipulations/"><u>In 2024, Top-Tier Image Manipulations</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/reset-window-7-factory-settings-restoration-guide/"><u>Reset Window 7 Factory Settings Restoration Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722993878057-stop-game-crashes-solve-your-battlefront-ii-pc-issues-today/"><u>Stop Game Crashes – Solve Your Battlefront II PC Issues Today!</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/streamlined-steps-syncing-television-series-from-ipad-to-desktoplaptop/"><u>Streamlined Steps: Syncing Television Series From iPad to Desktop/Laptop</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/ultimate-guide-step-by-step-processes-for-saving-your-data-on-hp-computers-using-windows-operating-systems-from-vista-to-the-latest-version/"><u>Ultimate Guide: Step-by-Step Processes for Saving Your Data on HP Computers Using Windows Operating Systems (From Vista to the Latest Version)</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/windows-server-2012-r2-ma-gayab-hana-val-fiil-ka-panaparapata-karana-ka-sataka-abhayas/"><u>Windows Server 2012 (R2) में गायब होने वाली फ़ाइलों को पुनःप्राप्त करने का सटीक अभ्याs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-your-journey-to-instagram-dominance-started-here/"><u>[New] In 2024, Your Journey to Instagram Dominance, Started Here</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-aim-higher-boosting-views-and-reach-on-youtube/"><u>[Updated] Aim Higher Boosting Views and Reach on YouTube</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/2018-ibmponemon-institute-report-analyzing-the-financial-impact-of-data-security-incidents-on-companies/"><u>2018 IBM/Ponemon Institute Report: Analyzing the Financial Impact of Data Security Incidents on Companies</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/bypassing-and-repairing-the-notorious-0x80240023-error-in-microsofts-windows-updates-guide/"><u>Bypassing and Repairing the Notorious 0X80240023 Error in Microsoft's Windows Updates (Guide)</u></a></li>
+<li><a href="https://fox-within.techidaily.com/capture-clips-like-a-pro-essential-techniques-for-recording-any-movie-or-video-on-pc-action/"><u>Capture Clips Like a Pro: Essential Techniques for Recording Any Movie or Video on PC - Action!</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/decoding-vmwares-vsphere-site-recovery-manager-unveiling-the-mechanics-behind-disaster-recovery/"><u>Decoding VMware's vSphere Site Recovery Manager - Unveiling the Mechanics Behind Disaster Recovery</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-14-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 14 Pro without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-graphicgenius-suite/"><u>In 2024, GraphicGenius Suite</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-y100-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo Y100 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/leading-non-integrated-photo-editors-optimized-for-windows-users/"><u>Leading Non-Integrated Photo Editors Optimized for Windows Users</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/losungsansatze-sichtbare-dateien-aufrufen-wege-fur-ungespeicherte-dokumente-in-ordnern-unter-windows-1187/"><u>Lösungsansätze: Sichtbare Dateien Aufrufen - Wege Für Ungespeicherte Dokumente in Ordnern Unter Windows 11/8/7</u></a></li>
+<li><a href="https://discover-data.techidaily.com/should-you-upgrade-comparing-features-of-windows-7-10-and-11-for-optimal-performance/"><u>Should You Upgrade? Comparing Features of Windows 7, 10 and 11 for Optimal Performance.</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/solution-melatonin-helps-regulate-the-bodys-internal-clock-signaling-when-it-is-time-to-sleep-disruptions-in-its-production-can-lead-to-circadian-rhythm-dis53/"><u>Solution: Melatonin Helps Regulate the Body's Internal Clock, Signaling when It Is Time to Sleep. Disruptions in Its Production Can Lead to Circadian Rhythm Disorders Like Insomnia or Delayed Sleep Phase Syndrome.</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/zwei-methoden-zum-aktivieren-der-systemwiederherstellungspartition-in-windows/"><u>Zwei Methoden Zum Aktivieren Der Systemwiederherstellungspartition in Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Crafting the Perfect Apology: A Step-by-Step Guide on Writing Effective 'Oops' Emails with ePochta & Massmail"
-date: 2024-11-13T16:18:47.176Z
-updated: 2024-11-16T21:56:29.374Z
+date: 2024-12-04T04:24:54.703Z
+updated: 2024-12-05T22:02:16.263Z
 tags:
   - product
 categories:
@@ -18,9 +18,17 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -36,13 +44,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -50,6 +51,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -69,28 +74,12 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -105,15 +94,16 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
@@ -124,23 +114,9 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -173,24 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-honored-hubs-best-websites-to-download-snapalert-beats/"><u>2024 Approved Honored Hubs Best Websites to Download SnapAlert Beats</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1728509614035-pcwindows-1011/"><u>日々のPCバックアップ手順：Windows 10/11で効果的な保存方法</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/aocs-newest-marvel-the-agon-pro-ag456uczd-a-gamers-review-of-the-spectacular-45-ultrawide-extreme-curve-oled-monitor-with-superior-speed-and-design-innovati56/"><u>AOC's Newest Marvel: The Agon Pro AG456UCZD - A Gamer's Review of the Spectacular 45 UltraWide, Extreme Curve OLED Monitor with Superior Speed & Design Innovation</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/back-to-basics-boosting-performance-with-a-quick-factory-reset-on-windows-10-systems/"><u>Back to Basics: Boosting Performance with a Quick Factory Reset on Windows 10 Systems</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/clearing-up-storage-almost-full-error-for-iphones-running-ios-17-or-18/"><u>Clearing Up 'Storage Almost Full' Error for iPhones Running iOS 17 or 18</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/come-esegui-il-backup-dei-tuoi-dati-su-hard-disk-esterno-con-windows-10/"><u>Come Esegui Il Backup Dei Tuoi Dati Su Hard Disk Esterno Con Windows 10</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/effortless-transfer-of-images-to-ios-device-for-2024/"><u>Effortless Transfer of Images to iOS Device for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/free-software-fur-die-erstellung-eines-kompletten-hdd-klons-mit-einem-bootfahigen-usb-stick/"><u>FREE Software Für Die Erstellung Eines Kompletten HDD-Klons Mit Einem Bootfähigen USB-Stick</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-most-recent-update-of-magicard-rio-pro-drive-optimized-for-windows-11-81-and-7-users/"><u>Get the Most Recent Update of Magicard Rio Pro Drive: Optimized for Windows 11, 8.1 & 7 Users</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719147503681-is-your-phone-a-covert-marketer-in-disguise-truth-exposed/"><u>Is Your Phone a Covert Marketer in Disguise? Truth Exposed</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/ripristino-rapido-di-immagini-cancellate-su-fotocamere-sony-2-metodi-efficaci/"><u>Ripristino Rapido Di Immagini Cancellate Su Fotocamere Sony: 2 Metodi Efficaci</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/say-goodbye-to-bulky-batteries-discover-the-sleek-speedy-magsafe-power-pack-for-a-faster-charging-experience/"><u>Say Goodbye to Bulky Batteries: Discover the Sleek, Speedy MagSafe Power Pack for a Faster Charging Experience</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/section-3c-qandas/"><u>Section 3C: Q&As</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/selecting-top-tablet-computers-by-cpu-power-and-capabilities/"><u>Selecting Top Tablet Computers by CPU Power and Capabilities</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/solutions-faciles-et-rapides-pour-resoudre-erreur-hard-disk-code-303-guide-complet/"><u>Solutions Faciles Et Rapides Pour Résoudre Erreur Hard Disk (Code 303) - Guide Complet</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/top-newest-online-threat-alerts-navigating-the-dangers-of-2021s-cybersecurity-landscape/"><u>Top Newest Online Threat Alerts: Navigating the Dangers of 2021'S Cybersecurity Landscape</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/troubleshoot-and-repair-the-unbootable-windows-11-system-with-these-15-essential-tips/"><u>Troubleshoot and Repair the Unbootable Windows 11 System with These 15 Essential Tips</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721267950434-uncover-how-to-salvage-images-in-windows-using-the-powerful-stellar-fixer-app/"><u>Uncover How to Salvage Images in Windows Using the Powerful Stellar Fixer App</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-soundless-screen-experience-a-walkthrough-to-remove-loud-elements-from-multiple-video-formats-mp4mkvavimov/"><u>Updated In 2024, Soundless Screen Experience A Walkthrough to Remove Loud Elements From Multiple Video Formats (MP4/MKV/AVI/MOV)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-visionguard-recorder-update-and-assessment-2023/"><u>[New] 2024 Approved VisionGuard Recorder Update and Assessment 2023</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-total-physical-action-scrutiny/"><u>[New] In 2024, Total Physical Action Scrutiny</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-discovering-new-dimensions-making-video-from-photographic-slices-with-pixiz/"><u>[Updated] 2024 Approved Discovering New Dimensions Making Video From Photographic Slices with Pixiz</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-avi-to-gif-transitions-on-pcmac-via-filmora-pro/"><u>2024 Approved Streamlining AVI to GIF Transitions on PC/Mac via Filmora Pro</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/4raid/"><u>4つ手順でRAIDアレイのバックアップ方法:最適解説</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/best-of-the-bunch-leading-email-marketing-strategies-in-2012-focus-on-relevancy-automated-messaging-and-next-gen-personalization-with-massmail/"><u>Best of the Bunch: Leading Email Marketing Strategies in 2012 - Focus on Relevancy, Automated Messaging & Next-Gen Personalization with MassMail</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/enlarge-images-pixel-perfect-preservation-for-2024/"><u>Enlarge Images Pixel-Perfect Preservation for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-geforce-nows-latest-pass-usefulness-tested/"><u>Evaluating GeForce Now's Latest Pass: Usefulness Tested</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/how-to-effortlessly-set-up-and-use-the-dxtrade-user-manual-with-metatrader-4-your-complete-step-by-step-tutorial-for-mt4-and-mt5-traders/"><u>How to Effortlessly Set Up and Use the DXTrade User Manual with MetaTrader 4 - Your Complete Step-by-Step Tutorial for MT4 & MT5 Traders</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/resolve-your-file-transfer-woes-why-does-windows-10-crash-during-copying/"><u>Resolve Your File Transfer Woes: Why Does Windows 10 Crash During Copying?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-guide-to-enhancing-instagram-stories-with-photos/"><u>Step-by-Step Guide to Enhancing Instagram Stories with Photos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-to-restoring-your-paradox-launchers-functionality/"><u>The Ultimate Guide to Restoring Your Paradox Launcher's Functionality</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-5-fixes-for-excessive-reserve-space-on-your-windows-10-pc/"><u>Top 5 Fixes for Excessive Reserve Space on Your Windows 10 PC</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/luchshie-specialisty-po-seo-v-kardiffe-dlya-204-goda-obzor-s-pomoshyu-seo-powersuite/"><u>Лучшие Специалисты По SEO В Кардиффе Для 2^04 Года: Обзор С Помощью SEO PowerSuite</u></a></li>
 </ul></div>
 

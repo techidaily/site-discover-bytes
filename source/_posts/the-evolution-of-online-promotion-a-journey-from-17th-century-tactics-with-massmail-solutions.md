@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Online Promotion: A Journey From 17Th Century Tactics with MassMail Solutions"
-date: 2024-11-20T13:14:03.176Z
-updated: 2024-11-26T12:52:41.301Z
+date: 2024-12-02T02:26:22.159Z
+updated: 2024-12-05T22:53:25.712Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -37,7 +37,7 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
@@ -45,7 +45,7 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -74,13 +74,13 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -94,6 +94,10 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
@@ -102,17 +106,9 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -121,6 +117,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,14 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-elite-assortment-advanced-webcam-mounts/"><u>[New] In 2024, Elite Assortment Advanced Webcam Mounts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-top-10-fb-videos-to-mp4-converter-toolkit/"><u>[Updated] 2024 Approved Top 10 FB Videos to MP4 Converter Toolkit</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726222178862-2024-10/"><u>2024에서 도움이 되는 가장 우수한 비주얼 슬라이싱 프로그: 10가지 선정 프로그</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/comment-connecter-et-partager-vos-fichiers-locaux-avec-google-drive-guide-complet-en-francais/"><u>Comment Connecter Et Partager Vos Fichiers Locaux Avec Google Drive : Guide Complet en Français</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/comment-optimiser-son-stockage-sans-compter-sur-les-disques-davant-un-guide-pratique-aux-ssd/"><u>Comment Optimiser Son Stockage SANS Compter Sur Les Disques D'Avant: Un Guide Pratique Aux SSD</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-tecno-spark-go-2023-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Tecno Spark Go (2023) Data? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/pocket-friendly-sound-extravaganza-oneplus-buds-review/"><u>Pocket-Friendly Sound Extravaganza - OnePlus Buds Review</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/ultimate-how-to-complete-iphone-14-data-transfer-using-itunes/"><u>Ultimate How-To: Complete iPhone 14 Data Transfer Using iTunes</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/wie-man-effizient-daten-importiert-und-manipuliert-tipps-fur-die-arbeit-mit-sql-datenbanksystemen/"><u>Wie Man Effizient Daten Importiert Und Manipuliert – Tipps Für Die Arbeit Mit SQL-Datenbanksystemen</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-new-era-facebook-video-autoplay-explained-for-2024/"><u>[New] The New Era Facebook Video Autoplay Explained for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-realme-v30t-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Realme V30T</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-radeon-hd-7870-latest-driver-downloads-and-update-guide-for-windows-10/"><u>AMD Radeon HD 7870: Latest Driver Downloads and Update Guide for Windows 10</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728484400184-aomei/"><u>AOMEI異機還原與不相似硬體還原:實用指南</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effortless-guide-for-mastering-system-state-recovery-in-ws-2008-r2-servers/"><u>Effortless Guide for Mastering System State Recovery in WS 2008 (R2) Servers</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/evaluating-tenorshare-data-recovery-software-a-comprehensive-review/"><u>Evaluating Tenorshare Data Recovery Software: A Comprehensive Review</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/exploring-malwarefox-costs-subscription-options-and-protection-features/"><u>Exploring MalwareFox: Costs, Subscription Options & Protection Features</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/fixes-for-black-screen-issue-on-windows-10-post-login-troubleshooting-steps/"><u>Fixes for Black Screen Issue on Windows 10 Post-Login Troubleshooting Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-windows-gaming-setup-with-playnite-and-emulators/"><u>Optimize Your Windows Gaming Setup with Playnite and Emulators</u></a></li>
+<li><a href="https://win11.techidaily.com/reinitialize-windows-11-memory-management/"><u>Reinitialize Windows 11 Memory Management</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211352895-9798869369284-spirituelle-farben-und-ihre-bedeutung-in-holy-ghost-school-neue-deutsche-ausgabe/"><u>SPIRITUELLE FARBEN und ihre Bedeutung - In HOLY GHOST SCHOOL - Neue deutsche Ausgabe | Free Book</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-oppo-reno-9a-by-drfone-android/"><u>Top 10 Password Cracking Tools For Oppo Reno 9A</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-socket-programming-in-python-for-windows-files/"><u>Understanding Socket Programming in Python for Windows Files</u></a></li>
+<li><a href="https://win-data.techidaily.com/wd-my-cloud-visibility-issues-how-to-resolve-connectivity-problems-with-windows-11/"><u>WD My Cloud Visibility Issues: How to Resolve Connectivity Problems with Windows 11</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728474366590-windows/"><u>セーフモードでWindowsの不具合時にファイル移行テクニック</u></a></li>
 </ul></div>
 

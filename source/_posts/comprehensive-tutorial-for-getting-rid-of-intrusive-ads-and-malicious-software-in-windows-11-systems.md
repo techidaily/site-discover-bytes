@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tutorial for Getting Rid of Intrusive Ads and Malicious Software in Windows 11 Systems
-date: 2024-11-11T22:05:32.128Z
-updated: 2024-11-17T01:31:42.926Z
+date: 2024-11-29T21:52:32.893Z
+updated: 2024-12-05T20:39:56.324Z
 tags:
   - product
   - antivirus
@@ -58,6 +58,10 @@ Click the _Chrome menu_, at the top right corner of the browser; select **_More 
 
 ![](https://malwarefox.com/wp-content/uploads/2017/08/1-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, check if there are any **unrecognizable extensions**. If there is any unwanted or unknown extension, then remove them by clicking the **Trash** icon, next to it.
 
 ![](https://malwarefox.com/wp-content/uploads/2017/08/2-1.png)
@@ -70,23 +74,9 @@ Go to the **_Settings_** window, and click the **_Set Pages_** option, under the
 
 ![](https://malwarefox.com/wp-content/uploads/2017/08/7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can also verify the search engine settings, by selecting the **Manage Search Engines** options, under the Search Engine segment. Choose your preferred search engine Default, here.
 
 ![](https://malwarefox.com/wp-content/uploads/2017/08/8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Check the Auto-Start Programs
 
@@ -106,10 +96,7 @@ Check whether there is any adware. For disabling anything unfamiliar, select it 
 ![](https://malwarefox.com/wp-content/uploads/2017/08/14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Uninstall the Unnecessary Programs
@@ -118,6 +105,10 @@ If you still see any intrusive ads or pop-ups; then check if there is any unwant
 
 ![](https://malwarefox.com/wp-content/uploads/2017/08/15.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Restore the System
 
 If you are still not successful in removing the adware, then run a **_System Restore;_** to roll back the computer to the date when it worked properly. But for this, you should have set a restore point in your system, when it works fine. First, let’s see how to create a restore point.
@@ -125,13 +116,6 @@ If you are still not successful in removing the adware, then run a **_System Res
 Type “_system restore_” in the Windows 10 Search box and select the **_Create a restore point_** from the oncoming suggestions. Now the **_System Properties_** dialog box will show up Get to the **_System Protection_** tab and then click the **_Configure_** button.
 
 ![](https://malwarefox.com/wp-content/uploads/2017/08/16.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Then enable the **_Turn on system protection_** option, and use the **_Max Usage_** slider to determine how much of the PC’s hard disk it can use to store the _Restore Points_. Usually, 5% to 10% is sufficient. After setting everything, click **_OK_**.
 
@@ -145,6 +129,10 @@ If you want to return to a _Restore Point_: Open the **_System Properties_** dia
 
 ![](https://malwarefox.com/wp-content/uploads/2017/08/19.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Download and Install MalwareFox Anti-Malware
 
 If you are not satisfied with all the procedures mentioned above; and if the adware persists in your Windows 10 PC; then you have to deal it with a competent, protective software program. MalwareFox is one the best anti-malware, you can download it from its official website. It is a robust program that efficiently discovers and eradicates various adware and malware; rendering a peaceful and secure experience with your PC.
@@ -156,16 +144,17 @@ Find and Remove Hidden Malware Viruses on your PC
 [DOWNLOAD](https://tools.techidaily.com/malwarefox/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 thoughts on “How to Remove Adware and Pop-Up Ads”
 
 1. ![](https://secure.gravatar.com/avatar/69afd48d01c1f014ee731fda8f91d976?s=50&d=mm&r=g)  
 neal  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [December 4, 2019 at 8:56 pm](https://tools.techidaily.com/malwarefox/products/)  
 thx, that adaware BS was driving me mad  
@@ -180,10 +169,7 @@ Really like your blog thanks! Check my blog out to if you like.
 Mel LeBlanc  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [May 18, 2020 at 9:45 pm](https://tools.techidaily.com/malwarefox/products/)  
@@ -191,10 +177,7 @@ What about the adware that comes built into the OS from Microsoft?
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -222,19 +205,19 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-entertaining-videoland-audit/"><u>[New] Entertaining Videoland Audit</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-freely-enhance-your-photos-iosandroids-best-overlay-apps-for-2024/"><u>[New] Freely Enhance Your Photos IOS/Android's Best Overlay Apps for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ame-jams-and-indie-project-highlights/"><u>[New] Game Jams and Indie Project Highlights</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-navigating-the-world-of-streamed-games/"><u>[New] In 2024, Navigating the World of Streamed Games</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-nailing-the-perfect-timelapse-with-ios-devices/"><u>[New] Nailing the Perfect Timelapse with iOS Devices</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-boosting-revenue-with-youtube-short-videos-a-complete-plan/"><u>2024 Approved Boosting Revenue with YouTube Short Videos – A Complete Plan</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1728479234013-windows-11/"><u>速やかなWindows 11起動の秘訣：効果的な解決法トップ９</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/exploring-the-world-of-guest-posts-in-depth-analysis-tips-for-better-seo-unlocking-potential-with-seo-powersuite/"><u>Exploring the World of Guest Posts - In-Depth Analysis, Tips for Better SEO | Unlocking Potential with SEO PowerSuite</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-evolution-of-business-embracing-vr-tech/"><u>In 2024, The Evolution of Business Embracing VR Tech</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/preserving-your-email-credibility-with-massmail-a-guide-on-protecting-the-senders-image/"><u>Preserving Your Email Credibility with MassMail: A Guide on Protecting the Sender’s Image</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/seamlessly-shifting-memories-the-ultimate-method-for-iphone-to-iphone-voice-memo-transfer/"><u>Seamlessly Shifting Memories: The Ultimate Method for iPhone-to-iPhone Voice Memo Transfer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-players-handbook-to-conquering-royal-match/"><u>The Ultimate Player's Handbook to Conquering Royal Match</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/understanding-exit-pages-comprehensive-guide-and-optimization-tips-for-seo-success/"><u>Understanding Exit Pages: Comprehensive Guide and Optimization Tips for SEO Success</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/understanding-the-difference-antivirus-protection-vs-internet-security-solutions/"><u>Understanding the Difference: Antivirus Protection Vs. Internet Security Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-editing-techniques-for-yt-channel-summaries/"><u>[New] In 2024, Essential Editing Techniques for YT Channel Summaries</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-rewind-revolution-novel-strategies-for-youtube-viewers/"><u>2024 Approved The Rewind Revolution Novel Strategies for YouTube Viewers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/altering-gender-display-in-digital-photographs-step-by-step-guide/"><u>Altering Gender Display in Digital Photographs Step by Step Guide</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/amd-graphics-drivers-automatisch-aktualisiert-durch-windows-update-prozess/"><u>AMD Graphics Drivers Automatisch Aktualisiert Durch Windows Update-Prozess</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/boost-your-outreach-with-atomics-cutting-edge-bluetooth-advertising-and-massmail-services/"><u>Boost Your Outreach with Atomic's Cutting-Edge Bluetooth Advertising & Massmail Services</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-infinix-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Infinix</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/error-404-the-missing-webpage-saga/"><u>Error 404: The Missing Webpage Saga</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/mastering-website-redirects-for-optimal-seo-performance-and-enhanced-visibility-expert-tips-from-powersuite/"><u>Mastering Website Redirects for Optimal SEO Performance and Enhanced Visibility | Expert Tips From PowerSuite</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/maximizing-click-through-rates-essential-4-step-cta-optimization-tactics-with-massmail/"><u>Maximizing Click-Through Rates: Essential 4-Step CTA Optimization Tactics with MassMail</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209578052-9781510709706-the-ultimate-guide-to-crystals-stones/"><u>The Ultimate Guide to Crystals & Stones | Free Book</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/the-ultimate-showdown-of-2011-how-email-marketing-outperforms-seo-with-stats-and-tools-by-massmail-software/"><u>The Ultimate Showdown of 2011: How Email Marketing Outperforms SEO with Stats and Tools by Massmail Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/transforming-your-archive-adding-instagram-filters-to-old-media/"><u>Transforming Your Archive Adding Instagram Filters to Old Media</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Why does the pokemon go battle league not available On Apple iPhone 12 | Dr.fone</u></a></li>
 </ul></div>
 

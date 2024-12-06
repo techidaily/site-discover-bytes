@@ -1,7 +1,7 @@
 ---
 title: "Email Marketing Pitfalls to Dodge for Success: Lessons From MassMail Software"
-date: 2024-11-14T20:32:51.503Z
-updated: 2024-11-16T21:33:17.200Z
+date: 2024-11-30T19:07:12.518Z
+updated: 2024-12-06T04:00:59.513Z
 tags:
   - product
 categories:
@@ -21,6 +21,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -44,18 +48,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -69,22 +70,12 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -96,10 +87,7 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -111,15 +99,16 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -128,13 +117,6 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -167,18 +149,14 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-delightful-digests-a-list-of-top-food-channels/"><u>[New] 2024 Approved Delightful Digests A List of Top Food Channels</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-youtube-free-conversion-hack-turn-hd-fb-videos-into-high-res-mp4-for-free/"><u>[New] 2024 Approved YouTube-Free Conversion Hack Turn HD FB Videos Into High-Res MP4 For Free</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-sourav-joshis-financial-blueprint-for-online-content-creators-2024/"><u>[New] Sourav Joshi's Financial Blueprint for Online Content Creators, 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-download-and-conversion-mastery-vimeo-to-mp4-guide-for-2024/"><u>[Updated] Download and Conversion Mastery Vimeo to MP4 Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-enhancing-your-facebook-cover-leading-websites-for-professionals/"><u>2024 Approved Enhancing Your Facebook Cover Leading Websites for Professionals</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/best-seo-firms-in-manama-bahrain-ranking-with-seo-powersuite/"><u>Best SEO Firms in Manama, Bahrain - Ranking with SEO PowerSuite</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/budget-management-strategies-during-the-2009-financial-downturn-key-insights-and-massmail-solutions/"><u>Budget Management Strategies During the 2009 Financial Downturn: Key Insights & MassMail Solutions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/choreographing-ideal-canon-time-lapse-shots-for-2024/"><u>Choreographing Ideal Canon Time-Lapse Shots for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhance-fluid-gameplay-fixing-fortnites-performance-hiccups-on-pc/"><u>Enhance Fluid Gameplay: Fixing Fortnite's Performance Hiccups on PC</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/finding-your-lost-pdfs-solutions-when-theyre-missing-from-the-recycle-bin/"><u>Finding Your Lost PDFs: Solutions When They're Missing From the Recycle Bin</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-motorola-moto-g24-phone-by-drfone-android/"><u>How to Reset a Locked Motorola Moto G24 Phone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/secure-savings-amidst-turmoil-how-banks-stand-out-according-to-massmail-software/"><u>Secure Savings Amidst Turmoil: How Banks Stand Out, According to MassMail Software</u></a></li>
-<li><a href="https://fox-that.techidaily.com/spotify-stability-strategies-preventing-app-crashes-during-iphone-screen-locks/"><u>Spotify Stability Strategies: Preventing App Crashes During iPhone Screen Locks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-unlocking-your-iphones-audio-library-with-top-podcast-strategies/"><u>[Updated] 2024 Approved Unlocking Your iPhone's Audio Library with Top Podcast Strategies</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/beginners-guide-to-forex-scalping-techniques-on-mt4-with-copier-tools/"><u>Beginner's Guide to Forex Scalping Techniques on MT4 with Copier Tools</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/come-gestire-e-correggere-gli-errori-della-screenshot-nera-sul-portatile-acer-utilizzando-i-controlli-di-cursore/"><u>Come Gestire E Correggere Gli Errori Della Screenshot Nera Sul Portatile Acer Utilizzando I Controlli Di Cursore</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-oppo-reno-8t-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Oppo Reno 8T 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-epic-locations-for-immersive-virtual-adventures/"><u>In 2024, Epic Locations for Immersive Virtual Adventures</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-voice-recording-mastery-with-ipad-tools/"><u>In 2024, Voice Recording Mastery with iPad Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-new-frontiers-metaverses-vs-omniverse/"><u>Navigating New Frontiers Metaverses Vs. Omniverse</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-5-seo-kompanij-v-detrojte-na-2024-god-eksklyuzivnoe-snyatie-seopowersuite/"><u>Топ-5 SEO-Компаний В Детройте На 2024 Год: Эксклюзивное Снятие - SEOPowerSuite</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-rejtingovye-seo-kompanii-v-suece-povysit-onlajn-prisutstvie-s-pomoshyu-seopauders-luchshie-varianty/"><u>Топ-Рейтинговые SEO-Компании В Суэце: Повысить Онлайн-Присутствие С Помощью SEOPаудерс - Лучшие Варианты</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Cybersecurity Roles: A Guide to Identifying White, Black, Gray, and Other Categories of Hackers"
-date: 2024-11-14T01:49:57.466Z
-updated: 2024-11-16T19:03:31.575Z
+date: 2024-12-04T03:26:43.262Z
+updated: 2024-12-05T21:13:07.512Z
 tags:
   - product
   - antivirus
@@ -83,6 +83,10 @@ So, these were the most commonly known and referred hackers. But there’s more.
 
 [10 Ways To Look Like a Professional Hacker](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Script Kiddies
 
 ![](https://malwarefox.com/wp-content/uploads/2017/11/script.png)
@@ -106,13 +110,6 @@ You can identify them by their spark to grow and learn more about the hacking tr
 
 ![](https://malwarefox.com/wp-content/uploads/2017/11/baseball-cap-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 These are another form of novice hackers much like script kiddies whose main agenda is to take revenge on anyone who makes them angry. They have no desire for learning and may use simple cyber attacks like flooding your IP with overloaded packets which will result in DoS attacks.
 
 A script kiddie with a vengeful agenda can be considered a blue hat hacker.
@@ -125,16 +122,13 @@ Red Hat Hackers have an agenda similar to white hat hackers which in simple word
 
 Instead of reporting a malicious attack, they believe in taking down the black hat hacker completely. Red hat hackers will launch a series of aggressive cyber attacks and malware on the hacker that the hacker may as well have to replace the whole system.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. State/Nation Sponsored Hackers
 
 ![](https://malwarefox.com/wp-content/uploads/2017/11/hacker-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
   
 State or Nation sponsored hackers are those who have been employed by their state or nation’s government to snoop in and penetrate through full security to gain confidential information from other governments to stay at the top online.
@@ -145,13 +139,14 @@ They have an endless budget and extremely advanced tools at their disposal to ta
 
 ![](https://malwarefox.com/wp-content/uploads/2017/11/hacker-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you’ve ever come across social activists propagandizing a social, political, or religious agenda, then you might as well meet hacktivists, the online version of an activist. Hacktivists are hackers or a group of anonymous hackers who think they can bring about social changes and often hack governments and organizations to gain attention or share their displeasure over opposing their line of thought.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Malicious Insider or Whistleblower
@@ -178,6 +173,10 @@ I hope you’ll stay safe and aware. Have a secure web experience and remain pro
 1. ![](https://secure.gravatar.com/avatar/d19af7a95e7d9b073ded82a8ad3b123a?s=50&d=mm&r=g)  
 Kartik Wathodkar  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [September 26, 2018 at 8:39 pm](https://tools.techidaily.com/malwarefox/products/)  
 Can’t identified which type of hacking is good or bad  
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
@@ -189,6 +188,11 @@ Can’t identified which type of hacking is good or bad
    [Reply](https://tools.techidaily.com/malwarefox/products/)  
          * ![](https://secure.gravatar.com/avatar/3001670d4fa10ed006f10f49bb6da351?s=50&d=mm&r=g)  
          Amatey egan  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
          [April 18, 2019 at 10:29 am](https://tools.techidaily.com/malwarefox/products/)  
          I love all hackers  
          [Reply](https://tools.techidaily.com/malwarefox/products/)  
@@ -196,10 +200,7 @@ Can’t identified which type of hacking is good or bad
                   daniel shields  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
                   [December 9, 2019 at 4:58 pm](https://tools.techidaily.com/malwarefox/products/)  
@@ -224,18 +225,15 @@ Can’t identified which type of hacking is good or bad
          * ![](https://secure.gravatar.com/avatar/933285225d6a05a99fe35d72b38ff17e?s=50&d=mm&r=g)  
          Anonymous  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
          [November 21, 2020 at 10:02 pm](https://tools.techidaily.com/malwarefox/products/)  
          By the way Iam a green hat hacker  
          [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/9ebead2da5b46593caa2b9faa0096aef?s=50&d=mm&r=g)  
    VPP Hacker  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    [October 25, 2019 at 6:38 pm](https://tools.techidaily.com/malwarefox/products/)  
    White Hat Hacking  
@@ -265,6 +263,11 @@ Hi i have been getting emails telling me my google account will be closed down c
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 4. ![](https://secure.gravatar.com/avatar/d19172df113f68b857c571761830a526?s=50&d=mm&r=g)  
 abid  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [March 9, 2019 at 12:46 pm](https://tools.techidaily.com/malwarefox/products/)  
 It’s very informative for me.Thanks  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -272,10 +275,7 @@ It’s very informative for me.Thanks
 lol  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [April 25, 2019 at 6:03 pm](https://tools.techidaily.com/malwarefox/products/)  
@@ -320,13 +320,6 @@ you were not meant to put the hats were you?
 11. ![](https://secure.gravatar.com/avatar/9294765082849ac555d46306e9cfa978?s=50&d=mm&r=g)  
 Max  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [July 23, 2020 at 2:13 am](https://tools.techidaily.com/malwarefox/products/)  
 Looking for a experienced professional black hat hacker to change my unversity grades  
 Must be able to show proof of work done and payment will be made  
@@ -349,13 +342,6 @@ Can hackers sometimes blur the lines of how they act? Like a black hat might act
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/2d15843334b68f216f34b79c81af7465?s=50&d=mm&r=g)  
    \~𝕽𝖊𝖇𝖊𝖑\~  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    [August 19, 2021 at 9:50 pm](https://tools.techidaily.com/malwarefox/products/)  
    Yes, I would think so, seeing how they can hack into all kind of websites, they must be able to do that.  
@@ -391,19 +377,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-essentials-of-starting-an-instagram-live/"><u>[New] 2024 Approved The Essentials of Starting an Instagram Live</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-the-verdict-on-splitcam-premium-recording-experience/"><u>[Updated] The Verdict on SplitCam - Premium Recording Experience?</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/aomei-backupper-reviewed-by-industry-leaders-find-out-why-it-experts-recommend-it/"><u>AOMEI Backupper Reviewed by Industry Leaders: Find Out Why IT Experts Recommend It!</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/creation-de-disque-dur-autonome-a-partir-dune-cle-usb-en-mode-bootable-une-alternative-aux-systemes-windows/"><u>Création De Disque Dur Autonome À Partir D'une Clé USB en Mode Bootable : Une Alternative Aux Systèmes Windows</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/exklusive-tipps-deaktivierung-von-onedrive-synchronisation-fur-windows-desktop-vorubergehend-oder-dauerhaft/"><u>Exklusive Tipps: Deaktivierung Von OneDrive-Synchronisation Für Windows-Desktop (Vorübergehend Oder Dauerhaft)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-creative-boundaries-with-high-quality-affects-plug-ins-for-2024/"><u>Explore Creative Boundaries with High-Quality Affects Plug-Ins for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-the-world-of-visual-learners-key-traits-and-attributes/"><u>Exploring the World of Visual Learners: Key Traits & Attributes</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-reverse-an-accidental-tiktok-reload-quick-guide/"><u>In 2024, Reverse an Accidental TikTok Reload – Quick Guide</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>iPogo will be the new iSpoofer On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/pasos-faciles-para-clonar-el-disco-duro-a-un-dispositivo-sandisk-ssd-en-windows-versiones-7-8-o-10/"><u>Pasos Fáciles Para Clonar El Disco Duro a Un Dispositivo SanDisk SSD en Windows (Versiones 7, 8 O 10)</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/praktische-techniken-zum-wiederauffinden-verlorener-daten-auf-usb-datentragern/"><u>Praktische Techniken Zum Wiederauffinden Verlorener Daten Auf USB-Datenträgern</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-wi-fi-issues-on-iphoneipad-with-these-easy-solutions-top-8/"><u>Troubleshooting Wi-Fi Issues on iPhone/iPad with These Easy Solutions (Top 8)</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/understanding-macro-viruses-removal-strategies-explored/"><u>Understanding Macro Viruses: Removal Strategies Explored</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-capture-and-transfer-igtv-videos-on-handheld-tech-for-2024/"><u>[New] Capture and Transfer IGTV Videos on Handheld Tech for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-acclaimed-melody-hub-for-android-devices/"><u>[Updated] Acclaimed Melody Hub for Android Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevating-profits-via-celebrity-skincare-channels/"><u>[Updated] In 2024, Elevating Profits via Celebrity Skincare Channels</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-vivid-cutting-edge-m1-chips-transform-video-editing-landscape/"><u>[Updated] Vivid Cutting Edge M1 Chips Transform Video Editing Landscape</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728465890850-windows-server-2019/"><u>如何修正：Windows Server 2019无法更新（五个有效方法） -专业指导</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/hddwindows-server-03/"><u>HDDクローン作成ツールを使用したWindows Server ˈ03データ移行法</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-v29-pro-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo V29 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-troubleshoot-windows-obs-studio-crashes/"><u>How to Troubleshoot Windows OBS Studio Crashes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-fabled-frontiers-top-10-roguely-ventures/"><u>In 2024, Fabled Frontiers Top 10 Roguely Ventures</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210582219-9781647016968-persecution-or-popularity-as-an-individual/"><u>Persecution or Popularity as an Individual | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-guide-diagnosing-and-repairing-a-502-bad-gateway-issue/"><u>Quick Guide: Diagnosing & Repairing a 502 Bad Gateway Issue</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/recover-missing-folders-on-windows-11-discover-8-effective-strategies/"><u>Recover Missing Folders on Windows 11: Discover 8 Effective Strategies</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/tout-en-gardant-vos-fichiers-comment-reinstaller-windows-groverbase/"><u>Tout en Gardant Vos Fichiers: Comment Réinstaller Windows Grover_base</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/transitioning-from-uefi-to-traditional-bios-for-hyper-v-gen-2-hosts/"><u>Transitioning From UEFI to Traditional BIOS for Hyper-V Gen 2 Hosts</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/troubleshooting-guide-why-cant-hyper-v-detect-vms-for-imports-at-specified-path/"><u>Troubleshooting Guide: Why Can't Hyper-V Detect VMs for Imports at Specified Path?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unveiling-your-windows-11s-powershell-version-a-comprehensive-guide/"><u>Unveiling Your Windows 11'S PowerShell Version: A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/windatarestore-pro-advanced-recovery-solutions-for-windows-7-and-windows-11-users/"><u>WinDataRestore Pro: Advanced Recovery Solutions for Windows 7 and Windows 11 Users</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/windows-server-2008google-drive/"><u>Windows Server 2008と連携したGoogle Driveへのファイル同期手順</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728467643443-windows-111087/"><u>プログラムファイルの転送 - Windows 11/10/8/7におすすめ最適解法</u></a></li>
 </ul></div>
 

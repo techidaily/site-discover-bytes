@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Boosting Traffic with Genuine Reviews - Using Massmail's Automated Email Campaign Tools
-date: 2024-11-20T01:34:19.750Z
-updated: 2024-11-25T17:45:26.982Z
+date: 2024-12-03T18:01:40.967Z
+updated: 2024-12-05T21:07:02.750Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -37,7 +33,7 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
@@ -52,10 +48,6 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -63,7 +55,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -77,6 +69,10 @@ That is why in 2022, SMS will increasingly serve as the glue that cements multic
 One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware/products/), which helps local businesses and national chains to create and execute campaigns that feature shortcodes in direct mailers. After texting the shortcode, consumers receive an e-coupon on their phone that they redeem by showing to the merchant’s sales associate.
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
@@ -94,6 +90,10 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
@@ -102,12 +102,16 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,20 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exquisite-talent-in-vr-content-development/"><u>2024 Approved Exquisite Talent in VR Content Development</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/android-dominance-top-10-moba-games-showcase-for-2024/"><u>Android Dominance Top 10 MOBA Games Showcase for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/beginner-friendly-forex-copy-trading-on-mt4-essential-strategies-and-tools/"><u>Beginner-Friendly Forex Copy Trading on MT4: Essential Strategies & Tools</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/boost-your-outreach-with-atomics-cutting-edge-bluetooth-advertising-and-massmail-services/"><u>Boost Your Outreach with Atomic's Cutting-Edge Bluetooth Advertising & Massmail Services</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/corsair-one-pro-assessment-the-ultimate-creation-station-for-gamers/"><u>Corsair One Pro Assessment: The Ultimate Creation Station for Gamers</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-y78plus-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo Y78+ Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/einfache-losungen-zur-einfachen-wiederherstellung-von-daten-auf-einer-sd-karte-entdecken-sie-diese-vier-effektiven-methoden/"><u>Einfache Lösungen Zur Einfachen Wiederherstellung Von Daten Auf Einer SD-Karte: Entdecken Sie Diese Vier Effektiven Methoden</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhanced-development-blending-chatgpt-and-vs-code-ideas/"><u>Enhanced Development: Blending ChatGPT & VS Code Ideas</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/gamers-guide-to-selecting-the-perfect-high-performance-cpu/"><u>Gamers' Guide to Selecting the Perfect High-Performance CPU</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/mastering-website-redirects-for-optimal-seo-performance-and-enhanced-visibility-expert-tips-from-powersuite/"><u>Mastering Website Redirects for Optimal SEO Performance and Enhanced Visibility | Expert Tips From PowerSuite</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-the-no-compatible-driverhardware-found-issue-in-rainbow-six-extraction/"><u>Resolving the No Compatible Driver/Hardware Found Issue in Rainbow Six Extraction</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-seamless-swivel-rotating-your-media-masterpieces-on-social-sites/"><u>The Seamless Swivel Rotating Your Media Masterpieces on Social Sites</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/understanding-the-disposition-effect-in-trading-strategies-an-in-depth-analysis/"><u>Understanding the Disposition Effect in Trading Strategies - An In-Depth Analysis</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/windows-11-ultimate-guide-to-fast-and-efficient-file-transfers-top-8-solutions/"><u>Windows 11: Ultimate Guide to Fast & Efficient File Transfers – Top 8 Solutions</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/top-5-uspeshnyh-seo-kompanij-v-abu-dabi-obuedinennye-arabskie-emiraty-oae-za-2024-g-seo-powersuite/"><u>Топ-5 Успешных SEO-Компаний В Абу-Даби, Объединенные Арабские Эмираты (ОАЭ) За 2024 Г. - SEO PowerSuite</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-enhancing-interior-luminosity-naturally/"><u>[Updated] 2024 Approved Enhancing Interior Luminosity Naturally</u></a></li>
+<li><a href="https://common-error.techidaily.com/a-step-by-step-guide-restoring-your-steam-files-privileges/"><u>A Step-by-Step Guide: Restoring Your Steam Files’ Privileges</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/best-seo-firms-in-dublin-enhance-your-web-visibility-with-our-premier-services/"><u>Best SEO Firms in Dublin: Enhance Your Web Visibility with Our Premier Services</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/die-effektive-methode-zum-erstellen-eines-bare-metal-ruckspiels-fur-windows-10-ein-umfassender-leitfaden/"><u>Die Effektive Methode Zum Erstellen Eines Bare-Metal-Rückspiels Für Windows 10 - Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-realtek-usb-wifi-dongle-driver-for-windows-10/"><u>Free Download: Realtek USB WiFi Dongle Driver for Windows 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-steelseries-game-enhancer-free-download-now/"><u>Get the Latest SteelSeries Game Enhancer - [Free Download Now]</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/mastering-hyperlinks-for-seo-success-insightful-overview-and-effective-techniques-unveiled/"><u>Mastering Hyperlinks for SEO Success: Insightful Overview & Effective Techniques Unveiled</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/mastering-quick-profits-in-forex-trading-a-step-by-nstep-approach-to-scalping-using-mt4-copiers/"><u>Mastering Quick Profits in Forex Trading: A Step-by-nStep Approach to Scalping Using MT4 Copiers</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-chrome-and-firefox-issues-how-to-fix-youtube-videos-when-the-audio-keeps-playing-but-video-freezes/"><u>Resolving Chrome and Firefox Issues: How to Fix YouTube Videos When the Audio Keeps Playing but Video Freezes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/smartphone-camera-accessories-vloggers-should-try-to-improve-recording-for-2024/"><u>Smartphone Camera Accessories Vloggers Should Try to Improve Recording for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-upgrading-from-vmware-esxi-67-to-version-70-using-iso-images-or-esxcli-tools/"><u>Step-by-Step Guide: Upgrading From VMware ESXi 6.7 to Version 7.0 Using ISO Images or ESXCLI Tools</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/yahoo-implements-new-dmarc-policies-in-depth-analysis-with-massmail-software/"><u>Yahoo Implements New DMARC Policies: In-Depth Analysis with MassMail Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bank Account Marketing: Effective Strategies with Mass Email Campaigns - Insights From the MMSW Blog"
-date: 2024-11-09T18:41:58.122Z
-updated: 2024-11-16T19:55:33.654Z
+date: 2024-11-29T02:32:07.627Z
+updated: 2024-12-05T20:38:52.693Z
 tags:
   - product
 categories:
@@ -22,13 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -39,15 +32,16 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -57,13 +51,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -83,6 +70,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -92,22 +83,12 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -129,15 +110,16 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -167,17 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-boundless-memories-archive-instagrams-free-saves/"><u>[New] 2024 Approved Boundless Memories Archive Instagram’s Free Saves</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-enhancing-tiktok-profiles-with-linktree-features/"><u>[New] In 2024, Enhancing TikTok Profiles with Linktree Features</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-extreme-expeditions-the-hero5-black-vs-hero5-session-showdown/"><u>[Updated] In 2024, Extreme Expeditions The Hero5 Black Vs Hero5 Session Showdown</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-15-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 15 to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/effective-ways-to-prevent-trackers-while-browsing-with-firefox/"><u>Effective Ways to Prevent Trackers While Browsing with Firefox</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-find-the-best-value-top-6-budget-friendly-camera-options/"><u>In 2024, Find the Best Value Top 6 Budget-Friendly Camera Options</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-mastering-motion-photography-with-the-latest-yi-technology/"><u>In 2024, Mastering Motion Photography with the Latest Yi Technology</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Vivo S17e? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/manage-your-stress-chronic-stress-may-weaken-your-immune-system-making-you-more-susceptcuable-to-infections-like-utis-consider-trying-relaxation-techniques-387/"><u>Manage Your Stress: Chronic Stress May Weaken Your Immune System, Making You More Susceptcuable to Infections Like UTIs. Consider Trying Relaxation Techniques Such as Meditation, Yoga or Deep Breathing Exercises to Help Manage Stress Levels.</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/professionelle-ubertragung-von-hdd-wiederherstellungspartitionen-auf-eine-ssd-fur-nutzer-in-deutschland/"><u>Professionelle Übertragung Von HDD-Wiederherstellungspartitionen Auf Eine SSD Für Nutzer in Deutschland</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/top-5-gratis-datentransferprogramme-fur-jeden-windows-pc-entdecken-sie-die-besten/"><u>Top 5 Gratis Datentransferprogramme Für Jeden Windows PC - Entdecken Sie Die Besten</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/wiederherstellung-geloschter-bilddateien-in-windows-xp-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Gelöschter Bilddateien in Windows XP: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-gelato-gadgets-step-by-step-screen-capture-for-frozen-snacks-for-2024/"><u>[New] Gelato Gadgets Step-by-Step Screen Capture for Frozen Snacks for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-leveraging-youtubes-power-for-enhanced-tiktok-presence/"><u>[New] Leveraging YouTube's Power for Enhanced TikTok Presence</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/avigating-file-extraction-from-youtube-browser-os-and-terminal-methods-for-2024/"><u>[New] Navigating File Extraction From Youtube Browser, OS and Terminal Methods for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/2018-ibmponemon-institute-report-analyzing-the-financial-impact-of-data-security-incidents-on-companies/"><u>2018 IBM/Ponemon Institute Report: Analyzing the Financial Impact of Data Security Incidents on Companies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/caf-mp3movavi/"><u>自由下載 CAF到 MP3：Movavi 無限制音訊過渡工具</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/bypassing-and-repairing-the-notorious-0x80240023-error-in-microsofts-windows-updates-guide/"><u>Bypassing and Repairing the Notorious 0X80240023 Error in Microsoft's Windows Updates (Guide)</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/decoding-vmwares-vsphere-site-recovery-manager-unveiling-the-mechanics-behind-disaster-recovery/"><u>Decoding VMware's vSphere Site Recovery Manager - Unveiling the Mechanics Behind Disaster Recovery</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/expert-tips-reviving-broken-front-headphonemicrophone-jacks-on-electronics/"><u>Expert Tips: Reviving Broken Front Headphone/Microphone Jacks on Electronics</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-start-to-finish-the-complete-telegram-web-journey/"><u>From Start to Finish The Complete Telegram Web Journey</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-moto-g13-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Moto G13 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/leading-non-integrated-photo-editors-optimized-for-windows-users/"><u>Leading Non-Integrated Photo Editors Optimized for Windows Users</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/losungsansatze-sichtbare-dateien-aufrufen-wege-fur-ungespeicherte-dokumente-in-ordnern-unter-windows-1187/"><u>Lösungsansätze: Sichtbare Dateien Aufrufen - Wege Für Ungespeicherte Dokumente in Ordnern Unter Windows 11/8/7</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/macrium-reflect-free/"><u>Macrium Reflect Freeの自由ダウンロードと優れたバックアップツールの選び方:実践的チュートリアル</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/review-of-oladance-ows-sports-by-oladance-assessing-the-acoustic-quality-of-these-open-back-earphones/"><u>Review of Oladance OWS Sports by Oladance: Assessing the Acoustic Quality of These Open-Back Earphones</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/solution-melatonin-helps-regulate-the-bodys-internal-clock-signaling-when-it-is-time-to-sleep-disruptions-in-its-production-can-lead-to-circadian-rhythm-dis53/"><u>Solution: Melatonin Helps Regulate the Body's Internal Clock, Signaling when It Is Time to Sleep. Disruptions in Its Production Can Lead to Circadian Rhythm Disorders Like Insomnia or Delayed Sleep Phase Syndrome.</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-nier-automata-game-crashes-on-windows-a-step-by-step-guide/"><u>Troubleshooting Nier: Automata Game Crashes on Windows – A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/zwei-methoden-zum-aktivieren-der-systemwiederherstellungspartition-in-windows/"><u>Zwei Methoden Zum Aktivieren Der Systemwiederherstellungspartition in Windows</u></a></li>
 </ul></div>
 
