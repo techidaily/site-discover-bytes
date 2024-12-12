@@ -1,7 +1,7 @@
 ---
 title: Effective Mobile Marketing Strategies of 2019 - Insights & Tips [Infographic] by MassMail
-date: 2024-12-03T18:38:08.301Z
-updated: 2024-12-06T06:00:05.520Z
+date: 2024-12-05T17:21:39.656Z
+updated: 2024-12-11T16:40:34.207Z
 tags:
   - product
 categories:
@@ -18,9 +18,17 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -32,17 +40,9 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -51,10 +51,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -83,24 +79,28 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -118,10 +118,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,15 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-skyrocket-with-subscribers-5-proven-methods-for-igtv-success/"><u>2024 Approved Skyrocket with Subscribers 5 Proven Methods for IGTV Success</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-xiaomi-14-ultra-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Xiaomi 14 Ultra</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/effective-techniques-for-skyrocketing-black-friday-sales-in-2020-using-massmail-solutions/"><u>Effective Techniques for Skyrocketing Black Friday Sales in 2020 Using MassMail Solutions</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/guia-completa-maximizando-el-uso-y-proteccion-en-la-optimizacion-del-copia-de-seguridad-de-correo-electronico/"><u>Guía Completa: Maximizando El Uso Y Protección en La Optimización Del Copia De Seguridad De Correo Electrónico</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/how-to-perform-a-complete-system-restore-on-your-windows-11-tablet-bypassing-the-lock-screen/"><u>How to Perform a Complete System Restore on Your Windows 11 Tablet Bypassing the Lock Screen</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/mastering-forex-effective-strategies-with-ichimoku-channels-on-the-metatrader-4-platform/"><u>Mastering Forex: Effective Strategies with Ichimoku Channels on the MetaTrader 4 Platform</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-7-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 7 Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pre-purchase-wisdom-the-most-important-windows-laptop-tips/"><u>Pre-Purchase Wisdom: The Most Important Windows Laptop Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/snag-the-ultimate-bargain-ipads-on-sale-for-only-199-this-amazon-labor-day-event/"><u>Snag the Ultimate Bargain: IPads on Sale for Only $199 This Amazon Labor Day Event</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/transform-your-broadcasts-5-advanced-recording-methods-web/"><u>Transform Your Broadcasts 5 Advanced Recording Methods Web</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-everyday-epics-in-a-lens-tips-to-avoid-common-mistakes/"><u>[Updated] Everyday Epics in a Lens Tips to Avoid Common Mistakes</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/aomei-windows-aomei-backupper/"><u>AOMEI資料保全優選: Windows簡易備份與同步解決方案 - AOMEI Backupper基本版</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/come-clonare-il-tuo-disco-di-avvio-su-uno-ssd-ridotto-metodo-ottimale-per-windows-10-8-7-e-11/"><u>Come Clonare Il Tuo Disco Di Avvio Su Uno SSD Ridotto: Metodo Ottimale per Windows 10, 8, 7 E 11</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/como-transferir-informacion-de-una-memoria-usb-a-otra-con-facilidad-y-seguridad/"><u>Cómo Transferir Información De Una Memoria USB a Otra Con Facilidad Y Seguridad</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/cutting-down-on-returns-6-proven-strategies-with-massmails-solution/"><u>Cutting Down on Returns: 6 Proven Strategies with MassMail's Solution</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/how-to-retrieve-lost-files-on-your-iphone-7-plus-x-or-xr-a-step-by-step-guide/"><u>How to Retrieve Lost Files on Your iPhone 7 Plus, X, or XR - A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/restoring-lost-images-on-your-fuji-camera-a-complete-guide/"><u>Restoring Lost Images on Your Fuji Camera: A Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/should-you-preserve-the-msdia80dll-on-your-computer-a-comprehensive-guide/"><u>Should You Preserve the MSDIA80.DLL on Your Computer? A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/streamlined-approaches-for-zoom-utility-on-chromebook-for-2024/"><u>Streamlined Approaches for Zoom Utility on Chromebook for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-business-perspective-5-main-arguments-against-ais-invasion/"><u>The Business Perspective: 5 Main Arguments Against AI's Invasion</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-gamer-seating-solutions-your-ultimate-guide/"><u>Top Rated Gamer Seating Solutions : Your Ultimate Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-when-cod-vanguards-voice-chat-wont-connect/"><u>Troubleshooting Guide: When COD: Vanguard's Voice Chat Won't Connect</u></a></li>
+<li><a href="https://techidaily.com/unveiling-the-true-potential-of-ai-insights-from-the-ai-summit-diving-deeper-with-abbyy/"><u>Unveiling the True Potential of AI: Insights From the AI Summit - Diving Deeper with ABBYY</u></a></li>
 </ul></div>
 

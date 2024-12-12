@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Online Promotion: A Journey From 17Th Century Tactics with MassMail Solutions"
-date: 2024-12-02T02:26:22.159Z
-updated: 2024-12-05T22:53:25.712Z
+date: 2024-12-08T23:19:10.077Z
+updated: 2024-12-11T21:43:21.520Z
 tags:
   - product
 categories:
@@ -18,12 +18,16 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -36,16 +40,12 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -61,6 +61,10 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -78,10 +82,6 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
@@ -90,13 +90,13 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -105,6 +105,10 @@ When promoting your vanity short code, always provide the short code’s digits 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -117,10 +121,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,20 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-new-era-facebook-video-autoplay-explained-for-2024/"><u>[New] The New Era Facebook Video Autoplay Explained for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-realme-v30t-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Realme V30T</u></a></li>
-<li><a href="https://driver-download.techidaily.com/amd-radeon-hd-7870-latest-driver-downloads-and-update-guide-for-windows-10/"><u>AMD Radeon HD 7870: Latest Driver Downloads and Update Guide for Windows 10</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1728484400184-aomei/"><u>AOMEI異機還原與不相似硬體還原:實用指南</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/effortless-guide-for-mastering-system-state-recovery-in-ws-2008-r2-servers/"><u>Effortless Guide for Mastering System State Recovery in WS 2008 (R2) Servers</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/evaluating-tenorshare-data-recovery-software-a-comprehensive-review/"><u>Evaluating Tenorshare Data Recovery Software: A Comprehensive Review</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/exploring-malwarefox-costs-subscription-options-and-protection-features/"><u>Exploring MalwareFox: Costs, Subscription Options & Protection Features</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/fixes-for-black-screen-issue-on-windows-10-post-login-troubleshooting-steps/"><u>Fixes for Black Screen Issue on Windows 10 Post-Login Troubleshooting Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-your-windows-gaming-setup-with-playnite-and-emulators/"><u>Optimize Your Windows Gaming Setup with Playnite and Emulators</u></a></li>
-<li><a href="https://win11.techidaily.com/reinitialize-windows-11-memory-management/"><u>Reinitialize Windows 11 Memory Management</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211352895-9798869369284-spirituelle-farben-und-ihre-bedeutung-in-holy-ghost-school-neue-deutsche-ausgabe/"><u>SPIRITUELLE FARBEN und ihre Bedeutung - In HOLY GHOST SCHOOL - Neue deutsche Ausgabe | Free Book</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-oppo-reno-9a-by-drfone-android/"><u>Top 10 Password Cracking Tools For Oppo Reno 9A</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-socket-programming-in-python-for-windows-files/"><u>Understanding Socket Programming in Python for Windows Files</u></a></li>
-<li><a href="https://win-data.techidaily.com/wd-my-cloud-visibility-issues-how-to-resolve-connectivity-problems-with-windows-11/"><u>WD My Cloud Visibility Issues: How to Resolve Connectivity Problems with Windows 11</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1728474366590-windows/"><u>セーフモードでWindowsの不具合時にファイル移行テクニック</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-many-viewer-thumbs-up-equals-money-youtube-tips-for-2024/"><u>[New] How Many Viewer Thumbs Up Equals Money? YouTube Tips for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-affordable-high-definition-top-mirrorless-cameras-(1k/"><u>[Updated] Affordable High-Definition Top Mirrorless Cameras (<$1K)</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-navigating-through-windows-11s-new-frontier/"><u>[Updated] Navigating Through Windows 11'S New Frontier</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/aomei-backupper-reviewed-by-industry-leaders-find-out-why-it-experts-recommend-it/"><u>AOMEI Backupper Reviewed by Industry Leaders: Find Out Why IT Experts Recommend It!</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/exklusive-tipps-deaktivierung-von-onedrive-synchronisation-fur-windows-desktop-vorubergehend-oder-dauerhaft/"><u>Exklusive Tipps: Deaktivierung Von OneDrive-Synchronisation Für Windows-Desktop (Vorübergehend Oder Dauerhaft)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-get-animated-top-10-apps-to-turn-your-photos-into-cartoons/"><u>New Get Animated Top 10 Apps to Turn Your Photos Into Cartoons</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/pasos-faciles-para-clonar-el-disco-duro-a-un-dispositivo-sandisk-ssd-en-windows-versiones-7-8-o-10/"><u>Pasos Fáciles Para Clonar El Disco Duro a Un Dispositivo SanDisk SSD en Windows (Versiones 7, 8 O 10)</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/praktische-techniken-zum-wiederauffinden-verlorener-daten-auf-usb-datentragern/"><u>Praktische Techniken Zum Wiederauffinden Verlorener Daten Auf USB-Datenträgern</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/prime-steps-in-choosing-pre-owned-electronics/"><u>Prime Steps in Choosing Pre-Owned Electronics</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-ways-to-randomize-youtube-playlist-on-pcphonestvs-for-2024/"><u>Quick Ways to Randomize YouTube Playlist On PC/Phones/TVs for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-selection-childrens-drone-choices-for-2024/"><u>Ultimate Selection Children's Drone Choices for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/understanding-macro-viruses-removal-strategies-explored/"><u>Understanding Macro Viruses: Removal Strategies Explored</u></a></li>
+<li><a href="https://article-files.techidaily.com/unveiling-the-virtual-essence-metaphysical-metaverse-adages/"><u>Unveiling the Virtual Essence Metaphysical Metaverse Adages</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-windows-live-movie-maker-tutorial-adding-a-slow-motion-effect-to-your-videos-for-2024/"><u>Updated Windows Live Movie Maker Tutorial Adding a Slow Motion Effect to Your Videos for 2024</u></a></li>
 </ul></div>
 

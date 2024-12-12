@@ -1,7 +1,7 @@
 ---
 title: Navigating Life's Crossroads in 2009 with Crisis Management Strategies & Email Solutions by MassMail
-date: 2024-12-01T02:02:44.258Z
-updated: 2024-12-05T20:50:49.624Z
+date: 2024-12-08T00:59:04.883Z
+updated: 2024-12-11T16:51:59.919Z
 tags:
   - product
 categories:
@@ -17,6 +17,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
@@ -45,7 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -55,7 +59,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -78,10 +82,6 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -95,7 +95,7 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
@@ -103,7 +103,7 @@ When promoting your vanity short code, always provide the short code’s digits 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -118,6 +118,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,20 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-8-compelling-no-cost-video-calls-applications-for-pc-and-mac-users/"><u>[New] In 2024, 8 Compelling No-Cost Video Calls Applications for PC and MAC Users</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-walking-dead-an-insiders-guide-to-best-zombie-experiences/"><u>[Updated] Walking Dead An Insider's Guide to Best Zombie Experiences</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-samsung-galaxy-s23-ultra-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Samsung Galaxy S23 Ultra Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/ace-your-blogging-game-with-leading-seo-platforms-unlock-the-secrets-of-online-visibility-and-traffic-growth/"><u>Ace Your Blogging Game with Leading SEO Platforms - Unlock the Secrets of Online Visibility & Traffic Growth</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/building-your-sales-funnel-with-massmail-a-five-stage-process-for-generating-a-prospect-list/"><u>Building Your Sales Funnel with MassMail: A Five-Stage Process for Generating a Prospect List</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/comparative-analysis-mobile-vs-desktop-email-usage-trends-and-projections-2012-2013-with-insights-from-massmail-tools/"><u>Comparative Analysis: Mobile Vs. Desktop Email Usage Trends & Projections (2012-2013) with Insights From MassMail Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/cutting-college-costs-how-to-score-that-sweet-student-deal-on-spotify-subscriptions/"><u>Cutting College Costs: How to Score That Sweet Student Deal on Spotify Subscriptions</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/effiziente-strategien-zum-transfer-von-hyper-v-dateien-anleitung-zu-schneller-und-einfacher-datenbewegung/"><u>Effiziente Strategien Zum Transfer Von Hyper-V Dateien: Anleitung Zu Schneller Und Einfacher Datenbewegung</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-transformed-by-sheryl-sandbergs-leadership/"><u>Facebook Transformed by Sheryl Sandberg’s Leadership</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/how-to-edit-video-content-from-ios-devices-on-your-windows-pc-guide-for-windows-11-10-and-8/"><u>How to Edit Video Content From iOS Devices on Your Windows PC (Guide for Windows 11, 10 & 8)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-xiaomi-redmi-note-13-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Xiaomi Redmi Note 13 5G?</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/navigating-through-the-google-penalty-labyrinth-defining-sandbox-strategy-and-top-seo-tips-for-success/"><u>Navigating Through the Google Penalty Labyrinth: Defining Sandbox Strategy & Top SEO Tips for Success</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/steps-voor-migratie-van-windows-server-201/"><u>Steps Voor Migratie Van Windows Server 201</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-url-minification-the-best-tools-for-youtubers-convenience-for-2024/"><u>Video URL Minification The Best Tools for Youtubers' Convenience for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1728483940881-windows-11/"><u>Windows 11の初期設定を行う前に重要なデータ保存ガイド</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-designing-a-spectacular-snapshot-of-cinema/"><u>[New] In 2024, Designing a Spectacular Snapshot of Cinema</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-insightful-approaches-to-recognizing-genuine-facebook-advocates/"><u>[New] Insightful Approaches to Recognizing Genuine Facebook Advocates</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-quick-glance-fastest-photo-viewer-in-11-os-for-2024/"><u>[New] Quick Glance Fastest Photo Viewer in 11 OS for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728479234013-windows-11/"><u>速やかなWindows 11起動の秘訣：効果的な解決法トップ９</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-for-resolving-logitech-g-hub-problems-on-windows-systems/"><u>Expert Tips for Resolving Logitech G Hub Problems on Windows Systems</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/exploring-the-world-of-guest-posts-in-depth-analysis-tips-for-better-seo-unlocking-potential-with-seo-powersuite/"><u>Exploring the World of Guest Posts - In-Depth Analysis, Tips for Better SEO | Unlocking Potential with SEO PowerSuite</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-easy-peasy-animation-8-best-tools-for-animated-photos-for-2024/"><u>New Easy Peasy Animation 8 Best Tools for Animated Photos for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/revive-your-aging-pc-with-these-cost-free-tricks-before-upgrading-to-windows-10-zdnet/"><u>Revive Your Aging PC with These Cost-Free Tricks Before Upgrading to Windows 10 - ZDNet</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/seamlessly-shifting-memories-the-ultimate-method-for-iphone-to-iphone-voice-memo-transfer/"><u>Seamlessly Shifting Memories: The Ultimate Method for iPhone-to-iPhone Voice Memo Transfer</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/turning-views-into-vouchers-youtube-marketing/"><u>Turning Views Into Vouchers YouTube Marketing</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/understanding-exit-pages-comprehensive-guide-and-optimization-tips-for-seo-success/"><u>Understanding Exit Pages: Comprehensive Guide and Optimization Tips for SEO Success</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/understanding-the-difference-antivirus-protection-vs-internet-security-solutions/"><u>Understanding the Difference: Antivirus Protection Vs. Internet Security Solutions</u></a></li>
 </ul></div>
 

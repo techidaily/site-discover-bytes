@@ -1,7 +1,7 @@
 ---
 title: "Cutting Down on Returns: 6 Proven Strategies with MassMail's Solution"
-date: 2024-12-01T01:57:27.399Z
-updated: 2024-12-06T01:21:16.492Z
+date: 2024-12-08T04:22:27.870Z
+updated: 2024-12-11T20:32:16.939Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -35,10 +35,6 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -51,6 +47,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -78,36 +78,40 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
@@ -117,10 +121,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,21 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-mastering-iphone-photo-blurring-4-techniques-explored/"><u>[New] In 2024, Mastering iPhone Photo Blurring 4 Techniques Explored</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gamer-gold-grindings-pewdiepies-profit-profile/"><u>2024 Approved Gamer Gold Grindings PewDiePie's Profit Profile</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-titans-collide-unraveling-palm-2-and-gpt-4-differences/"><u>AI Titans Collide: Unraveling PaLM 2 and GPT-4 Differences</u></a></li>
-<li><a href="https://article-posts.techidaily.com/chronicle-crafters-collective-select-seventeen-for-2024/"><u>Chronicle Crafters Collective - Select Seventeen for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/come-reimpostare-la-tua-rete-windows-11-usando-i-command-prompt/"><u>Come Reimpostare La Tua Rete Windows 11 Usando I Command Prompt</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/comprehensive-guide-to-enable-and-manage-vsphere-replication-within-a-vsan-environment/"><u>Comprehensive Guide to Enable and Manage vSphere Replication Within a vSAN Environment</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-gaming-graphics-download-the-official-nvidia-drivers-for-rtx-3070-ti-on-windows-1087/"><u>Enhance Gaming Graphics: Download the Official NVIDIA Drivers for RTX 3070 Ti on Windows 10/8/7</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/error-webpage-unavailable-encountering-a-404-page/"><u>Error: Webpage Unavailable – Encountering a 404 Page</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/fongo-reviewed-unlocking-the-potential-of-reliable-canadian-voice-over-ip-offerings/"><u>Fongo Reviewed: Unlocking the Potential of Reliable Canadian Voice Over IP Offerings</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-understanding-film-a-beginners-guide-to-essential-shots/"><u>In 2024, Understanding Film A Beginner's Guide to Essential Shots</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/learn-to-cut-out-the-unwanted-a-guide-to-erasing-background/"><u>Learn to Cut Out the Unwanted A Guide to Erasing Background</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/protecting-system-restore-and-reset-partitions-across-win-7-8-and-10/"><u>Protecting System Restore and Reset Partitions Across Win 7, 8 & 10</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-google-pixel-7a-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Google Pixel 7a? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/the-top-two-methods-for-a-successful-kingston-secure-wipe/"><u>The Top Two Methods for a Successful Kingston Secure Wipe</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/top-two-methods-for-automatically-saving-excel-files-to-a-new-location-a-comprehensive-guide/"><u>Top Two Methods for Automatically Saving Excel Files to a New Location: A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/wie-aktualisiere-ich-das-betriebssystem-meines-iphones-um-es-zu-aktivieren/"><u>Wie Aktualisiere Ich Das Betriebssystem Meines iPhones, Um Es Zu Aktivieren?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-apex-design-hub-audit/"><u>[New] Apex Design Hub Audit</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-from-zero-to-hero-establishing-a-new-social-media-presence-facebook-for-2024/"><u>[New] From Zero to Hero Establishing a New Social Media Presence (Facebook) for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-magixs-image-ordering-an-assessment-for-2024/"><u>[New] MAGIX's Image Ordering An Assessment for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-discovering-unmatched-premium-rate-free-luts-of-today/"><u>[Updated] In 2024, Discovering Unmatched Premium-Rate Free LUTs of Today</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-perfecting-your-video-content-for-instagram-feed-for-2024/"><u>[Updated] Perfecting Your Video Content for Instagram Feed for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/44cm5b6p5y6f5pa55rov5ryu56s677ya6kej5rg65lqu56iu5lin5yplusv6k6a5qqu5qgi5oiw55uu6yye5lif5asx55qe5oqa5ben44cn/"><u>「復原方法演示：解決五種不可讀檔案或目錄丟失的技巧」</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/2-guide-to-retrieving-deleted-files-in-adobe-photoshop/"><u>2. Guide to Retrieving Deleted Files in Adobe Photoshop</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-from-front-to-back-mastering-instagram-video-spins-for-maximum-impact/"><u>2024 Approved From Front to Back Mastering Instagram Video Spins for Maximum Impact</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-itel-p40-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Itel P40 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/design-option-b/"><u>Design Option B</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/exploring-robocopy-and-top-substitutes-for-efficient-file-management-in-windows-server-ebytes-2016/"><u>Exploring Robocopy and Top Substitutes for Efficient File Management in Windows Server Ebytes 2016</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-boosting-or-slowing-down-the-netflix-playback-rate-guide/"><u>In 2024, Boosting or Slowing Down The Netflix Playback Rate Guide</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/metodo-rapido-per-reinstallare-linterfaccia-firmware-eliminata-nella-tua-installazione-di-windows-10/"><u>Metodo Rapido per Reinstallare L'interfaccia Firmware Eliminata Nella Tua Installazione Di Windows 10</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/step-by-step-tutorial-efficiently-duplicate-your-hard-drive-using-xxclone-on-windows-10/"><u>Step-by-Step Tutorial: Efficiently Duplicate Your Hard Drive Using XXClone on Windows 10</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/surfacesd/"><u>Surface上のSDカード読み取りに問題がある？ここでシンプルな手順をご紹介します</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-optimal-ai-powered-prompt-creation-tools-for-enhanced-ai-interaction/"><u>Top 5 Optimal AI-Powered Prompt Creation Tools for Enhanced AI Interaction</u></a></li>
 </ul></div>
 

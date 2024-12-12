@@ -1,7 +1,7 @@
 ---
 title: "Easy-to-Follow Tutorial: How to Exchange Data with Your iPad Using a USB Cable"
-date: 2024-11-28T19:27:40.331Z
-updated: 2024-12-06T04:22:09.771Z
+date: 2024-12-08T04:57:09.704Z
+updated: 2024-12-12T03:48:47.240Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a413f5ab643b8cf8455ddf8b717ffddc460e77cb815227b37c65333c5c3e3180.jpg
@@ -29,7 +29,7 @@ Von[Holiday](https://tools.techidaily.com/ubackup/products/)/ Aktualisiert am 14
 Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Inhaltsverzeichnis** 
@@ -41,6 +41,10 @@ Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 5. [Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?](https://tools.techidaily.com/ubackup/products/)
 6. [Zusammenfassung](https://tools.techidaily.com/ubackup/products/)
 7. [Häufig gestellte Fragen](https://tools.techidaily.com/ubackup/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Ist es sicher, den Papierkorb zu löschen?
 
@@ -74,12 +78,16 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
@@ -90,17 +98,9 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 
 [![Als Administrator ausführen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/run-as-administrator.png "Als Administrator ausführen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
 
@@ -131,7 +131,7 @@ Sicherer Download
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
@@ -157,6 +157,10 @@ Sicherer Download
 
 [![dateisicherung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/file-backup.png "dateisicherung")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Schritt** **2**. Sie können ihn im Feld „**Aufgabename**“ benennen, um ihn von anderen Backups zu unterscheiden.
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
@@ -168,7 +172,7 @@ Sicherer Download
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Zusammenfassung
@@ -232,7 +236,7 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MyRecover Jetzt Kostenlos Erhalten
@@ -244,14 +248,10 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -268,24 +268,17 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-ultimate-free-viewer-cam-parties/"><u>[Updated] 2024 Approved Ultimate Free Viewer Cam Parties</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-channel-transformation-via-musical-additions/"><u>[Updated] In 2024, Channel Transformation via Musical Additions</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-prolific-productions-top-10-text-techniques-to-captivate-viewers-for-2024/"><u>[Updated] Prolific Productions Top 10 Text Techniques to Captivate Viewers for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-spotting-the-top-10-covert-story-spectators/"><u>[Updated] Spotting the Top 10 Covert Story Spectators</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1728490635678-windows-11-5/"><u>修复 Windows 11 工作列无法使用问题：5种有效的解决方案指南</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/boost-your-systems-potential-with-the-ultimate-windows-server-2022-22h2-improvement-handbook/"><u>Boost Your System's Potential with the Ultimate Windows Server 2022 (22H2) Improvement Handbook</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/drive-traffic-with-automated-conversion-tracking-the-cookiebot-way/"><u>Drive Traffic with Automated Conversion Tracking - The Cookiebot Way</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/effective-ways-to-prevent-trackers-while-browsing-with-firefox/"><u>Effective Ways to Prevent Trackers While Browsing with Firefox</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/flagship-firefox-screenshot-tools/"><u>Flagship Firefox Screenshot Tools</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/guia-paso-a-paso-para-recuperar-y-mantener-los-datos-al-mover-particiones-en-windows-11/"><u>Guía Paso a Paso Para Recuperar Y Mantener Los Datos Al Mover Particiones en Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-nubia-z50-ultra-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-videos-from-iphone-12-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Videos from iPhone 12 Without Backup? | Stellar</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/quick-solutions-resolving-iphone-recovery-mode-issues-on-models-13-12-11-x-and-n/"><u>Quick Solutions: Resolving iPhone Recovery Mode Issues on Models 13, 12, 11, X & N</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/scosche-revolt-dual-review/"><u>Scosche ReVolt Dual Review</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/top-5-gratis-datentransferprogramme-fur-jeden-windows-pc-entdecken-sie-die-besten/"><u>Top 5 Gratis Datentransferprogramme Für Jeden Windows PC - Entdecken Sie Die Besten</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/wiederherstellung-geloschter-bilddateien-in-windows-xp-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Gelöschter Bilddateien in Windows XP: Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/windows-pc42024/"><u>Windows PCに失われたファイルの回復手段：4つ択(2024最新メソッド)</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/iuodkeocveocsplusodspluswbnuwplusqeawueazltog44k344k544og44og44oj44op44kk44ow44gu44k144kk44k65yi26zmq44gr44gk44ge44gmig/"><u>パソコン回復方法: システムドライブのサイズ制限について</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolved-conexant-hd-audio-compatibility-with-win10/"><u>[Resolved]: Conexant HD Audio Compatibility with Win10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-browsing-with-ms-edges-pip/"><u>[Updated] Transform Your Browsing with MS Edge's PIP</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-comprehensive-tutorial-for-srt-filters-in-social-space/"><u>A Comprehensive Tutorial for SRT Filters in Social Space</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/complete-step-by-step-manual-on-replacing-the-hard-drive-in-a-toshiba-tecra-a50-c-laptop/"><u>Complete Step-by-Step Manual on Replacing the Hard Drive in a Toshiba Tecra A50-C Laptop</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-best-mac-speech-loggers-our-curated-5-pick-list/"><u>In 2024, Best Mac Speech Loggers Our Curated 5-Pick List</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone 15 Pro Max</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-superior-methods-transforming-pinterest-visuals-into-audios/"><u>In 2024, Superior Methods Transforming Pinterest Visuals Into Audios</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-tactics-to-triple-your-youtube-subscription-numbers/"><u>In 2024, Tactics to Triple Your YouTube Subscription Numbers</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-to-flushing-the-cache-on-your-samsung-galaxy-note-10-plus/"><u>Step-by-Step Guide to Flushing the Cache on Your Samsung Galaxy Note 10 Plus</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/tapez-vous-facilement-votre-systeme-dexploitation-windows-11-sur-une-cle-usb-a-laide-du-logiciel-de-sauvegarde-gratuit-le-plus-performant/"><u>Tapez-Vous Facilement Votre Système D'exploitation Windows 11 Sur Une Clé USB À L'aide Du Logiciel De Sauvegarde Gratuit Le Plus Performant</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/video-separation-standards-recorders-rating-review-for-2024/"><u>Video Separation Standards Recorder's Rating Review for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728496421475-windows-1110/"><u>Windows 11/10文件拷贝找回技巧必看教程</u></a></li>
 </ul></div>
 

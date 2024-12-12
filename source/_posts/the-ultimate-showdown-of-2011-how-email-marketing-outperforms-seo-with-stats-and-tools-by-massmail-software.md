@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Showdown of 2011: How Email Marketing Outperforms SEO with Stats and Tools by Massmail Software"
-date: 2024-12-01T05:49:48.006Z
-updated: 2024-12-05T23:17:37.669Z
+date: 2024-12-06T21:24:26.748Z
+updated: 2024-12-11T16:45:16.291Z
 tags:
   - product
 categories:
@@ -18,12 +18,16 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -36,9 +40,17 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -48,19 +60,11 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -86,6 +90,10 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
@@ -103,24 +111,16 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,18 +149,16 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-screen-capture-simplified-top-choices-for-easy-video-making/"><u>[New] In 2024, Screen Capture Simplified Top Choices for Easy Video Making</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-guide-to-incorited-visuals-in-text-without-cost/"><u>[Updated] 2024 Approved Guide to Incorited Visuals in Text Without Cost</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-create-impact-with-intro-excellence-best-free-services-reviewed-for-2024/"><u>[Updated] Create Impact with Intro Excellence Best Free Services Reviewed for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-essential-guide-to-using-obs-for-youtube-and-twitch/"><u>[Updated] In 2024, Essential Guide to Using OBS for YouTube & Twitch</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-complete-guide-to-vr-ready-space-setup/"><u>[Updated] In 2024, The Complete Guide to VR-Ready Space Setup</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-does-your-channel-benefit-from-regular-youtube-payments/"><u>2024 Approved Does Your Channel Benefit From Regular YouTube Payments?</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1728478754724-windows-11/"><u>四种有效手段：快速修复在Windows 11系统中数据消失问题</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/complete-guide-restore-images-from-windows-10-backup-with-myrecover-software/"><u>Complete Guide: Restore Images From Windows 10 Backup with MyRecover Software</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1728500405737-hdd-3/"><u>HDD上永久消去された情報の効果的な復元技術 - ベスト3ガイド</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/how-to-copy-dellhplenovo-factory-image-partitions-onto-a-solid-state-drive-in-windows-versions-7-10/"><u>How to Copy Dell/HP/Lenovo Factory Image Partitions Onto a Solid State Drive in Windows Versions 7-10</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/step-by-step-tutorial-implementing-a-usb-flash-drive-antivirus-solution/"><u>Step-by-Step Tutorial: Implementing a USB Flash Drive Antivirus Solution</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/unlock-file-restoration-secrets-discover-how-pauline-uses-aomei-solutions/"><u>Unlock File Restoration Secrets - Discover How Pauline Uses AOMEI Solutions</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-creativity-meets-technology-in-youtube-studio-for-2024/"><u>Where Creativity Meets Technology in YouTube Studio for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-a-comparative-analysis-of-top-10-budget-friendly-video-calls/"><u>[New] In 2024, A Comparative Analysis of Top 10 Budget-Friendly Video Calls</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-assessing-64gb-for-video-file-storing-power/"><u>2024 Approved Assessing 64GB for Video File Storing Power</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-pioneering-immersive-tech-firms/"><u>2024 Approved Pioneering Immersive Tech Firms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-principles-of-evolving-media-artistry/"><u>2024 Approved Principles of Evolving Media Artistry</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/creazione-facilissima-del-tuo-ambiente-di-ripristino-con-aomei-backupper-una-procedura-in-5-fasi/"><u>Creazione Facilissima Del Tuo Ambiente Di Ripristino Con AOMEI Backupper: Una Procedura in 5 Fasi</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/estrategias-para-implementar-snapshots-efectivos-en-windows-server-lete-2022-metodos-esenciales-y-faciles-de-seguir/"><u>Estrategias Para Implementar Snapshots Efectivos en Windows Server Lete 2022 - Métodos Esenciales Y Fáciles De Seguir</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-budget-friendly-interactive-face-to-face-games/"><u>In 2024, Budget-Friendly Interactive Face-to-Face Games</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/mastering-email-campaign-scheduling-with-massmail-boost-your-roi/"><u>Mastering Email Campaign Scheduling with MassMail - Boost Your ROI</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-remedies-for-windows-11-troubles/"><u>Quick Remedies for WINDOWS 11 Troubles</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/regain-control-of-your-past-work-expert-tips-for-effortless-retrieval-of-outdated-word-documents/"><u>Regain Control of Your Past Work: Expert Tips for Effortless Retrieval of Outdated Word Documents</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/understanding-meta-search-engines-and-enhancing-your-rankings-with-essential-seo-strategies/"><u>Understanding Meta Search Engines & Enhancing Your Rankings with Essential SEO Strategies</u></a></li>
 </ul></div>
 

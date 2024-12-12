@@ -1,7 +1,7 @@
 ---
 title: "Mastering Site Optimization: Understanding the Power of Sitemaps Since 2009 with Massmail Software Insights"
-date: 2024-11-30T18:30:19.645Z
-updated: 2024-12-06T06:22:26.916Z
+date: 2024-12-07T04:33:27.389Z
+updated: 2024-12-12T05:08:30.302Z
 tags:
   - product
 categories:
@@ -18,16 +18,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -44,10 +40,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -56,15 +48,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -98,20 +90,32 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,20 +149,16 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-your-journey-to-instagram-dominance-started-here/"><u>[New] In 2024, Your Journey to Instagram Dominance, Started Here</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-aim-higher-boosting-views-and-reach-on-youtube/"><u>[Updated] Aim Higher Boosting Views and Reach on YouTube</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/2018-ibmponemon-institute-report-analyzing-the-financial-impact-of-data-security-incidents-on-companies/"><u>2018 IBM/Ponemon Institute Report: Analyzing the Financial Impact of Data Security Incidents on Companies</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/bypassing-and-repairing-the-notorious-0x80240023-error-in-microsofts-windows-updates-guide/"><u>Bypassing and Repairing the Notorious 0X80240023 Error in Microsoft's Windows Updates (Guide)</u></a></li>
-<li><a href="https://fox-within.techidaily.com/capture-clips-like-a-pro-essential-techniques-for-recording-any-movie-or-video-on-pc-action/"><u>Capture Clips Like a Pro: Essential Techniques for Recording Any Movie or Video on PC - Action!</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/decoding-vmwares-vsphere-site-recovery-manager-unveiling-the-mechanics-behind-disaster-recovery/"><u>Decoding VMware's vSphere Site Recovery Manager - Unveiling the Mechanics Behind Disaster Recovery</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-14-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 14 Pro without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-graphicgenius-suite/"><u>In 2024, GraphicGenius Suite</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-y100-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo Y100 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/leading-non-integrated-photo-editors-optimized-for-windows-users/"><u>Leading Non-Integrated Photo Editors Optimized for Windows Users</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/losungsansatze-sichtbare-dateien-aufrufen-wege-fur-ungespeicherte-dokumente-in-ordnern-unter-windows-1187/"><u>Lösungsansätze: Sichtbare Dateien Aufrufen - Wege Für Ungespeicherte Dokumente in Ordnern Unter Windows 11/8/7</u></a></li>
-<li><a href="https://discover-data.techidaily.com/should-you-upgrade-comparing-features-of-windows-7-10-and-11-for-optimal-performance/"><u>Should You Upgrade? Comparing Features of Windows 7, 10 and 11 for Optimal Performance.</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/solution-melatonin-helps-regulate-the-bodys-internal-clock-signaling-when-it-is-time-to-sleep-disruptions-in-its-production-can-lead-to-circadian-rhythm-dis53/"><u>Solution: Melatonin Helps Regulate the Body's Internal Clock, Signaling when It Is Time to Sleep. Disruptions in Its Production Can Lead to Circadian Rhythm Disorders Like Insomnia or Delayed Sleep Phase Syndrome.</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/zwei-methoden-zum-aktivieren-der-systemwiederherstellungspartition-in-windows/"><u>Zwei Methoden Zum Aktivieren Der Systemwiederherstellungspartition in Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fixing-obscured-content-on-youtube-platform/"><u>[New] 2024 Approved Fixing Obscured Content on YouTube Platform</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-painting-with-light-an-experts-guide-to-color-grading/"><u>[New] 2024 Approved Painting with Light An Expert's Guide to Color Grading</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/conservation-de-fichier-historique-assurer-la-securite-des-donnees-sauvegardees/"><u>Conservation De Fichier Historique : Assurer La Sécurité Des Données Sauvegardées</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effortless-data-transition-a-guide-to-updating-your-laptops-storage-device/"><u>Effortless Data Transition: A Guide to Updating Your Laptop's Storage Device</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/full-spectrum-on-morphvox-technology-for-voice-conversion-for-2024/"><u>Full Spectrum on MorphVOX Technology for Voice Conversion for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-honor-100-pro-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Honor 100 Pro?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-apple-iphone-xs-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On Apple iPhone XS - 4 Easy Ways</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/optimisation-de-recuperation-et-restauration-de-fichiers-guide-complet/"><u>Optimisation De Récupération Et Restauration De Fichiers: Guide Complet</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/strategies-pour-securer-les-informations-lors-dune-panne-du-ssd-sur-un-laptop/"><u>Stratégies Pour Securer Les Informations Lors D'une Panne Du SSD Sur Un Laptop</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/the-best-free-software-for-data-protection-and-seamless-synchronization-on-any-version-of-windows/"><u>The Best Free Software for Data Protection and Seamless Synchronization on Any Version of Windows!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/your-step-by-step-guide-to-ifunny-meme-usage/"><u>Your Step-by-Step Guide to iFunny Meme Usage</u></a></li>
 </ul></div>
 
