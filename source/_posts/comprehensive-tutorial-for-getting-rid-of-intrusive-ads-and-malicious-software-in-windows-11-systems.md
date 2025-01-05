@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tutorial for Getting Rid of Intrusive Ads and Malicious Software in Windows 11 Systems
-date: 2024-12-22T02:45:12.931Z
-updated: 2024-12-26T18:44:51.520Z
+date: 2025-01-04T16:12:20.105Z
+updated: 2025-01-05T16:12:34.119Z
 tags:
   - product
   - antivirus
@@ -48,6 +48,10 @@ Therefore, as a solution we need to remove adware and pop-up ads from Windows 10
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Check for Add-Ons or Rogue Extensions in your Browser
 
 The adware programs mostly settle in the form of extensions or add-ons in your browser. Removing them can also help get rid of such unwanted programs. Procedures for doing this in particular browsers are as follows.
@@ -59,7 +63,7 @@ Click the _Chrome menu_, at the top right corner of the browser; select **_More 
 ![](https://malwarefox.com/wp-content/uploads/2017/08/1-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now, check if there are any **unrecognizable extensions**. If there is any unwanted or unknown extension, then remove them by clicking the **Trash** icon, next to it.
@@ -74,16 +78,16 @@ Go to the **_Settings_** window, and click the **_Set Pages_** option, under the
 
 ![](https://malwarefox.com/wp-content/uploads/2017/08/7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can also verify the search engine settings, by selecting the **Manage Search Engines** options, under the Search Engine segment. Choose your preferred search engine Default, here.
 
 ![](https://malwarefox.com/wp-content/uploads/2017/08/8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Check the Auto-Start Programs
@@ -96,12 +100,20 @@ Right Click on the **_Start_** button and click on the **_Task Manager_** option
 
 ![](https://malwarefox.com/wp-content/uploads/2017/08/13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
   
 In the oncoming window, select the **_Startup_** tab, to see the list of programs that are set to start when the PC boots.
 
 Check whether there is any adware. For disabling anything unfamiliar, select it and click the **_Disable_** button at the bottom of the window.
 
 ![](https://malwarefox.com/wp-content/uploads/2017/08/14.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Uninstall the Unnecessary Programs
 
@@ -110,7 +122,7 @@ If you still see any intrusive ads or pop-ups; then check if there is any unwant
 ![](https://malwarefox.com/wp-content/uploads/2017/08/15.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Restore the System
@@ -127,19 +139,11 @@ Then enable the **_Turn on system protection_** option, and use the **_Max Usage
 
 ![](https://malwarefox.com/wp-content/uploads/2017/08/17.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you want to return to a _Restore Point_: Open the **_System Properties_** dialog box again; get to the **_System Protection_** tab, and then select **_System Restore_** button and follow the instructions. You can also prefer the **_Scan for affected programs_** button before proceeding further.
 
 [How to remove Yahoo Search from Chrome?](https://tools.techidaily.com/malwarefox/products/)
 
 ![](https://malwarefox.com/wp-content/uploads/2017/08/19.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Download and Install MalwareFox Anti-Malware
 
@@ -151,18 +155,10 @@ Find and Remove Hidden Malware Viruses on your PC
 
 [DOWNLOAD](https://tools.techidaily.com/malwarefox/products/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 thoughts on “How to Remove Adware and Pop-Up Ads”
 
 1. ![](https://secure.gravatar.com/avatar/69afd48d01c1f014ee731fda8f91d976?s=50&d=mm&r=g)  
 neal  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [December 4, 2019 at 8:56 pm](https://tools.techidaily.com/malwarefox/products/)  
 thx, that adaware BS was driving me mad  
@@ -175,6 +171,10 @@ Really like your blog thanks! Check my blog out to if you like.
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 3. ![](https://secure.gravatar.com/avatar/43c4a3c03ca1e544512857eafd01adea?s=50&d=mm&r=g)  
 Mel LeBlanc  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [May 18, 2020 at 9:45 pm](https://tools.techidaily.com/malwarefox/products/)  
 What about the adware that comes built into the OS from Microsoft?  
@@ -205,20 +205,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-naming-wizards-the-best-ai-tools-for-podcast-titles/"><u>[New] 2024 Approved Naming Wizards The Best AI Tools for Podcast Titles</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/iuoajuacgoikes9vpluseuqooblplusobnplusocouocpoodgplusodioodoeodsplusodkoodvooajplusapnplusidveobpplusodrplusodvoodieockuocqplusocueocvplusodnuocpoocujog6kgo3/"><u>『最近使用したアイットメンバー』機能でワードをカスタマイズ: 表示・非表示設定の詳細ガイド</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-obsudio-screen-recorder-examination-top-contenders-revealed/"><u>[Updated] 2024 Approved Obsudio Screen Recorder Examination Top Contenders Revealed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tutorial-for-effective-telegram-usage/"><u>[Updated] Expert Tutorial for Effective Telegram Usage</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-how-to-invert-colors-in-digital-photos/"><u>[Updated] In 2024, How to Invert Colors in Digital Photos?</u></a></li>
 <li><a href="https://discover-bytes.techidaily.com/2-the-ultimate-guide-efficient-backup-strategies-for-ipad-and-ipad-pro-users/"><u>2. The Ultimate Guide: Efficient Backup Strategies for iPad and iPad Pro Users</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-quick-setup-installing-snapchat-on-your-mac/"><u>2024 Approved Quick Setup Installing Snapchat on Your Mac</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-15-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone 15 How to Bypass?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-twist-and-turn-tales-transforming-visual-content-on-instagram-platforms/"><u>2024 Approved Twist and Turn Tales Transforming Visual Content on Instagram Platforms</u></a></li>
 <li><a href="https://discover-bytes.techidaily.com/come-eseguire-backup-incrementali-e-differenziali-su-windows-server-2n-2016/"><u>Come Eseguire Backup Incrementali E Differenziali Su Windows Server 2N 2016</u></a></li>
 <li><a href="https://discover-bytes.techidaily.com/comment-effacer-les-backups-desuets-dans-windows-7-pour-gagner-de-lespace-disque/"><u>Comment Effacer Les Backups Désuets Dans Windows 7 Pour Gagner De L'Espace Disque</u></a></li>
-<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo Y28 5G | Dr.fone</u></a></li>
 <li><a href="https://discover-bytes.techidaily.com/guia-paso-a-paso-solucion-para-errores-de-instalacion-en-windows-11/"><u>Guía Paso a Paso: Solución Para Errores De Instalación en Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Itel A05s? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/meme-magic-sprinkle-hilarity-with-simple-steps/"><u>Meme Magic Sprinkle Hilarity with Simple Steps</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/implementation-simple-dun-service-de-sauvegarde-pour-le-serveur-windows-server-2019-etapes-faciles-a-suivre/"><u>Implémentation Simple D'un Service De Sauvegarde Pour Le Serveur Windows Server 2019 : Étapes Faciles À Suivre</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sleek-screenscape-top-wallpapers-for-your-device/"><u>In 2024, Sleek Screenscape Top Wallpapers for Your Device</u></a></li>
 <li><a href="https://discover-bytes.techidaily.com/methoden-zur-wiederherstellung-geloschter-dateien-auf-ihrem-computer-eine-umfassende-anleitung/"><u>Methoden Zur Wiederherstellung Gelöschter Dateien Auf Ihrem Computer - Eine Umfassende Anleitung</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/non-gamers-rejoice-unbeatable-deal-on-32-curved-screen-only-230/"><u>Non-Gamers Rejoice: Unbeatable Deal on 32 Curved Screen - Only $230!</u></a></li>
 <li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-backing-up-vcenter-data-on-a-windows-shared-folder/"><u>Step-by-Step Guide: Backing Up vCenter Data on a Windows Shared Folder</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-latest-evolution-2023s-samsung-bd-j5900-review-for-2024/"><u>The Latest Evolution 2023'S Samsung BD-J5900 Review for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-video-hosting-platforms-10-best-options-for-small-businesses-and-individuals/"><u>Updated Free Video Hosting Platforms 10 Best Options for Small Businesses and Individuals</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-omotn-t1-tablet-accessory-robust-affordable-and-thoroughly-reviewed/"><u>The Omotn T1 Tablet Accessory - Robust, Affordable, And Thoroughly Reviewed</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-nokia-xr21-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Nokia XR21</u></a></li>
 </ul></div>
 
