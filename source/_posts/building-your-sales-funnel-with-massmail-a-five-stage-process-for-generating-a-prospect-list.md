@@ -1,7 +1,7 @@
 ---
 title: "Building Your Sales Funnel with MassMail: A Five-Stage Process for Generating a Prospect List"
-date: 2024-12-31T16:01:38.102Z
-updated: 2025-01-05T16:08:55.123Z
+date: 2025-01-06T02:12:12.332Z
+updated: 2025-01-11T17:25:43.876Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -35,6 +39,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -50,6 +58,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -63,16 +75,12 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -82,6 +90,10 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
@@ -90,21 +102,17 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -114,10 +122,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-unveiling-the-numbers-comprehensive-guide-to-count-views-clicks-and-cash-in-youtube/"><u>[New] 2024 Approved Unveiling the Numbers Comprehensive Guide to Count Views, Clicks, and Cash in YouTube</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-video-platforms-clash-a-youtube-vs-dailymention-comparison/"><u>[New] Video Platforms Clash A YouTube Vs. DailyMention Comparison</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-culinary-callings-30-unique-show-title-suggestions/"><u>[Updated] 2024 Approved Culinary Callings 30 Unique Show Title Suggestions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-green-thumbs-united-top-10-agrigames-for-friends-and-family/"><u>[Updated] 2024 Approved Green Thumbs United Top 10 AgriGames for Friends and Family</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1-tre-caminhos-simplificados-para-migracao-de-servidor-windows-201/"><u>1] Tre Caminhos Simplificados Para Migração De Servidor Windows 201</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/comprehensive-guide-to-detecting-and-eliminating-viruses-on-roblox-a-three-part-solution/"><u>Comprehensive Guide to Detecting and Eliminating Viruses on Roblox - A Three-Part Solution!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-powers-up-your-online-success-boosting-seo-effortlessly/"><u>Cookiebot Powers Up Your Online Success - Boosting SEO Effortlessly</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/effortless-migration-of-existing-files-and-systems-from-old-hard-drives-to-new-ssdshdds-no-reinstallation-necessary/"><u>Effortless Migration of Existing Files and Systems From Old Hard Drives to New SSDs/HDDs: No Reinstallation Necessary</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-upgrade-downloading-and-installing-asus-touchpad-drivers-for-windows-11/"><u>Effortless Upgrade: Downloading and Installing ASUS Touchpad Drivers for Windows 11</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/guide-complet-transfert-des-fichiers-de-programme-a-un-autre-hard-drive-sous-windows-11-10-8-ou-7/"><u>Guide Complet : Transfert Des Fichiers De Programme À Un Autre Hard Drive Sous Windows 11, 10, 8 Ou 7</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-display-apple-iphone-xs-screen-on-pc-easily-drfone-by-drfone-ios/"><u>How to Display Apple iPhone XS Screen on PC Easily? | Dr.fone</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/jadilah-tingkatkan-performa-operasi-folder-empty-di-windows-11-awal-kemudianan/"><u>Jadilah Tingkatkan Performa Operasi Folder Empty Di Windows 11 Awal Kemudianan</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/quel-est-le-destination-des-fichiers-de-la-corbeille-apres-restauration-sous-windows-1011/"><u>Quel Est Le Destination Des Fichiers De La Corbeille Après Restauration Sous Windows 10/11 ?</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/selecting-the-best-forex-copy-trading-platform-a-comprehensive-guide-to-mt4copiers/"><u>Selecting the Best Forex Copy Trading Platform: A Comprehensive Guide to MT4Copiers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simple-tricks-to-hide-your-workspace-in-virtual-conference-chats-and-ensure-privacy/"><u>Simple Tricks to Hide Your Workspace in Virtual Conference Chats and Ensure Privacy</u></a></li>
-<li><a href="https://article-posts.techidaily.com/top-10-sites-for-vector-graphics-collection-for-2024/"><u>Top 10 Sites for Vector Graphics Collection for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/ubertragung-von-iphone-bildern-auf-den-dell-laptop-5-effiziente-methoden/"><u>Übertragung Von iPhone-Bildern Auf Den Dell-Laptop – 5 Effiziente Methoden</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/ultimate-collection-of-free-online-tools-for-vibrant-content-creation-in-2vee-latest-update-massmail-solutions/"><u>Ultimate Collection of Free Online Tools for Vibrant Content Creation in 2Vee [Latest Update] | Massmail Solutions</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/understanding-punycode-in-seo-comprehensive-guide-with-practical-advice/"><u>Understanding Punycode in SEO: Comprehensive Guide with Practical Advice</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-essential-gamer-perks-lowest-priced-monitors-and-keyboards/"><u>[New] 2024 Approved Essential Gamer Perks Lowest Priced Monitors & Keyboards</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-disruptive-beatscape-best-rhythm-altering-tools/"><u>[Updated] In 2024, Disruptive Beatscape Best Rhythm Altering Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-tailoring-teammates-backgrounds-in-microsoft-teams-calls/"><u>[Updated] Tailoring Teammates’ Backgrounds in Microsoft Teams Calls</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728463488887-mac/"><u>相連Mac雙機功能介紹與使用法</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/alienware-dell/"><u>効果的な手順でAlienware DELLのシステムデータバックアップガイド</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/analyzing-whether-i-need-ios-17s-latest-features/"><u>Analyzing Whether I Need iOS 17'S Latest Features</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/comment-purger-votre-historique-de-fichiers-une-methode-pour-eliminer-les-anciennes-versions-en-un-clic/"><u>Comment Purger Votre Historique De Fichiers : Une Méthode Pour Éliminer Les Anciennes Versions en Un Clic</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-6s-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone 6s Lock Screen</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/guide-complet-de-resolution-des-problemes-du-defaut-daffichage-sur-les-ecrans-hp-astuces-de-reprise/"><u>Guide Complet De Résolution Des Problèmes Du Défaut D'Affichage Sur Les Écrans HP : Astuces De Reprise</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ideal-tools-to-capture-your-pcs-display-on-windows-10/"><u>Ideal Tools to Capture Your PC's Display on Windows 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/installation-guide-pour-le-pilotage-dubuntu-sur-un-pc-neuf-sans-systeme-dexploitation/"><u>Installation Guide Pour Le Pilotage D'Ubuntu Sur Un PC Neuf Sans Système D'Exploitation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/realistic-quantum-leaps-a-vfx-perspective/"><u>Realistic Quantum Leaps A VFX Perspective</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/rescue-your-accidentally-erased-files-the-ultimate-technique-for-windows-users-versions-10-and-11/"><u>Rescue Your Accidentally Erased Files: The Ultimate Technique for Windows Users (Versions 10 and 11)</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/successfully-addressed-vcenters-authentication-mishap-a-detailed-guide/"><u>Successfully Addressed vCenter's Authentication Mishap - A Detailed Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-smart-fusion-exploring-the-innovative-lenovo-convertible-laptopandroid-tablet-a-must-see-revelation/"><u>The Smart Fusion: Exploring the Innovative Lenovo Convertible Laptop/Android Tablet - A Must-See Revelation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-dragon-age-origins-stability-problems-on-windows-10-pcs/"><u>Troubleshooting Dragon Age: Origins Stability Problems on Windows 10 PCs</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/verlorene-ordner-wiederherstellen-schritte-zur-problemlosung-auf-windows-11/"><u>Verlorene Ordner Wiederherstellen - Schritte Zur Problemlösung Auf Windows 11</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/windows-11105/"><u>Windows 11/10における繰り返しの自動再起動を止める:ユーザーガイド5ポイント</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Money Laundering in Virtual Worlds: The Continued Use of WoW & Second Life"
-date: 2025-01-02T16:02:36.043Z
-updated: 2025-01-05T16:00:27.305Z
+date: 2025-01-09T05:51:40.090Z
+updated: 2025-01-11T22:56:01.790Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -35,10 +31,6 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -51,6 +43,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -78,33 +74,45 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -114,10 +122,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-fire-up-the-connections-maintaining-long-lasting-streaks-for-2024/"><u>[New] Fire Up the Connections Maintaining Long-Lasting Streaks for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-green-screen-templates-free-download-videography-and-filmmaking/"><u>[New] Green Screen Templates Free Download – Videography, and Filmmaking</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-the-essential-guide-to-scraping-social-footage-facebook-videos/"><u>[New] The Essential Guide to Scraping Social Footage Facebook Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-depths-of-photo-manipulation/"><u>[Updated] Exploring the Depths of Photo Manipulation</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-upload-ubiquity-from-twitter-to-snapchat-videos/"><u>2024 Approved Upload Ubiquity From Twitter to Snapchat Videos</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/automatisiertes-sicherungsverfahren-von-outlook-365-e-mail-und-weiteren-komponenten/"><u>Automatisiertes Sicherungsverfahren Von Outlook 365 E-Mail Und Weiteren Komponenten</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/best-seo-firms-in-riyadh-comprehensive-ranking-guide-with-seo-powersuite-insights/"><u>Best SEO Firms in Riyadh: Comprehensive Ranking Guide with SEO PowerSuite Insights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/clear-up-audio-trouble-with-this-simple-guide-for-resolving-discord-muting-issues/"><u>Clear Up Audio Trouble with This Simple Guide for Resolving Discord Muting Issues</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/comparative-analysis-outbound-email-strategies-vs-inbound-techniques-with-massmail-solutions/"><u>Comparative Analysis: Outbound Email Strategies Vs. Inbound Techniques with MassMail Solutions</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/effective-solution-installation-of-missing-ipod-drivers-for-windows-11-users/"><u>Effective Solution: Installation of Missing iPod Drivers for Windows 11 Users</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/facing-launching-troubles-with-diablo-ii-resurrected-lets-resolve-them-together/"><u>Facing Launching Troubles with Diablo II Resurrected? Let's Resolve Them Together</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-itel-p55t-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Itel P55T Location Settings | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/inside-look-the-six-main-benefits-of-youtube-premium/"><u>Inside Look: The Six Main Benefits of YouTube Premium</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/launch-your-campaign-25-compelling-benefits-of-starting-an-email-newsletter-with-massmail-in-2010/"><u>Launch Your Campaign: 25 Compelling Benefits of Starting an Email Newsletter with Massmail in 2010</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/mastering-indexing-comprehensive-guide-and-advanced-seo-strategies-with-seo-powersuite/"><u>Mastering Indexing: Comprehensive Guide & Advanced SEO Strategies with SEO PowerSuite</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/preserving-your-email-credibility-with-massmail-a-guide-on-protecting-the-senders-image/"><u>Preserving Your Email Credibility with MassMail: A Guide on Protecting the Sender’s Image</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/signs-of-unauthorized-access-on-your-mobile-device-learn-how-with-malwarefox-guidance/"><u>Signs of Unauthorized Access on Your Mobile Device – Learn How with MalwareFox Guidance</u></a></li>
-<li><a href="https://win11.techidaily.com/silencing-autonomous-search-window-on-windows-11/"><u>Silencing Autonomous Search Window on Windows 11</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/unlocking-the-power-of-your-email-marketing-key-performance-indicators-and-tracking-tools-with-massmail-solutions/"><u>Unlocking the Power of Your Email Marketing: Key Performance Indicators and Tracking Tools with Massmail Solutions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-talking-technology-appraisal/"><u>[Updated] Talking Technology Appraisal</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ultimate-list-of-accessibility-8-premium-free-mp3-grabber-apps-android/"><u>[Updated] Ultimate List of Accessibility 8 Premium Free MP3 Grabber Apps (Android)</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/como-recuperar-particiones-eliminadas-o-perdidas-en-sistemas-operativos-windows-version-10-y-11/"><u>Cómo Recuperar Particiones Eliminadas O Perdidas en Sistemas Operativos Windows (Versión 10 Y 11)</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/guia-detallada-para-solucionar-los-problemas-de-acronimo-true-image-en-wd-edition-y-evitar-errores-de-clonacion-de-disco/"><u>Guía Detallada Para Solucionar Los Problemas De Acrónimo True Image en WD Edition Y Evitar Errores De Clonación De Disco</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/guide-complet-comment-realiser-une-copie-dentier-de-votre-systeme-avec-wbadmin-sous-windows-10/"><u>Guide Complet - Comment Réaliser Une Copie D'Entier De Votre Système Avec WBAdmin Sous Windows 10</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/loschungsreklamation-professionelle-techniken-zur-wiederherstellung-von-pptx-prasentationsdateien/"><u>Löschungsreklamation: Professionelle Techniken Zur Wiederherstellung Von PPTX-Präsentationsdateien</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigate-to-these-10-online-havens-showcasing-striking-3d-texts/"><u>Navigate to These 10 Online Havens Showcasing Striking 3D Texts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-missing-drivers-in-windows-comprehensive-solutions-for-windows-10-8-and-ebox/"><u>No More Missing Drivers in Windows - Comprehensive Solutions for Windows 10, 8 and Ebox</u></a></li>
+<li><a href="https://fox-that.techidaily.com/preventing-your-apple-devices-from-overheating-essential-guides-and-advice/"><u>Preventing Your Apple Devices From Overheating: Essential Guides & Advice</u></a></li>
+<li><a href="https://win-top.techidaily.com/top-free-disk-imaging-programs-for-seagate-drives-on-windows-xp-vista-included/"><u>Top Free Disk Imaging Programs For Seagate Drives on Windows (XP, Vista Included)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-iphone-15-plus-and-android-phones-by-drfone-ios/"><u>Top IMEI Unlokers for iPhone 15 Plus and Android Phones</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/understanding-the-nuances-between-incremental-and-differential-backup-strategies-for-optimal-data-safety/"><u>Understanding the Nuances Between Incremental and Differential Backup Strategies for Optimal Data Safety</u></a></li>
 </ul></div>
 

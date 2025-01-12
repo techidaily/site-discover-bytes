@@ -1,7 +1,7 @@
 ---
 title: "Adapting Email Strategies: The Impact of COVID-19 on Marketing Campaigns - Insights From MMSW Blog"
-date: 2024-12-31T16:05:19.544Z
-updated: 2025-01-05T16:00:50.836Z
+date: 2025-01-05T23:54:14.138Z
+updated: 2025-01-11T19:11:39.341Z
 tags:
   - product
 categories:
@@ -19,16 +19,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -52,6 +48,10 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -70,12 +70,16 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -87,7 +91,7 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -106,10 +110,6 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
@@ -118,6 +118,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,18 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-enhanced-viewing-fb-videos-on-large-displays/"><u>[New] Enhanced Viewing FB Videos On Large Displays</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-unlocking-tiktoks-potential-a-guide-to-enhanced-engagement-and-popularity/"><u>[Updated] In 2024, Unlocking TikTok's Potential A Guide to Enhanced Engagement and Popularity</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1-ultimate-guide-capturing-and-streaming-life-with-manycam-virtual-camera-app/"><u>1. Ultimate Guide: Capturing and Streaming Life with ManyCam - Virtual Camera App</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-cinematic-footage-showdown-gopro-and-sj7/"><u>2024 Approved Cinematic Footage Showdown GoPro & SJ7</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-xiaomi-redmi-note-12-pro-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Xiaomi Redmi Note 12 Pro 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1728489583131-iphonecd/"><u>無料ツールを利用したiPhoneにCD曲の取り込み方法とそのポイント - 最新ガイド</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/a-guide-on-efficiently-setting-up-a-dual-boot-system-with-windows-11-and-windows-10/"><u>A Guide on Efficiently Setting Up a Dual Boot System with Windows 11 and Windows 10</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-se-2020-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-create-captivating-yt-thumbnails-fast/"><u>In 2024, Create Captivating YT Thumbnails Fast</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/losungsansatze-fur-fehlenden-outlook-ordner-5-einfache-methoden-zur-wiederherstellung/"><u>Lösungsansätze Für Fehlenden Outlook-Ordner: 5 Einfache Methoden Zur Wiederherstellung</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-overcoming-directory-name-is-invalid-mistakes-easily/"><u>Resolved! Overcoming 'Directory Name Is Invalid' Mistakes Easily</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-8-youtube-to-avi-convertors-explained-for-2024/"><u>Top 8 YouTube-to-AVI Convertors Explained for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/top-5-programmnyh-reshenij-dlya-sozdaniya-otchetov-po-seo-v-2024-obzor-sravneniya-i-analiza/"><u>Топ-5 Программных Решений Для Создания Отчетов По SEO В 2024: Обзор Сравнения И Анализа</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-step-by-step-legally-convert-youtube-to-mp4-format/"><u>[New] In 2024, Step-by-Step Legally Convert YouTube to MP4 Format</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-turbocharging-fb-media-speed-techniques-revealed/"><u>[New] Turbocharging FB Media Speed Techniques Revealed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-advanced-tactics-for-maximizing-the-use-of-virtual-boards-during-zoom-sessions-desktopiosandroid/"><u>[Updated] Advanced Tactics for Maximizing the Use of Virtual Boards During Zoom Sessions (Desktop/iOS/Android)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-detailed-comparison-of-roku-vs-amazons-fire-tv-stick-making-the-right-purchase-decision/"><u>A Detailed Comparison of Roku Vs. Amazon's Fire TV Stick: Making the Right Purchase Decision</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/aomei-windows-aomei-backupper/"><u>AOMEI資料保全優選: Windows簡易備份與同步解決方案 - AOMEI Backupper基本版</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/come-clonare-il-tuo-disco-di-avvio-su-uno-ssd-ridotto-metodo-ottimale-per-windows-10-8-7-e-11/"><u>Come Clonare Il Tuo Disco Di Avvio Su Uno SSD Ridotto: Metodo Ottimale per Windows 10, 8, 7 E 11</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/como-transferir-informacion-de-una-memoria-usb-a-otra-con-facilidad-y-seguridad/"><u>Cómo Transferir Información De Una Memoria USB a Otra Con Facilidad Y Seguridad</u></a></li>
+<li><a href="https://win-bits.techidaily.com/deciphering-pm-narendra-modi-an-insight-into-his-7-key-strategies-and-vision/"><u>Deciphering PM Narendra Modi: An Insight Into His 7 Key Strategies and Vision</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-elite-camera-selection-our-top-15-picks/"><u>In 2024, Elite Camera Selection Our Top 15 Picks</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/master-australian-lingo-100plus-slang-terms-and-sayings-to-speak-like-an-aussie/"><u>Master Australian Lingo: 100+ Slang Terms & Sayings To Speak Like An Aussie</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/restoring-lost-images-on-your-fuji-camera-a-complete-guide/"><u>Restoring Lost Images on Your Fuji Camera: A Complete Guide</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-7-phone-number-locators-to-track-apple-iphone-11-pro-location-drfone-by-drfone-virtual-ios/"><u>Top 7 Phone Number Locators To Track Apple iPhone 11 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-cooperative-touchscreen-actions-in-windows/"><u>Troubleshooting Non-Cooperative Touchscreen Actions in Windows</u></a></li>
 </ul></div>
 

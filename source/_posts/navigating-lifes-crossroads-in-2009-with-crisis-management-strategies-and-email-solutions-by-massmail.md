@@ -1,7 +1,7 @@
 ---
 title: Navigating Life's Crossroads in 2009 with Crisis Management Strategies & Email Solutions by MassMail
-date: 2025-01-03T16:03:50.478Z
-updated: 2025-01-05T16:04:09.292Z
+date: 2025-01-09T05:47:30.905Z
+updated: 2025-01-11T22:37:25.452Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -37,12 +33,16 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -52,10 +52,6 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -63,7 +59,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -78,6 +74,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -90,17 +90,21 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -113,10 +117,6 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -149,17 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-enhancing-zooms-visual-clarity-tips-and-tricks/"><u>[Updated] Enhancing Zoom's Visual Clarity Tips and Tricks</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-samsung-galaxy-m54-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/best-berlin-based-seo-firms-expert-insights-from-top-german-marketing-experts/"><u>Best Berlin-Based SEO Firms: Expert Insights From Top German Marketing Experts</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/best-seo-firms-in-baghdad-experts-at-seo-powersuite/"><u>Best SEO Firms in Baghdad - Experts at SEO PowerSuite</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/comment-peut-on-effacer-des-fichiers-sur-onedrive-sans-les-supprimer-de-lordinateur/"><u>Comment Peut-On Effacer Des Fichiers Sur OneDrive Sans Les Supprimer De L'ordinateur?</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/how-advanced-forex-technology-impacts-your-investments-a-deep-dive-into-mt4-copiers/"><u>How Advanced Forex Technology Impacts Your Investments: A Deep Dive Into MT4 Copiers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-how-to-create-a-puzzle-feed-on-instagram-to-catch-attention/"><u>In 2024, How to Create a Puzzle Feed on Instagram to Catch Attention</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-oneplus-nord-ce-3-lite-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with OnePlus Nord CE 3 Lite 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-superior-steadicams-for-drone-shooting-precision/"><u>In 2024, Superior Steadicams for Drone Shooting Precision</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/quick-mac-mastering-screen-recording-via-shortcuts/"><u>Quick Mac Mastering Screen Recording via Shortcuts</u></a></li>
-<li><a href="https://fox-info.techidaily.com/thorough-review-gopro-hero4-slr4-sliver-features-for-2024/"><u>Thorough Review GoPro Hero4 SLR4 Sliver Features for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/winx-dvd-ripper-e-winxvideo-ai-ottenere-il-migliore-assistenza-alle-vendite-on-line/"><u>WinX DVD Ripper E Winxvideo AI: Ottenere Il Migliore Assistenza Alle Vendite On-Line</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/igh-definition-hardware-unveiled-by-gamers-for-2024/"><u>[New] High-Definition Hardware Unveiled by Gamers for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-direct-capture-tool-for-chrome-systems/"><u>[New] In 2024, Direct Capture Tool for Chrome Systems</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-tactics-for-avoiding-a-youtube-sanction-for-2024/"><u>[Updated] Tactics for Avoiding a YouTube Sanction for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/2-techniques-pour-telecharger-votre-repertoire-locale-sur-google-drive/"><u>2 Techniques Pour Télécharger Votre Répertoire Locale Sur Google Drive</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728470977652-windows-server/"><u>解析Windows Server备份限制及其两种优秀代替策略</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/delving-deep-into-dji-inspire-2s-design/"><u>Delving Deep Into DJI Inspire 2'S Design</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/filming-for-tweet-sharing-content-without-retweeting-for-2024/"><u>Filming for Tweet Sharing Content without Retweeting for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-expert-convertissez-votre-photographie-en-style-noir-et-blanc-professionnellement/"><u>Guide Expert: Convertissez Votre Photographie en Style Noir Et Blanc Professionnellement</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-turn-off-suggested-people-on-instagram-easy-guide/"><u>How To Turn Off 'Suggested People' On Instagram – Easy Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/slice-editor-for-2024/"><u>ImageSlice Editor for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/seamless-iphone-to-laptop-file-sharing-a-step-by-nstep-guide-using-usb/"><u>Seamless iPhone to Laptop File Sharing: A Step-by-nStep Guide Using USB</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/the-ultimate-tutorial-effortlessly-changing-heic-images-to-jpg-format-on-google-drive/"><u>The Ultimate Tutorial: Effortlessly Changing HEIC Images to JPG Format on Google Drive</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/understanding-macro-viruses-removal-strategies-explored/"><u>Understanding Macro Viruses: Removal Strategies Explored</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/understanding-yahoos-archive-policy-lifespan-of-removed-emails-and-methods-to-restore-them/"><u>Understanding Yahoo's Archive Policy: Lifespan of Removed Emails and Methods to Restore Them</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728498930278-windowspc/"><u>Windows用PC移行ツールとして最適!セキュリティが保証された代替品</u></a></li>
 </ul></div>
 
