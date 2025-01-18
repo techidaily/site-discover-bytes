@@ -1,7 +1,7 @@
 ---
 title: Effective Mobile Marketing Strategies of 2019 - Insights & Tips [Infographic] by MassMail
-date: 2025-01-07T06:10:07.936Z
-updated: 2025-01-11T23:38:37.962Z
+date: 2025-01-12T21:24:44.828Z
+updated: 2025-01-17T19:57:53.092Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -41,7 +37,7 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -52,15 +48,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -78,17 +74,21 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -107,7 +107,7 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,22 +149,14 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-expert-advice-the-most-effective-ways-to-capture-your-virtual-sessions/"><u>[New] Expert Advice The Most Effective Ways to Capture Your Virtual Sessions</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-digital-domain-decision-which-platform-for-your-videos-for-2024/"><u>[Updated] Digital Domain Decision Which Platform for Your Videos for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/csgo-performance-boosters-how-to-overcome-connection-delays/"><u>CS:GO Performance Boosters: How To Overcome Connection Delays</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/debarrasser-votre-systeme-dexploitation-windows-11-des-fichiers-redondants-guide-etape-par-etape/"><u>Débarrasser Votre Système D'Exploitation Windows 11 Des Fichiers Redondants: Guide Étape Par Étape</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-file-transfer-sending-images-and-texts-from-print-device-to-desktop/"><u>Effortless File Transfer: Sending Images and Texts From Print Device to Desktop</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-infinix-note-30-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Infinix Note 30 Pro by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/overcoming-samsung-data-migration-issues-solutions-for-unchangeable-source-drive-alterations/"><u>Overcoming Samsung Data Migration Issues: Solutions for Unchangeable Source Drive Alterations</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/passaggio-fluido-aggiorna-windows-11-da-windows-tato-gratis/"><u>Passaggio Fluido: Aggiorna Windows 11 Da Windows Tato Gratis</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/quick-remedies-for-overcoming-write-protection-on-your-windows-11-hard-drive/"><u>Quick Remedies for Overcoming Write Protection on Your Windows 11 Hard Drive</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/resolved-issue-windows-system-file-checker-error-in-restoring-essential-resources/"><u>Resolved Issue: Windows System File Checker Error in Restoring Essential Resources</u></a></li>
-<li><a href="https://extra-information.techidaily.com/strategies-for-secure-unmarked-photography-procurement/"><u>Strategies for Secure, Unmarked Photography Procurement</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/top-5-time-lapse-screen-recorders/"><u>Top 5 Time-Lapse Screen Recorders</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/troubleshooting-vm-quiescence-issues-effective-strategies-for-three-typical-errors/"><u>Troubleshooting VM Quiescence Issues: Effective Strategies for Three Typical Errors</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/understanding-usb-upload-and-download-speed-limits-an-in-depth-analysis/"><u>Understanding USB Upload and Download Speed Limits: An In-Depth Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-potential-of-inbox-notifications-in-a-windows-setting/"><u>Unlocking the Potential of Inbox Notifications in a Windows Setting</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/youtube-shorts-vs-tiktok-which-one-is-better-in-2024/"><u>YouTube Shorts Vs. TikTok Which One Is Better, In 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/44oq44ki44or44k44kk44og44gr44oh44o844k5zcm5pyf44ks5a6f5pa944gz44kl44gf44kb44gu44k544og44od44ox44oq44kk44k544og44od44ox44oe44ol44ol44ki44or/"><u>リアルタイムにデータ同期を実施するためのステップバイステップマニュアル</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-three-methods-for-capturing-ps4-gaming-moments/"><u>[New] Three Methods for Capturing PS4 Gaming Moments</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/best-top-4-android-emulators-for-your-samsung-device/"><u>Best Top 4 Android Emulators for Your Samsung Device</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/discovering-new-ways-innovative-software-replacing-camtasia-for-screen-capture-and-recording/"><u>Discovering New Ways: Innovative Software Replacing Camtasia for Screen Capture & Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-11s-missing-d3dx939dll-error/"><u>Fixing Windows 11'S Missing D3DX9_39.dll Error</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/reimagining-photography-toolwiz-photosapps-full-on-review-for-2024/"><u>Reimagining Photography Toolwiz PhotosApp's Full-On Review for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-power-of-chatgpt-in-providing-reliable-health-guidance-unveiling-seven-key-points/"><u>The Power of ChatGPT in Providing Reliable Health Guidance: Unveiling Seven Key Points</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/the-ultimate-guide-to-flawless-discord-audio-capture-tips-and-tricks/"><u>The Ultimate Guide to Flawless Discord Audio Capture Tips and Tricks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-6-nft-platforms-unlocking-creativity-for-artists-for-2024/"><u>Top 6 NFT Platforms Unlocking Creativity for Artists for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-rated-no-cost-tools-for-effortless-windows-mobile-video-format-transformation/"><u>Top Rated No-Cost Tools for Effortless Windows Mobile Video Format Transformation</u></a></li>
 </ul></div>
 

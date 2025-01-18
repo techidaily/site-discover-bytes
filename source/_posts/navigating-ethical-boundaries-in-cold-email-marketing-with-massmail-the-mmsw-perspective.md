@@ -1,7 +1,7 @@
 ---
 title: Navigating Ethical Boundaries in Cold Email Marketing with MassMail | The MMSW Perspective
-date: 2024-12-19T16:30:50.153Z
-updated: 2024-12-26T21:58:02.791Z
+date: 2025-01-11T22:57:39.229Z
+updated: 2025-01-17T21:27:15.839Z
 tags:
   - product
 categories:
@@ -17,10 +17,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
@@ -48,6 +44,10 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -66,21 +66,29 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -90,16 +98,12 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -110,17 +114,9 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,20 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-social-media-savvy-unlock-the-secrets-of-crafting-winning-bios-on-facebook/"><u>[New] 2024 Approved Social Media Savvy Unlock the Secrets of Crafting Winning Bios on Facebook</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastering-the-height-final-cut-pro-x-techniques-for-instagram-video/"><u>[New] In 2024, Mastering the Height Final Cut Pro X Techniques for Instagram Video</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-streamlined-techniques-blur-background-on-chrome-os-and-ios/"><u>[New] In 2024, Streamlined Techniques Blur Background on Chrome OS & iOS</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-virtual-visage-creation-shaping-your-exaggerated-image-for-2024/"><u>[New] Virtual Visage Creation Shaping Your Exaggerated Image for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-top-edit-suite-apps-and-devices-tools-listed/"><u>[Updated] 2024 Approved Top Edit Suite (Apps & Devices) Tools Listed</u></a></li>
-<li><a href="https://win-community.techidaily.com/44cq5pu05paw5lqg44cr55sx5pa85oko5oplusq5lqk77ym54plusplus5zyo5yplusv5lul5l255so5ywx5lqr6loh5paz5asplus5lit55qe5pya5paw6lev57ea54mi5pys/"><u>【更新了】由於您提交，現在可以使用共享資料夾中的最新路線版本</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/best-prague-based-seo-experts-for-optimal-digital-visibility-in-the-czech-republic-unveiling-toptechseos-cutting-edge-strategies/"><u>Best Prague-Based SEO Experts for Optimal Digital Visibility in the Czech Republic - Unveiling TopTechSEO's Cutting-Edge Strategies</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/guide-complet-recuperation-des-donnees-sur-un-vieux-disque-dur-ide/"><u>Guide Complet : Récupération Des Données Sur Un Vieux Disque Dur IDE.</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-realme-narzo-60-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Realme Narzo 60 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/mastering-backlinks-with-anchor-texts-for-effective-seo-expert-insights-and-tips/"><u>Mastering Backlinks with Anchor Texts for Effective SEO – Expert Insights & Tips</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/simple-strategies-crafting-effective-visuals-for-windows-8-two-proven-techniques/"><u>Simple Strategies: Crafting Effective Visuals for Windows 8 - Two Proven Techniques</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/top-email-promotion-guides-ideal-for-enhancing-your-business-discover-our-expert-suggestions/"><u>Top Email Promotion Guides Ideal for Enhancing Your Business: Discover Our Expert Suggestions!</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/understanding-noindex-tags-and-strategies-in-seo-a-complete-guide-with-optimization-techniques/"><u>Understanding Noindex Tags & Strategies in SEO: A Complete Guide with Optimization Techniques</u></a></li>
-<li><a href="https://extra-information.techidaily.com/video-counts-and-quantities-within-64128gb/"><u>Video Counts & Quantities Within 64/128GB</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/top-seo-agentstva-v-ankare-na-2024-god-luchshie-resheniya-dlya-vashego-veb-marketinga/"><u>Топ SEO-Агентства В Анкаре На 2024 Год: Лучшие Решения Для Вашего Веб-Маркетинга</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-sourav-joshis-path-to-wealth-via-youtube/"><u>[New] 2024 Approved Sourav Joshi's Path to Wealth via YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-journey-to-aesthetic-excellence-fusing-images-masterfully/"><u>[New] In 2024, Journey to Aesthetic Excellence Fusing Images Masterfully</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlock-the-secrets-of-effective-video-cropping-for-instagram/"><u>[Updated] Unlock the Secrets of Effective Video Cropping for Instagram</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/essential-tips-for-creating-compelling-co-working-agreements-with-massmail-solutions/"><u>Essential Tips for Creating Compelling Co-Working Agreements with Massmail Solutions</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/how-to-perform-a-step-by-step-backup-of-your-data-on-windows-10-using-a-dell-computer/"><u>How to Perform a Step-by-Step Backup of Your Data on Windows 10 Using a Dell Computer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/instagram-not-running-smoothly-discover-6-essential-solutions-for-both-iphone-and-android-users/"><u>Instagram Not Running Smoothly? Discover 6 Essential Solutions for Both iPhone and Android Users</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/professionelle-tipps-fur-den-austausch-von-adressen-zwischen-ihrem-iphone-und-desktop-computer/"><u>Professionelle Tipps Für Den Austausch Von Adressen Zwischen Ihrem iPhone Und Desktop-Computer</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-easy-fresh-wifi-drivers-for-windows-7-get-them-here/"><u>Quick and Easy: Fresh WiFi Drivers for Windows 7 - Get Them Here!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-battle-of-sound-giants-deciding-whether-to-go-bigger-or-smaller-with-apples-homepod-vs-homepod-mini-gadgetguide/"><u>The Battle of Sound Giants: Deciding Whether to Go Bigger or Smaller with Apple's HomePod vs HomePod Mini | GadgetGuide</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-strategies-for-restoring-accidentally-deleted-partitions-in-windows-10-and-11/"><u>Top Strategies for Restoring Accidentally Deleted Partitions in Windows 10 & 11</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/understanding-content-type-headers-a-comprehensive-guide-with-essential-seo-strategies/"><u>Understanding Content Type Headers - A Comprehensive Guide with Essential SEO Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726028562909-vlc/"><u>VLCメディアプレーヤーで素早くオーディオ録音の仕方</u></a></li>
 </ul></div>
 

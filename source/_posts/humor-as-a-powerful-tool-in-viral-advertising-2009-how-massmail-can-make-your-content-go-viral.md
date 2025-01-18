@@ -1,7 +1,7 @@
 ---
 title: "Humor as a Powerful Tool in Viral Advertising (2009): How Massmail Can Make Your Content Go Viral"
-date: 2024-12-20T23:42:44.687Z
-updated: 2024-12-26T18:37:13.531Z
+date: 2025-01-10T17:40:34.736Z
+updated: 2025-01-17T20:11:49.112Z
 tags:
   - product
 categories:
@@ -18,6 +18,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
@@ -32,12 +36,16 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -48,10 +56,6 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -59,7 +63,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -73,10 +77,6 @@ That is why in 2022, SMS will increasingly serve as the glue that cements multic
 One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware/products/), which helps local businesses and national chains to create and execute campaigns that feature shortcodes in direct mailers. After texting the shortcode, consumers receive an e-coupon on their phone that they redeem by showing to the merchant’s sales associate.
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
@@ -107,7 +107,7 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
@@ -118,10 +118,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,19 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-google-images-and-speed-a-handy-collage-creation-routine/"><u>[New] Google Images & Speed A Handy Collage Creation Routine</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ow-to-spot-and-secure-top-monetization-potential/"><u>[New] How to Spot and Secure Top Monetization Potential</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mac-users-guide-the-5-most-acclaimed-sniping-apps/"><u>[Updated] 2024 Approved Mac Users' Guide The 5 Most Acclaimed Sniping Apps</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-ideal-7-video-capture-tools-for-engaging-social-media-presentations/"><u>[Updated] Ideal 7 Video Capture Tools for Engaging Social Media Presentations</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/a-beginners-guide-to-forex-trading-with-mt4copier-demystifying-currency-exchange-mechanics/"><u>A Beginner's Guide to Forex Trading with MT4copier - Demystifying Currency Exchange Mechanics</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/cmd-windows-1087/"><u>CMDコマンド簡単ガイド: Windows 10/8/7で自動バックアップ設定</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/comment-recreer-une-partition-de-sysntfs-sur-un-hdd-dans-windows-78-ou-10/"><u>Comment Recréer Une Partition De SysNTFS Sur Un HDD Dans Windows 7,8 Ou 10</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/expert-tips-for-crafting-viral-video-content-using-massmail-tool-boost-your-digital-presence-effortlessly/"><u>Expert Tips for Crafting Viral Video Content Using MassMail Tool – Boost Your Digital Presence Effortlessly</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/how-global-economic-signals-affect-forex-exchange-rates-insights-from-using-mt4-copy-trade-tools/"><u>How Global Economic Signals Affect Forex Exchange Rates: Insights From Using MT4 Copy Trade Tools</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/instructions-to-create-safe-dialogue-for-hardware-disconnect/"><u>Instructions to Create Safe Dialogue for Hardware Disconnect</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-ultimate-guide-converting-4k-videos-to-mp4-for-easy-download/"><u>New In 2024, Ultimate Guide Converting 4K Videos to MP4 for Easy Download</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/professionelle-strategien-zur-absicherung-eines-synology-oder-qnap-nas-auf-einem-personlichen-rechner/"><u>Professionelle Strategien Zur Absicherung Eines Synology Oder QNAP NAS Auf Einem Persönlichen Rechner</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-tecno-phantom-v-fold-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Tecno Phantom V Fold Phone Hassle-Free</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-effortless-mp3-downloads-from-youtube-videos-for-2024/"><u>[New] Free, Effortless MP3 Downloads From YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-enhance-your-profile-best-tools-to-create-professional-facebook-cover-photos/"><u>[New] In 2024, Enhance Your Profile Best Tools to Create Professional Facebook Cover Photos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-step-into-pro-audio-recording-on-your-mac-using-audacity/"><u>[New] In 2024, Step Into Pro Audio Recording on Your Mac Using Audacity</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-wave-goodbye-to-costs-with-our-50-free-banners-offer/"><u>[Updated] In 2024, Wave Goodbye to Costs with Our 50 Free Banners Offer</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/best-in-class-seo-firms-across-great-britain-for-enhanced-internet-presence-join-seo-powersuite-now/"><u>Best-in-Class SEO Firms Across Great Britain for Enhanced Internet Presence - Join SEO PowerSuite Now!</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effective-blog-strategies-and-top-tools-in-2009-enhancing-your-online-presence-with-cutting-edge-software-solutions/"><u>Effective Blog Strategies & Top Tools in 2009: Enhancing Your Online Presence with Cutting-Edge Software Solutions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tial-football-info-youtube-trend-infographics-for-2024/"><u>Essential Football Info YouTube Trend Infographics for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/how-to-effortlessly-set-up-and-use-the-dxtrade-user-manual-with-metatrader-4-your-complete-step-by-step-tutorial-for-mt4-and-mt5-traders/"><u>How to Effortlessly Set Up and Use the DXTrade User Manual with MetaTrader 4 - Your Complete Step-by-Step Tutorial for MT4 & MT5 Traders</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-oppo-find-n3-flip-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Oppo Find N3 Flip without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-giving-tech-to-seniors-truly-beneficial-a-closer-look-at-unintended-consequences-zdnet/"><u>Is Giving Tech to Seniors Truly Beneficial? A Closer Look at Unintended Consequences | ZDNET</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-syncing-your-iphone-pictures-onto-a-laptop-via-itunes/"><u>Step-by-Step Guide: Syncing Your iPhone Pictures Onto a Laptop via iTunes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-savvy-shoppers-toms-computer-components-review/"><u>The Ultimate Resource for Savvy Shoppers: Tom's Computer Components Review</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-5-fixes-for-excessive-reserve-space-on-your-windows-10-pc/"><u>Top 5 Fixes for Excessive Reserve Space on Your Windows 10 PC</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/video-anonymization-strategies/"><u>Video Anonymization Strategies</u></a></li>
 </ul></div>
 
