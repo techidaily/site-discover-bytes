@@ -1,7 +1,7 @@
 ---
 title: Overcoming Group Policy Constraints on Windows Defender – Your Ultimate 4-Step Solution
-date: 2025-01-14T21:36:38.987Z
-updated: 2025-01-17T23:41:34.037Z
+date: 2025-01-18T23:13:21.079Z
+updated: 2025-01-23T21:07:08.912Z
 tags:
   - product
   - antivirus
@@ -44,6 +44,10 @@ In this guide, we would list out the possible fixes for this error.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why “Windows Defender blocked by Group Policy” Error Occurs?
 
 There could be a number of reasons for this error to happen. Here are the most common ones.
@@ -51,10 +55,6 @@ There could be a number of reasons for this error to happen. Here are the most c
 * Another [third-party antivirus](https://tools.techidaily.com/malwarefox/products/) or antimalware is clashing with the Windows Defender program.
 * Cybercriminals might have used infiltrate Group Policy using [malware](https://tools.techidaily.com/malwarefox/products/) to disable the security of the Windows system.
 * Some unauthorized changes in the Group Policies can also lead to the error. The changes can be made by mistake or intentionally too.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix “Windows Defender is Turned off by Group Policy”?
 
@@ -69,11 +69,7 @@ There could be a number of reasons for this error to happen. Here are the most c
 4. In order to enable the Microsoft Defender, click on the **Disabled** bullet.![Enable-MS-Defender](https://www.malwarefox.com/wp-content/uploads/2020/10/Enable-MS-Defender.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click **Apply** and **OK** to finish the configuration.
@@ -82,14 +78,14 @@ There could be a number of reasons for this error to happen. Here are the most c
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Using Registry Editor**
 
 1. Search for “**Registry Editor**” in the windows search box and launch it.![launch registry editor](https://www.malwarefox.com/wp-content/uploads/2020/10/launch-registry-editor.png)
 2. Navigate to or copy & paste this path to reach the Windows Defender folder: **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows Defender**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Right-click on the **DisableRealTimeMonitoring** key and Delete it.![Delete DisableRealtimeMonitoring key](https://www.malwarefox.com/wp-content/uploads/2020/10/Delete-DisableRealtimeMonitoring-key.png)
 4. Exit from the Registry Editor and reboot your system to apply the changes.
@@ -98,13 +94,17 @@ There could be a number of reasons for this error to happen. Here are the most c
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Using the PowerShell Command**
 
 1. Search for the **Windows Powershell** in the Windows search box and select **Run as Administrator.**![PowerShell Run as Admin](https://www.malwarefox.com/wp-content/uploads/2020/10/PowerShell-Run-as-Admin.jpg)
 2. Type or copy & paste this command and hit the enter key: **_Set-MpPreference -DisableRealtimeMonitoring 0_**![Enable MS defender with Powershell](https://www.malwarefox.com/wp-content/uploads/2020/10/Enable-MS-defender-with-Powershell.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -113,14 +113,15 @@ There could be a number of reasons for this error to happen. Here are the most c
 
 1. Right-click on the windows start icon and choose Settings from the list.![Settings](https://www.malwarefox.com/wp-content/uploads/2020/10/Settings.png)
 2. Select **Update & Security** settings.![Update and Security](https://www.malwarefox.com/wp-content/uploads/2020/10/Update-and-Security.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. From the left-pane choose **Windows Security**![launch windows security](https://www.malwarefox.com/wp-content/uploads/2020/10/launch-windows-security.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Next, click on **Virus & threat protection**.![Choose virus & threat protection](https://www.malwarefox.com/wp-content/uploads/2020/10/Choose-virus-threat-protection.png)
@@ -129,7 +130,7 @@ There could be a number of reasons for this error to happen. Here are the most c
 6. Toggle the switch to turn on the Microsoft Defender **real-time protection**.![turn On the Real Time protection](https://www.malwarefox.com/wp-content/uploads/2020/10/turn-On-the-RT-protection.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -179,22 +180,19 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-budget-friendly-pc-screen-recorders/"><u>[New] 2024 Approved Budget-Friendly PC Screen Recorders</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-from-casual-gamer-to-pro-elevating-your-minecraft-recordings-with-a-mac-for-2024/"><u>[New] From Casual Gamer to Pro Elevating Your Minecraft Recordings with a Mac for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-restore-pristine-photos-easily-discover-top-10-online-enhancers/"><u>[New] Restore Pristine Photos Easily Discover Top 10 Online Enhancers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/complete-guide-steps-to-perform-a-hard-reset-on-your-windows-11-pc/"><u>Complete Guide: Steps to Perform a Hard Reset on Your Windows 11 PC</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/download-videos-from-makertv-in-various-formats-mp4-wmv-mov/"><u>Download Videos From Maker.tv in Various Formats (MP4, WMV, MOV)</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/effortless-hd-downloads-of-1tv-content-for-af-and-georgian-viewers-using-1tv-downloader-tool/"><u>Effortless HD Downloads of 1TV Content for Af & Georgian Viewers Using 1TV Downloader Tool</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/get-free-access-to-therapeutic-video-content-and-transcripts-using-our-psychotherapy-downloader-tool/"><u>Get Free Access to Therapeutic Video Content and Transcripts Using Our Psychotherapy Downloader Tool</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/get-your-favorite-tunes-and-films-from-mediasack-without-spending-a-penny/"><u>Get Your Favorite Tunes and Films From Mediasack Without Spending a Penny!</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/getting-the-most-out-of-audioboom-step-by-step-guide-for-saving-podcasts/"><u>Getting the Most Out of AudioBoom: Step-by-Step Guide for Saving Podcasts</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209666200-9781493040865-haunted-pennsylvania-2nd-ed/"><u>Haunted Pennsylvania (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/how-to-convert-the-moth-and-planet-money-into-mp3-files-a-2-step-guide/"><u>How to Convert The Moth and Planet Money Into MP3 Files: A 2-Step Guide</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/how-to-transfer-your-favorite-tunes-from-spotify-to-itunes-as-a-high-quality-mp3/"><u>How to Transfer Your Favorite Tunes From Spotify to iTunes as a High-Quality MP3</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-8-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 8 to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/mastering-music-format-conversion-how-to-download-and-enjoy-hip-hop-songs-as-mp3s-aacs-m4as-or-flacs/"><u>Mastering Music Format Conversion: How to Download and Enjoy Hip Hop Songs as MP3s, AACs, M4As, or FLACS</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-infinix-note-30-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Infinix Note 30 5G</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-overcoming-error-14-on-ios-devices/"><u>Troubleshooting Tips: Overcoming Error 14 on iOS Devices</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/understanding-the-wav-file-a-complete-guide-to-wav-files-and-their-uses-with-movavi/"><u>Understanding the WAV File: A Complete Guide to .wav Files and Their Uses with Movavi</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-pinnacle-eight-video-recording-apps/"><u>[New] Pinnacle Eight Video Recording Apps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-youtube-dimensions-demystified-a-complete-aspect-ratio-handbook/"><u>[Updated] 2024 Approved YouTube Dimensions Demystified A Complete Aspect Ratio Handbook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-metaverses-most-social-spaces-for-friends/"><u>[Updated] Metaverse's Most Social Spaces for Friends</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/iuoajuacgoikes9vpluseuqooblplusobnplusocouocpoodgplusodioodoeodsplusodkoodvooajplusapnplusidveobpplusodrplusodvoodieockuocqplusocueocvplusodnuocpoocujog6kgo3/"><u>『最近使用したアイットメンバー』機能でワードをカスタマイズ: 表示・非表示設定の詳細ガイド</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/2-the-ultimate-guide-efficient-backup-strategies-for-ipad-and-ipad-pro-users/"><u>2. The Ultimate Guide: Efficient Backup Strategies for iPad and iPad Pro Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-ultimate-list-of-idevice-screen-recorders/"><u>2024 Approved Ultimate List of iDevice Screen Recorders</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/chromium-infection-removal-tutorial-effective-strategies-using-malwarefox-tool/"><u>Chromium Infection Removal Tutorial: Effective Strategies Using MalwareFox Tool</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/come-eseguire-backup-incrementali-e-differenziali-su-windows-server-2n-2016/"><u>Come Eseguire Backup Incrementali E Differenziali Su Windows Server 2N 2016</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/earning-potential-unveiled-youtube-adsense-earning-per-thousand-video-observations-for-2024/"><u>Earning Potential Unveiled YouTube AdSense Earning per Thousand Video Observations for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-to-edit-youtube-videos-in-finalcut-pro/"><u>How to Edit YouTube Videos in Finalcut Pro</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-quick-guide-to-troubleshoot-instagram-videos/"><u>In 2024, Quick Guide to Troubleshoot Instagram Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/instant-reddit-archives-posts-once-erased-now-found-for-2024/"><u>Instant Reddit Archives Posts Once Erased Now Found for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/methoden-zur-wiederherstellung-geloschter-dateien-auf-ihrem-computer-eine-umfassende-anleitung/"><u>Methoden Zur Wiederherstellung Gelöschter Dateien Auf Ihrem Computer - Eine Umfassende Anleitung</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-backing-up-vcenter-data-on-a-windows-shared-folder/"><u>Step-by-Step Guide: Backing Up vCenter Data on a Windows Shared Folder</u></a></li>
 </ul></div>
 

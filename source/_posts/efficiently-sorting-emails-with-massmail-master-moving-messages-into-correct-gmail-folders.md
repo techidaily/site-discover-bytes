@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Sorting Emails with MassMail: Master Moving Messages Into Correct Gmail Folders"
-date: 2025-01-10T22:03:08.925Z
-updated: 2025-01-17T22:00:00.070Z
+date: 2025-01-20T18:37:58.651Z
+updated: 2025-01-23T16:36:03.540Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -32,13 +36,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -53,6 +57,10 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -70,6 +78,10 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
@@ -78,16 +90,12 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
@@ -103,16 +111,12 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-videography-premiere-to-youtube-upload-for-2024/"><u>[Updated] Elevate Your Videography Premiere to YouTube Upload for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-how-to-turn-discord-livestreams-into-lasting-digital-memories/"><u>[Updated] In 2024, How to Turn Discord Livestreams Into Lasting Digital Memories</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-smartphone-compatible-vr-top-10-devices/"><u>[Updated] In 2024, Smartphone-Compatible VR Top 10 Devices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-tecno-spark-20-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Tecno Spark 20 Pro</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/beware-of-phishing-understanding-the-email-confirmation-trojan-disguised-as-a-shipping-update/"><u>Beware of Phishing: Understanding the 'Email Confirmation' Trojan Disguised as a Shipping Update</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/comment-surement-effacer-les-barres-de-bureau-dun-hdd-avec-exemple-pratique-5-cas/"><u>Comment Sûrement Effacer Les Barres De Bureau D’Un HDD Avec Exemple Pratique (5 Cas)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/decoding-the-future-of-ios-how-apples-new-purchase-signals-advanced-ai-features-for-next-gen-iphone-lineup-exclusive/"><u>Decoding the Future of iOS: How Apple's New Purchase Signals Advanced AI Features for Next-Gen iPhone Lineup Exclusive</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-honor-v-purse-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Honor V Purse Phone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/lost-photographs-on-sd-card-effective-strategies-for-recovery-and-prevention-tips/"><u>Lost Photographs on SD Card: Effective Strategies for Recovery and Prevention Tips!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/microsoft-flight-simulator-x-gold-edition-analysis-a-top-choice-for-aspiring-pilots/"><u>Microsoft Flight Simulator X Gold Edition Analysis: A Top Choice for Aspiring Pilots</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721471035559-recovery-tactics-for-vanished-iphone-note-entries-learn-here/"><u>Recovery Tactics for Vanished iPhone Note Entries – Learn Here</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/sauvegarde-efficace-de-vos-informations-avec-une-carte-sd-preparee/"><u>Sauvegarde Efficace De Vos Informations Avec Une Carte SD Préparée</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/solved-how-to-get-your-samsung-t7-detected-on-windows-11-6-effective-methods-plus-additional-hack/"><u>Solved: How To Get Your Samsung T7 Detected On Windows 11 (6 Effective Methods + Additional Hack)</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-upgrading-hdd-to-ssd-with-usb-interface-for-faster-performance/"><u>Step-by-Step Guide: Upgrading HDD to SSD with USB Interface for Faster Performance</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/top-5-ansatze-um-probleme-beim-hochladen-von-icloud-speicherdaten-zu-beheben/"><u>Top 5 Ansätze, Um Probleme Beim Hochladen Von iCloud-Speicherdaten Zu Beheben</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/understanding-jigsaw-ransomware-identification-and-prevention-tips-cyberguardian/"><u>Understanding Jigsaw Ransomware: Identification & Prevention Tips - CyberGuardian</u></a></li>
-<li><a href="https://fox-that.techidaily.com/what-to-do-if-you-cant-find-events-in-your-iphone-calendar/"><u>What to Do if You Can't Find Events in Your iPhone Calendar</u></a></li>
-<li><a href="https://facebook.techidaily.com/why-are-facebooks-recommendations-permanent/"><u>Why Are Facebook's Recommendations Permanent?</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/windows-11-ready-auto-save-external-hard-drive-with-usb-connectivity/"><u>Windows 11 Ready Auto-Save External Hard Drive with USB Connectivity</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-template-to-trendsetter-gamer-channel-banners-guide/"><u>[New] From Template to Trendsetter Gamer Channel Banners Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/os-mastery-effortlessly-extracting-youtube-videos/"><u>[New] IOS Mastery Effortlessly Extracting Youtube Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-screen-recording-on-imac-with-ease/"><u>[Updated] Mastering Screen Recording on iMac with Ease</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-revered-anthems-top-20-anime-opener-hits/"><u>[Updated] Revered Anthems Top 20 Anime Opener Hits</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ultra-screen-recorder-how-to-use-for-2024/"><u>[Updated] Ultra Screen Recorder - How to Use for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1-simplified-guide-protect-your-data-with-iphone-backup-steps-pre-factory-reset/"><u>1. Simplified Guide: Protect Your Data with iPhone Backup Steps Pre-Factory Reset</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/error-webpage-unavailable-encountering-a-404-page/"><u>Error: Webpage Unavailable – Encountering a 404 Page</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-itel-p40-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/guide-simple-a-lutilisation-de-powershell-pour-faire-une-copie-bit-a-bit-dun-hdd-sous-windows/"><u>Guide Simple À L'Utilisation De PowerShell Pour Faire Une Copie Bit À Bit D'un HDD Sous Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/itunes-127-synchronization-issues-fast-solutions-for-iphone-and-ipad/"><u>ITunes 12.7 Synchronization Issues: Fast Solutions for iPhone and iPad</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/maximize-your-icloud-capacity-a-7-step-guide-to-liberating-valuable-space/"><u>Maximize Your iCloud Capacity: A 7-Step Guide to Liberating Valuable Space</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/optimiser-lemplacement-des-boutons-dans-la-barre-des-taches-de-windows-11-voici-trois-strategies-efficaces/"><u>Optimiser L'Emplacement Des Boutons Dans La Barre Des Tâches De Windows 11 : Voici Trois Stratégies Efficaces !</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/strategie-essenziali-ritrovare-la-tua-memoria-di-massa-wd-in-menzione-di-minuti/"><u>Strategie Essenziali: Ritrovare La Tua Memoria Di Massa WD in Menzione Di Minuti</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/wift-video-voyage-navigating-through-the-youtubes-and-tiktok-landscapes-for-2024/"><u>The Swift Video Voyage Navigating Through the YouTubes and TikTok Landscapes for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/where-are-sticky-notes-saved-in-windows-1011-complete-guide/"><u>Where Are Sticky Notes Saved in Windows 10/11 - Complete Guide</u></a></li>
 </ul></div>
 

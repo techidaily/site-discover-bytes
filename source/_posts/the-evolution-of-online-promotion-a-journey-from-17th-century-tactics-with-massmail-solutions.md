@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Online Promotion: A Journey From 17Th Century Tactics with MassMail Solutions"
-date: 2025-01-11T22:00:20.692Z
-updated: 2025-01-17T16:45:05.894Z
+date: 2025-01-22T17:19:55.250Z
+updated: 2025-01-23T18:11:15.051Z
 tags:
   - product
 categories:
@@ -32,17 +32,9 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -58,6 +50,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -69,10 +65,6 @@ That is why in 2022, SMS will increasingly serve as the glue that cements multic
 One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware/products/), which helps local businesses and national chains to create and execute campaigns that feature shortcodes in direct mailers. After texting the shortcode, consumers receive an e-coupon on their phone that they redeem by showing to the merchant’s sales associate.
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
@@ -91,7 +83,7 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
@@ -99,7 +91,7 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
@@ -110,17 +102,21 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,21 +149,14 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-creating-memorable-youtube-shorts-10-must-do-tips/"><u>[New] In 2024, Creating Memorable YouTube Shorts - 10 Must-Do Tips</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-surviving-youtubes-copyright-enforcement-hurdles/"><u>[New] In 2024, Surviving YouTube's Copyright Enforcement Hurdles</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-photo-editing-mastery-leveraging-photoshops-background-eraser-tool-to-perfection/"><u>[New] Photo Editing Mastery Leveraging Photoshop's Background Eraser Tool to Perfection</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-insta-popularity-boost-mastering-the-25-essential-hashtags-for-2024/"><u>[Updated] Insta-Popularity Boost Mastering the 25 Essential Hashtags for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1728477581021-hdd/"><u>東芝外付キーボードHDDリセット手順 - 簡単で安全な方法</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/comment-cloner-efficacement-des-disques-ssd-et-hdd-a-differentes-tailles-de-blocage-astuces-et-conseils-seo/"><u>Comment Cloner Efficacement Des Disques SSD Et HDD À Différentes Tailles De Blocage : Astuces Et Conseils SEO</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nt-creators-arena-vs-beta-studio-evolutionary-path/"><u>Content Creator's Arena Vs. Beta Studio Evolutionary Path</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/free-methods-to-restore-lost-insv-images-from-your-insta360-camera/"><u>Free Methods to Restore Lost INSV Images From Your Insta360 Camera</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-official-hp-color-laserjet-pro-m477-drivers-for-smooth-printing-performance/"><u>Get the Official HP Color LaserJet Pro M477 Drivers for Smooth Printing Performance</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/how-to-liberate-vitalsource-projects-comprehensive-tutorial-for-vbk-drm-deletion/"><u>How to Liberate VitalSource Projects: Comprehensive Tutorial for VBK DRM Deletion</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-integrating-youtube-into-tv-sets-with-loop-features/"><u>In 2024, Integrating YouTube Into TV Sets with Loop Features</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1728506268234-iphone/"><u>IPhoneの画像編集アプリが繰り返し停止する心配はいりません。</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/pourquoi-powerpoint-ne-fonctionne-t-il-pas-identifiez-les-causes-et-trouverz-des-solutions-rapides/"><u>Pourquoi PowerPoint Ne Fonctionne-T-Il Pas ? - Identifiez Les Causes Et Trouverz Des Solutions Rapides !</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/step-by-step-tutorial-for-newbies-mastering-forex-copy-trading-with-mt4copier-tools/"><u>Step-by-Step Tutorial for Newbies: Mastering Forex Copy Trading with Mt4copier Tools</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/understanding-url-hijacking-comprehensive-guide-and-essential-seo-strategies/"><u>Understanding URL Hijacking: Comprehensive Guide & Essential SEO Strategies</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-turn-your-photos-into-a-movie-a-beginners-tutorial/"><u>Updated In 2024, Turn Your Photos Into a Movie A Beginners Tutorial</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-journey-starter-pack-8-essential-online-courses/"><u>[Updated] YouTube Journey Starter Pack 8 Essential Online Courses</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/building-your-sales-funnel-with-massmail-a-five-stage-process-for-generating-a-prospect-list/"><u>Building Your Sales Funnel with MassMail: A Five-Stage Process for Generating a Prospect List</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/comparative-analysis-mobile-vs-desktop-email-usage-trends-and-projections-2012-2013-with-insights-from-massmail-tools/"><u>Comparative Analysis: Mobile Vs. Desktop Email Usage Trends & Projections (2012-2013) with Insights From MassMail Tools</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effiziente-strategien-zum-transfer-von-hyper-v-dateien-anleitung-zu-schneller-und-einfacher-datenbewegung/"><u>Effiziente Strategien Zum Transfer Von Hyper-V Dateien: Anleitung Zu Schneller Und Einfacher Datenbewegung</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-motorola-moto-e13-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Motorola Moto E13 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oppo-find-x6-to-mac-drfone-by-drfone-android/"><u>How to Mirror Oppo Find X6 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/major-update-for-macs-powered-by-intel-m-series-complete-support-for-fedora-linux-with-one-noteworthy-holdout-tech-analysis-on-zdnet/"><u>Major Update for Macs Powered by Intel M-Series: Complete Support for Fedora Linux with One Noteworthy Holdout | Tech Analysis on ZDNet</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/navigating-through-the-google-penalty-labyrinth-defining-sandbox-strategy-and-top-seo-tips-for-success/"><u>Navigating Through the Google Penalty Labyrinth: Defining Sandbox Strategy & Top SEO Tips for Success</u></a></li>
 </ul></div>
 

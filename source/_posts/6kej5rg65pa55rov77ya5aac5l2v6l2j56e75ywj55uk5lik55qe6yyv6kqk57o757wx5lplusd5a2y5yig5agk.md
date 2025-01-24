@@ -1,7 +1,7 @@
 ---
 title: 解決方法：如何轉移光盤上的錯誤系統保存分塊
-date: 2025-01-12T17:52:09.215Z
-updated: 2025-01-17T21:43:20.905Z
+date: 2025-01-20T16:10:59.272Z
+updated: 2025-01-24T04:47:48.021Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b69670867cf0671d294f1cd7b.jpg
@@ -56,15 +56,15 @@ iTunes can be a good way to add ringtones to an iPhone. It can help you to custo
 
 [![](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/intercept-ringtone.png)](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/intercept-ringtone.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4\. Right-click the same song and select **Create AAC Version**.
 
 5\. Right-click the song segment and choose **Show in Windows Explorer**. Then change the extension from “.m4a” to “.m4r.”.
 
 6\. Copy the file & delete the old one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 2\. Add custom ringtones to iPhone 7
 
@@ -79,10 +79,6 @@ iTunes can be a good way to add ringtones to an iPhone. It can help you to custo
 **? Tips:** 
 * If the song you liked is not in the iTunes library, you can click **File** \> **Add Folder to Library** \> browse your computer and select the song you want to set as a ringtone to iTunes library.
 * If [Tones not showing in iTunes](https://tools.techidaily.com/ubackup/products/), you may need to choose another available way to make it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 2\. How to Put Ringtones on iPhone 7 via GarageBand**
 
@@ -102,7 +98,7 @@ Sometimes the song which you want to set as a ringtone stored on iPhone 7, you c
 [![](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/choose-song.png)](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/choose-song.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4\. Tap and hold the song to add it to GarageBand > Use the trimming and split editing features to edit the 30 seconds ringtone.
@@ -119,7 +115,7 @@ Sometimes the song which you want to set as a ringtone stored on iPhone 7, you c
 * **Assign to contact**: Associate a ringtone with one of your contacts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 3\. H**ow to Add Ringtones on iPhone from PC \[Recommended\]
@@ -131,15 +127,15 @@ What will be the easiest way to add ringtones to your iPhone, that's the profess
 ![yes](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Various audio file types can be **directly converted to m4r** and then you can directly find them in your **iPhone Settings**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![yes](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) **Fast transfer speed** allows you to efficiently transfer multiple audio files in a very short time.  
 ![yes](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) **Wide compatibility** lets AOMEI FoneBackup can support various iOS devices and versions including the latest ones.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now go for it now and discover more!
 
@@ -151,10 +147,6 @@ Step 1\. Launch AOMEI FoneBackup on Windows PC > Connect your iPhone to the comp
 
 ![transfer from pc to iphone](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Click the **Ringtones** option > Drag and drop the files you need to the box.
 
 ![select ringtones](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
@@ -163,12 +155,20 @@ Step 3\. Confirm the ringtones you need > Click **Start Transfer** to begin the 
 
 ![transfer ringtones from pc to iphone](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How to Set Custom Ringtone on iPhone 7 after the Process**
 
 After you have put the newly created ringtones on your iPhone 7(Plus) with iTunes, GarageBand or AOMEI FoneBackup, you can now change your iPhone ringtone by setting a custom one in Settings. Go to **Settings** on your iPhone 7 > **Sounds & Haptics** \> **Ringtone** \> Select the ringtone you just added to your iPhone.[![Add Ringtones To Iphone Settings](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/phone/screenshot/en/others/iphone/add-ringtones-to-iphone-settings.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -221,11 +221,11 @@ One-Stop iPhone Data Backup and Transfer Solution.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-![](https://www.ubackup.com/resource/images/ub-fb-theme/article-fb-img-dibu@1x.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.ubackup.com/resource/images/ub-fb-theme/article-fb-img-dibu@1x.png)
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -242,19 +242,24 @@ One-Stop iPhone Data Backup and Transfer Solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-discovering-the-power-behind-youtube-statistics-interpretation/"><u>[New] 2024 Approved Discovering the Power Behind YouTube Statistics Interpretation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-editing-powerhouses-top-9-simplified-video-tools/"><u>[New] 2024 Approved Free Editing Powerhouses Top 9 Simplified Video Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-live-broadcast-precision-introducing-an-effective-timer/"><u>[New] Live Broadcast Precision Introducing an Effective Timer</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/dv-movavi/"><u>線上無限擷取日蝕DV解決方案 – Movavi</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/conversion-facile-et-gratuite-de-videos-3g2-vers-mp3-en-direct-sur-le-site-movavi/"><u>Conversion Facile Et Gratuite De Vidéos 3G2 Vers MP3 en Direct Sur Le Site Movavi</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/discover-the-top-4-free-and-easy-to-use-mac-screen-recorders-of-2024-trustradius-ratings/"><u>Discover the Top 4 Free and Easy-to-Use Mac Screen Recorders of 2024 - TrustRadius Ratings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-strategies-to-resolve-ieframedll-errores-in-windows-os/"><u>Effective Strategies to Resolve Ieframe.dll Errores in Windows OS</u></a></li>
-<li><a href="https://video-capture.techidaily.com/get-every-detail-of-your-favorite-movies-macscreencasting-netflix/"><u>Get Every Detail of Your Favorite Movies MacScreencasting Netflix</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/laptop-keyboard-malfunction-heres-what-you-can-do-to-fix-it/"><u>Laptop Keyboard Malfunction? Here's What You Can Do To Fix It</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-the-depths-of-periscope-usage/"><u>Navigating the Depths of Periscope Usage</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/personal-growth-opportunities-provide-motivation-and-contribute-to-long-term-career-satisfaction-and-employee-retention/"><u>Personal Growth Opportunities Provide Motivation and Contribute to Long-Term Career Satisfaction and Employee Retention.</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-selection-of-high-tech-glasses-to-upgrade-your-vision-this-year/"><u>The Ultimate Selection of High-Tech Glasses to Upgrade Your Vision This Year</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranking-processors-for-gamers-insights-from-zdnet/"><u>Top-Ranking Processors for Gamers - Insights From ZDNet</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/transformacion-gratuita-de-webm-a-mov-online-con-movavi/"><u>Transformación Gratuita De WEBM a MOV Online Con Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-filmcraft-studio-top-alternatives-for-lightroom-users/"><u>[Updated] FilmCraft Studio Top Alternatives for Lightroom Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-understanding-instagrams-reels-vs-stories-format-for-2024/"><u>[Updated] Understanding Instagram’s Reels vs Stories Format for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/2-simplify-editing-master-the-art-of-text-deletion-from-pdfs-expert-tips-and-tricks/"><u>2. Simplify Editing: Master the Art of Text Deletion From PDFs (Expert Tips & Tricks)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-triple-check-for-profitability-guiding-principles-for-measuring-youtube-income/"><u>2024 Approved Triple Check for Profitability Guiding Principles for Measuring YouTube Income</u></a></li>
+<li><a href="https://blog-min.techidaily.com/wmamp4-movavi/"><u>無償でオンラインWMAからMP4への効率的な変換 – Movavi</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/adobes-flash-player-and-its-security-risks-insights-from-malwarefox/"><u>Adobe's Flash Player and Its Security Risks, Insights From MalwareFox</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/best-practices-and-essential-software-for-protecting-your-videos-with-copyright/"><u>Best Practices and Essential Software for Protecting Your Videos with Copyright</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/comprehensive-user-manual-mastering-the-apowermanager-system/"><u>Comprehensive User Manual: Mastering the ApowerManager System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-leading-contenders-for-chatgpt-alternatives-number-one-to-ten/"><u>Discover the Leading Contenders for ChatGPT Alternatives, Number One to Ten</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhance-your-images-with-these-4-optimal-techniques-for-higher-dpi/"><u>Enhance Your Images with These 4 Optimal Techniques for Higher DPI</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/enlarge-your-social-media-experience-by-displaying-tiktok-videos-on-the-big-screen/"><u>Enlarge Your Social Media Experience by Displaying TikTok Videos on the Big Screen!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-realme-gt-neo-5-se-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme GT Neo 5 SE Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-y78-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo Y78 5G Devices</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/mi-user-discover-the-top-4-optimal-screen-casting-tools-compatible-with-xiaomi-devices/"><u>Mi User? Discover the Top 4 Optimal Screen Casting Tools Compatible with Xiaomi Devices</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/resolving-issues-with-non-synchronizing-imessages-on-iphone-and-mac-devices/"><u>Resolving Issues with Non-Synchronizing iMessages on iPhone and Mac Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-tecno-spark-10c-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Tecno Spark 10C</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-best-5-free-mpeg-video-joiners-for-2024/"><u>Top Best 5 Free MPEG Video Joiners for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/ultimate-tutorial-converting-your-photos-background-to-a-clean-white-canvas/"><u>Ultimate Tutorial: Converting Your Photo's Background to a Clean White Canvas</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/understanding-attack-vectors-strategies-for-prevention-and-protection-insights-from-malwarefox/"><u>Understanding Attack Vectors: Strategies for Prevention & Protection – Insights From MalwareFox</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Email Campaign Metrics: Q2 2011 Analysis of Bounce, Open & CTR Rates Across Diverse Niches with MassMail Solutions"
-date: 2025-01-14T22:04:04.608Z
-updated: 2025-01-17T17:13:56.315Z
+date: 2025-01-16T22:08:32.177Z
+updated: 2025-01-23T21:37:50.692Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -36,6 +36,10 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
@@ -47,10 +51,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -70,10 +70,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -82,13 +78,13 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -98,9 +94,17 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -110,17 +114,9 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,16 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-vs-video-edition-is-gopro-writes-better-stories-than-cube/"><u>[New] In 2024, Vs. Video Edition Is GoPro' Writes Better Stories Than Cube?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-efficient-techniques-for-capturing-google-voice-calls/"><u>[Updated] Efficient Techniques for Capturing Google Voice Calls</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/15-top-ranked-forex-trading-platforms-comprehensive-review-and-buying-guidelines/"><u>15 Top-Ranked Forex Trading Platforms: Comprehensive Review and Buying Guidelines</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-enhances-icloud-on-windows-platform-with-latest-updates-and-bug-fixes-techworld-news/"><u>Apple Enhances iCloud on Windows Platform with Latest Updates and Bug Fixes - TechWorld News</u></a></li>
-<li><a href="https://win-dash.techidaily.com/efficiently-download-and-enhance-your-d-link-drivers-on-windows-pcs/"><u>Efficiently Download and Enhance Your D-Link Drivers on Windows PCs</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-art-and-science-of-capturing-real-time-audio-for-digital-platforms-for-2024/"><u>The Art and Science of Capturing Real-Time Audio for Digital Platforms for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/understanding-guest-blogging-comprehensive-guide-and-seo-strategies-with-seo-powersuite-insights/"><u>Understanding Guest Blogging: Comprehensive Guide & SEO Strategies with SEO PowerSuite Insights</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/unlock-success-in-online-partnerships-join-us-for-an-insightful-affiliate-engine-and-massmail-software-seminar/"><u>Unlock Success in Online Partnerships - Join Us for an Insightful Affiliate Engine and MassMail Software Seminar!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-to-the-newest-logitech-brio-webcam-driver-supporting-win11-and-previous-editions/"><u>Update to the Newest Logitech Brio Webcam Driver Supporting Win11 & Previous Editions</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/vmware-esxi-cluster-alert-vha-monitoring-actions-for-high-availability/"><u>VMware ESXi Cluster Alert: VHA Monitoring Actions for High Availability</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/wie-uberschreibe-ich-windows-8-oder-81-auf-einem-neuen-pc-schritt-fur-schritt-anleitung/"><u>Wie Überschreibe Ich Windows 8 Oder 8.1 Auf Einem Neuen PC: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-depth-assessment-comprehensive-camstudio-review/"><u>[New] In-Depth Assessment Comprehensive CamStudio Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-personalized-and-accessible-video-conclusions-downloads/"><u>[New] Personalized & Accessible Video Conclusions Downloads</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-captivate-viewers-with-stunning-story-bokeh-for-2024/"><u>[Updated] How to Captivate Viewers with Stunning Story Bokeh for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-top-student-vids-essential-histories-channel-list/"><u>[Updated] In 2024, Top Student Vids Essential Histories Channel List</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/cambia-i-tuoi-amv-in-un-file-mp4-senza-costi-su-internet-utilizzando-movavi-gratis/"><u>Cambia I Tuoi AMV in Un File MP4 Senza Costi Su Internet, Utilizzando Movavi Gratis</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/conversion-gratuit-des-videos-mov-vers-mp4-en-ligne-avec-eazyresize-free-video-converter/"><u>Conversion Gratuit Des Vidéos MOV Vers MP4 en Ligne Avec eazyResize Free Video Converter</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/fb-media-migration-tools-for-windowsmacos-users/"><u>FB Media Migration Tools for Windows/macOS Users</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/gratis-online-converter-nef-para-tiff-ferramentas-de-conversao-do-movavi/"><u>Gratis Online Converter: NEF Para TIFF - Ferramentas De Conversão Do Movavi</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-achieving-proficiency-comprehensive-photoshop-hdr-tutorial/"><u>In 2024, Achieving Proficiency Comprehensive Photoshop HDR Tutorial</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-t2-pro-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo T2 Pro 5G?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/lart-den-ligne-et-gratis-changer-un-fichier-aiff-en-mov-avec-movavi/"><u>L’art D'en Ligne Et Gratis: Changer Un Fichier AIFF en MOV Avec Movavi</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-adobe-premiere-vs-after-effects-which-one-should-you-use/"><u>New 2024 Approved Adobe Premiere vs After Effects Which One Should You Use?</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/the-ultimate-list-top-11-free-mp4-video-editor-programs-recommended/"><u>The Ultimate List: Top 11 Free MP4 Video Editor Programs Recommended</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/transforma-tus-peliculas-mod-al-formato-wma-con-gratuito-en-linea-solucion-de-conversion-de-movavi/"><u>Transforma Tus Películas MOD Al Formato WMA Con Gratuito en Línea - Solución De Conversión De Movavi</u></a></li>
 </ul></div>
 

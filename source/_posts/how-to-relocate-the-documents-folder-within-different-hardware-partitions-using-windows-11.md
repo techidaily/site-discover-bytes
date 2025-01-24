@@ -1,7 +1,7 @@
 ---
 title: How To Relocate The Documents Folder Within Different Hardware Partitions Using Windows 11
-date: 2025-01-12T22:32:37.823Z
-updated: 2025-01-17T16:54:20.516Z
+date: 2025-01-23T03:06:13.452Z
+updated: 2025-01-23T22:37:54.919Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/302790bfdd6c387be2ce7104b2f0ec7045e52a09e036ffbf26a83ecf9455ec5e.jpg
@@ -24,9 +24,17 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -73,10 +81,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -86,7 +90,7 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
@@ -98,23 +102,19 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
@@ -146,7 +146,7 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Autres articles connexes
@@ -169,10 +169,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -180,6 +176,10 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 [**Télécharger gratuiciel**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -198,21 +198,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-high-capacity-card-for-a7s-professional-use/"><u>[New] High-Capacity Card for A7S Professional Use</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-your-photo-archives-new-eden-mix-no-fee-infinite-with-paid-cloud-spaces-for-2024/"><u>[New] Your Photo Archive's New Eden Mix No-Fee Infinite with Paid Cloud Spaces for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1-seamless-screen-mirroring-connect-your-oneplus-7-to-the-television/"><u>1. Seamless Screen Mirroring: Connect Your OnePlus 7 to the Television</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-transforming-viewers-into-loyalists-with-essential-youtube-tips/"><u>2024 Approved Transforming Viewers Into Loyalists with Essential YouTube Tips</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/best-5-dvd-ripping-tools-convert-your-discs-into-digital-files-with-ease/"><u>Best 5 DVD Ripping Tools: Convert Your Discs Into Digital Files with Ease</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/discovering-the-best-youtube-mp3-transformers/"><u>Discovering the Best YouTube MP3 Transformers</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/effortless-guide-transferring-images-from-your-samsung-device-to-a-mac-computer/"><u>Effortless Guide: Transferring Images From Your Samsung Device to a Mac Computer</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-samsung-galaxy-z-fold-5-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Samsung Galaxy Z Fold 5 to iPod | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-optimal-webp-to-jpg-transformation-guide/"><u>In 2024, Optimal WebP-to-JPG Transformation Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-revolutionize-your-talking-skills-with-these-no-cost-audio-modifications/"><u>In 2024, Revolutionize Your Talking Skills with These No-Cost Audio Modifications</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/optimizing-gaming-and-streaming-with-nvidias-advanced-encoder-nvenc-technology/"><u>Optimizing Gaming & Streaming with Nvidia's Advanced Encoder (NVENC) Technology</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-to-mastering-the-roads-in-asphalt-9-legends-for-pc-gamers/"><u>Step-by-Step Guide to Mastering the Roads in Asphalt 9: Legends for PC Gamers</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/tips-and-tricks-for-capturing-high-quality-gotomeetings-a-step-by-step-guide/"><u>Tips and Tricks for Capturing High-Quality GoToMeetings: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/turn-your-unused-electronics-into-amazon-rewards-with-easy-trading-discover-the-steps/"><u>Turn Your Unused Electronics Into Amazon Rewards with Easy Trading - Discover the Steps!</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/ultimate-learning-series-on-using-action-for-effortless-screen-recording/"><u>Ultimate Learning Series on Using Action for Effortless Screen Recording</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/7x-plus-y-19/"><u> [7X + Y = -19 </u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-step-by-step-setting-up-your-smartphone-as-a-webcam-device/"><u>[New] 2024 Approved Step-by-Step Setting Up Your Smartphone as a Webcam Device</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-windowsmac-securely-download-facebook-media/"><u>[New] 2024 Approved Windows/Mac Securely Download Facebook Media</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728499427242-windows-7/"><u>「コマンドラインでWindows 7ファイルを複写する方法」</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/challenges-involve-the-difficulty-of-attribution-and-balancing-security-with-maintaining-the-openness-of-the-internet/"><u>Challenges Involve the Difficulty of Attribution and Balancing Security with Maintaining the Openness of the Internet.</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-gaming-speed-measuring-fps-on-android-devices-2-ways/"><u>Elevate Gaming Speed: Measuring FPS on Android Devices (2 Ways)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guia-completo-para-iniciar-sessao-com-o-movavi-em-computadores-apple-instrucoes-detalhadas/"><u>Guia Completo Para Iniciar Sessão Com O Movavi Em Computadores Apple - Instruções Detalhadas</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/guia-paso-a-paso-para-movilizar-datos-pc-a-sd-card-en-3-acciones-faciles-de-seguir/"><u>Guía Paso a Paso Para Movilizar Datos PC a SD Card en 3 Acciones Fáciles De Seguir</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/guia-paso-a-paso-solucion-para-errores-de-instalacion-en-windows-11/"><u>Guía Paso a Paso: Solución Para Errores De Instalación en Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-motorola-moto-e13-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Motorola Moto E13 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/implementation-simple-dun-service-de-sauvegarde-pour-le-serveur-windows-server-2019-etapes-faciles-a-suivre/"><u>Implémentation Simple D'un Service De Sauvegarde Pour Le Serveur Windows Server 2019 : Étapes Faciles À Suivre</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-15-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 15 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-photo-editing-the-eraser-guide-in-psx/"><u>Mastering Photo Editing The Eraser Guide in PSX</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-from-silence-to-symphony-practical-steps-for-reducing-unintentional-auditory-background/"><u>New 2024 Approved From Silence to Symphony Practical Steps for Reducing Unintentional Auditory Background</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-realme-10t-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Realme 10T 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/resolving-the-persistent-blue-screen-error-code-0xc00000e9-on-windows-11/"><u>Resolving the Persistent Blue Screen Error (Code 0xC00000E9) on Windows 11</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-file-sync-solutions-for-windows-10-a-two-step-guide/"><u>Top File Sync Solutions for Windows 10: A Two-Step Guide</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/troubleshoot-and-restore-your-windows-server-2019s-uefi-boot-essential-solutions-inside/"><u>Troubleshoot and Restore Your Windows Server 2019'S UEFI Boot - Essential Solutions Inside!</u></a></li>
 </ul></div>
 

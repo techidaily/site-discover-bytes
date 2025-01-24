@@ -1,7 +1,7 @@
 ---
 title: "Bank Account Marketing: Effective Strategies with Mass Email Campaigns - Insights From the MMSW Blog"
-date: 2025-01-10T20:19:34.123Z
-updated: 2025-01-17T20:16:08.761Z
+date: 2025-01-18T00:31:10.164Z
+updated: 2025-01-24T02:41:55.574Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -35,10 +35,6 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -53,7 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -82,6 +78,10 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -90,21 +90,17 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -119,7 +115,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,21 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-nvidia-method-to-perfect-gaming-replays/"><u>[Updated] The NVIDIA Method to Perfect Gaming Replays</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-vlc-recorder-functionality-check-for-2024/"><u>[Updated] VLC Recorder Functionality Check for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/adopting-nature-positive-policies-in-urban-governance/"><u>Adopting Nature-Positive Policies in Urban Governance</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/essential-spanish-verb-patterns-and-usage/"><u>Essential Spanish Verb Patterns & Usage</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-download-expert-guide-to-mastering-your-corsair-gaming-mouse/"><u>Free Download: Expert Guide to Mastering Your Corsair Gaming Mouse</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-poco-m6-pro-4g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Poco M6 Pro 4G</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-ultimate-guide-to-integrating-snap-photos-in-teams/"><u>In 2024, The Ultimate Guide to Integrating Snap Photos in Teams</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-tunes-choosing-best-offline-audio-to-text-tools/"><u>In 2024, Top Tunes Choosing Best Offline Audio-to-Text Tools</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/lost-photographs-on-sd-card-effective-strategies-for-recovery-and-prevention-tips/"><u>Lost Photographs on SD Card: Effective Strategies for Recovery and Prevention Tips!</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/rescatar-informacion-perdida-en-tu-memory-stick-con-la-consola-de-comandos-tres-soluciones-efectivas/"><u>Rescatar Información Perdida en Tu Memory Stick Con La Consola De Comandos [Tres Soluciones Efectivas]</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/resolved-disappearance-of-backup-features-in-windows-11-restored/"><u>Resolved: Disappearance of Backup Features in Windows 11 Restored</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/solved-how-to-get-your-samsung-t7-detected-on-windows-11-6-effective-methods-plus-additional-hack/"><u>Solved: How To Get Your Samsung T7 Detected On Windows 11 (6 Effective Methods + Additional Hack)</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-upgrading-hdd-to-ssd-with-usb-interface-for-faster-performance/"><u>Step-by-Step Guide: Upgrading HDD to SSD with USB Interface for Faster Performance</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/titre-seo-transformations-et-defis-dans-le-secteur-de-linnovation-technologique-moderne/"><u>Titre SEO : Transformations Et Défis Dans Le Secteur De L'innovation Technologique Moderne</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/windows-11-ready-auto-save-external-hard-drive-with-usb-connectivity/"><u>Windows 11 Ready Auto-Save External Hard Drive with USB Connectivity</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-starting-points-for-motion-visual-creation/"><u>[New] Starting Points for Motion Visual Creation</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/44cm5b6p5y6f5pa55rov5ryu56s677ya6kej5rg65lqu56iu5lin5yplusv6k6a5qqu5qgi5oiw55uu6yye5lif5asx55qe5oqa5ben44cn/"><u>「復原方法演示：解決五種不可讀檔案或目錄丟失的技巧」</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-10-recording-tips-to-record-audio-in-high-quality/"><u>2024 Approved 10 Recording Tips to Record Audio in High Quality</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-embarking-on-a-youtube-venture-user-setup-essentials/"><u>2024 Approved Embarking on a YouTube Venture User Setup Essentials</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/cssdsamsung/"><u>CドライブをSSDに移行してSamsung品質で増設方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-fixes-for-when-your-lenovo-laptop-camera-stops-working-expert-tips-included/"><u>DIY Fixes for When Your Lenovo Laptop Camera Stops Working - Expert Tips Included</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/entfernung-von-windows-11-bequem-anleitung-zu-drei-verschiedenen-ansatzen/"><u>Entfernung Von Windows 11 Bequem - Anleitung Zu Drei Verschiedenen Ansätzen</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/exploring-robocopy-and-top-substitutes-for-efficient-file-management-in-windows-server-ebytes-2016/"><u>Exploring Robocopy and Top Substitutes for Efficient File Management in Windows Server Ebytes 2016</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/free-fixes-uncover-3-effective-strategies-for-restoring-corrupted-jpeg-pictures-without-spending-a-penny/"><u>Free Fixes! Uncover 3 Effective Strategies for Restoring Corrupted JPEG Pictures Without Spending a Penny</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-finding-a-vanished-iphone-using-find-my-for-help/"><u>Guide to Finding a Vanished iPhone: Using Find My for Help</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-smart-8-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Infinix Smart 8?</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-rtx-replacement-critical-after-gtx-phase-out/"><u>Is RTX Replacement Critical After GTX Phase-Out?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210768210-9781639190065-las-runas-consulte-el-antiguo-oraculo/"><u>Las Runas. Consulte el antiguo oráculo | Free Book</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-nvidia-gtx-1650-super-drivers-installation-steps-for-windows-11-users/"><u>Latest NVIDIA GTX 1650 Super Drivers: Installation Steps for Windows 11 Users</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/reset-window-7-factory-settings-restoration-guide/"><u>Reset Window 7 Factory Settings Restoration Guide</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/step-by-step-tutorial-efficiently-duplicate-your-hard-drive-using-xxclone-on-windows-10/"><u>Step-by-Step Tutorial: Efficiently Duplicate Your Hard Drive Using XXClone on Windows 10</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/surfacesd/"><u>Surface上のSDカード読み取りに問題がある？ここでシンプルな手順をご紹介します</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-portrait-perfection-the-best-video-editing-apps-for-ios-and-android/"><u>Updated Portrait Perfection The Best Video Editing Apps for iOS and Android</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/windows-server-2012-r2-ma-gayab-hana-val-fiil-ka-panaparapata-karana-ka-sataka-abhayas/"><u>Windows Server 2012 (R2) में गायब होने वाली फ़ाइलों को पुनःप्राप्त करने का सटीक अभ्याs</u></a></li>
 </ul></div>
 

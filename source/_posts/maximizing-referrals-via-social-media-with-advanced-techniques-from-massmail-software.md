@@ -1,7 +1,7 @@
 ---
 title: Maximizing Referrals via Social Media with Advanced Techniques From MassMail Software
-date: 2025-01-14T16:03:22.453Z
-updated: 2025-01-17T23:42:19.493Z
+date: 2025-01-21T03:54:33.845Z
+updated: 2025-01-23T21:46:57.553Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -48,15 +48,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -70,13 +70,13 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -86,13 +86,13 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -102,21 +102,17 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,16 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-ordinary-to-outstanding-crafting-unique-shorts-thumbnails/"><u>[Updated] 2024 Approved From Ordinary to Outstanding Crafting Unique Shorts Thumbnails</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-closing-credits-creations-affordable-premium-and-more/"><u>2024 Approved Closing Credits Creations Affordable, Premium & More</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/anker-soundcore-life-q30-review-affordable-anc-headphones/"><u>Anker Soundcore Life Q30 Review: Affordable ANC Headphones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/best-car-battery-jump-starters-of-the-year-2024-comprehensive-guide-and-ratings-zdnet/"><u>Best Car Battery Jump Starters of the Year 2024: Comprehensive Guide and Ratings | ZDNET</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/digital-detox-ignoring-negativity-on-youtube-for-2024/"><u>Digital Detox Ignoring Negativity on YouTube for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/gratitude-and-confirmation-successful-completion-of-your-mirillis-product-acquisition/"><u>Gratitude and Confirmation: Successful Completion of Your Mirillis Product Acquisition</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-11-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 11 iOS System Issues? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-11r-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock OnePlus 11R Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/optimizing-gaming-and-streaming-with-nvidias-advanced-encoder-nvenc-technology/"><u>Optimizing Gaming & Streaming with Nvidia's Advanced Encoder (NVENC) Technology</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/save-and-transform-clipsyndicate-content-into-high-quality-mp4-or-avi-video-files-quick-guide/"><u>Save and Transform ClipSyndicate Content Into High-Quality MP4 or AVI Video Files - Quick Guide</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-connecting-your-android-device-to-a-samsung-smart-tv/"><u>Step-by-Step Guide: Connecting Your Android Device to a Samsung Smart TV</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-downloading-dangal-film-in-ultra-high-definition-mp4-mov-and-avi-formats/"><u>Step-by-Step Guide: Downloading 'Dangal' Film in Ultra High Definition - MP4, MOV & AVI Formats</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-transforming-traditional-easter-choral-pieces-into-various-digital-audio-files/"><u>Step-by-Step Guide: Transforming Traditional Easter Choral Pieces Into Various Digital Audio Files</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/step-by-step-tutorial-for-downloading-and-saving-cartoon-movies-as-mp4-avi-or-mov-files-across-windows-and-macos-systems/"><u>Step-by-Step Tutorial for Downloading and Saving Cartoon Movies as MP4, AVI or MOV Files Across Windows & macOS Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-authentication-failures-on-latest-windows/"><u>Tackling Authentication Failures on Latest Windows</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/top-four-techniques-for-effortlessly-downloading-embedded-videos/"><u>Top Four Techniques for Effortlessly Downloading Embedded Videos</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/top-substitutes-for-mactubes-compatible-with-both-mac-and-windows-systems-by-allavsoft/"><u>Top Substitutes for MacTubes Compatible with Both Mac & Windows Systems by AllavSoft</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/ultimate-mp3-conversion-solution-ampassyte-pro-for-cross-platform-use-macwindows/"><u>Ultimate MP3 Conversion Solution: Ampassyte Pro for Cross-Platform Use (Mac/Windows)</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/comment-effacer-les-backups-desuets-dans-windows-7-pour-gagner-de-lespace-disque/"><u>Comment Effacer Les Backups Désuets Dans Windows 7 Pour Gagner De L'Espace Disque</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-strategies-to-overcome-ietmodextdll-malfunctions/"><u>Comprehensive Strategies to Overcome ietmodext.dll Malfunctions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-sims-4-graphics-issue-how-to-resolve-your-video-card-problem/"><u>Fixing the Sims 4 Graphics Issue: How to Resolve Your Video Card Problem</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/guia-paso-a-paso-para-movilizar-datos-pc-a-sd-card-en-3-acciones-faciles-de-seguir/"><u>Guía Paso a Paso Para Movilizar Datos PC a SD Card en 3 Acciones Fáciles De Seguir</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/guia-paso-a-paso-solucion-para-errores-de-instalacion-en-windows-11/"><u>Guía Paso a Paso: Solución Para Errores De Instalación en Windows 11</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/implementation-simple-dun-service-de-sauvegarde-pour-le-serveur-windows-server-2019-etapes-faciles-a-suivre/"><u>Implémentation Simple D'un Service De Sauvegarde Pour Le Serveur Windows Server 2019 : Étapes Faciles À Suivre</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-apple-iphone-15-pro-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About Apple iPhone 15 Pro Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-directly-from-our-site-updated-amd-radeon-graphics-drivers-for-windows/"><u>Install Directly From Our Site: Updated AMD Radeon Graphics Drivers for Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2670429-9781515408581-the-complete-works-of-e-m-bounds/"><u>The Complete Works of E. M. Bounds | Free Book</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/troubleshoot-and-restore-your-windows-server-2019s-uefi-boot-essential-solutions-inside/"><u>Troubleshoot and Restore Your Windows Server 2019'S UEFI Boot - Essential Solutions Inside!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722855295778-unveiling-the-secrets-what-you-need-to-know-about-the-new-google-tv-media-player-specs-and-release-timeline/"><u>Unveiling the Secrets: What You Need to Know About the New Google TV Media Player, Specs & Release Timeline</u></a></li>
 </ul></div>
 
