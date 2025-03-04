@@ -1,7 +1,7 @@
 ---
 title: AOMEI Backupper Mac - 全面升级版功能介绍
-date: 2025-02-08T22:48:24.604Z
-updated: 2025-02-13T02:12:39.029Z
+date: 2025-03-02T16:08:15.553Z
+updated: 2025-03-04T01:47:38.903Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/5d3b16b34799fd4027e4ade17484dcb7de0969abd15218a509c4db117b716df9.jpg
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/5d3b16b34799fd4027e4ade17484dcb7de0969abd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
 Wie kann man den Papierkorb vom Desktop entfernen? Eine effiziente Methode finden Sie auf dieser Seite. Sie können auch erfahren, wie Sie gelöschte Dateien aus dem Papierkorb wiederherstellen können, nachdem dieser geleert wurde, und Sie erhalten entsprechende Tipps zur Wiederherstellung des Papierkorbs.
@@ -31,10 +27,6 @@ Wie kann man den Papierkorb vom Desktop entfernen? Eine effiziente Methode finde
 Von[Holiday](https://tools.techidaily.com/ubackup/products/)/ Aktualisiert am 14.09.2024
 
 Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/de/data-recovery-disk/javascript:void%280%29;) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Inhaltsverzeichnis** 
 
@@ -58,10 +50,6 @@ Nicht zu vergessen sind die kürzlich gelöschten Dateien im Papierkorb. Sie wer
 
 [![Papierkorb leeren](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/empty-recycle-bin.png "Papierkorb leeren")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Um Speicherplatz freizugeben, leeren viele Benutzer ihren Papierkorb. Aber ist es sicher, den Papierkorb zu löschen? Um spätere Bedauern zu vermeiden, öffnen Sie diesen temporären Speicherplatz, um zu prüfen, ob sich darin Dateien befinden, die Sie wiederherstellen möchten.
 
 Aber wenn der [Papierkorb als leer angezeigt wird](https://tools.techidaily.com/ubackup/products/), es aber nicht ist, was können Sie tun, um dies zu beheben? Lesen Sie bitte weiter, um die entsprechenden Methoden zu erhalten.
@@ -73,10 +61,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 **Schritt 1**. Öffnen Sie die Windows-Einstellungen, indem Sie die Tasten „**Win + I**“ drücken, und klicken Sie auf die Schaltfläche „**Personalisierung**“.
 
 [![Windows-Einstellungen Personalisierung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/windows-settings-personalization.png "Windows-Einstellungen Personalisierung")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 2**. Klicken Sie auf die Schaltfläche „**Designs**“.
 
@@ -122,17 +106,9 @@ Sicherer Download
 
 [![Scan starten](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-c-to-scan.png "Scan starten")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
@@ -164,10 +140,6 @@ Sicherer Download
 **Schritt** **2**. Sie können ihn im Feld „**Aufgabename**“ benennen, um ihn von anderen Backups zu unterscheiden.
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
@@ -211,10 +183,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Folgende Artikel könnten Sie auch interessieren
 
 ##### [Gelöschte Bilder vom Computer wiederherstellen | 5 einfache Wege](https://tools.techidaily.com/ubackup/products/)
@@ -249,10 +217,6 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -268,24 +232,24 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-fix-facebook-media-failure-on-devices/"><u>[New] In 2024, Fix Facebook Media Failure on Devices</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-top-5-free-screen-recorders-on-windows-11-2023-update/"><u>[New] In 2024, Top 5 Free Screen Recorders on Windows 11-2023 Update</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-update-short-form-video-coverage/"><u>[New] In 2024, Update Short-Form Video Coverage</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-green-thumbs-united-top-10-farm-titles-for-friendly-playtime-for-2024/"><u>[Updated] Green Thumbs United Top 10 Farm Titles for Friendly Playtime for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-unlocking-whatsapps-full-arsenal-for-efficient-communication/"><u>[Updated] Unlocking WhatsApp's Full Arsenal for Efficient Communication</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1-tre-caminhos-simplificados-para-migracao-de-servidor-windows-201/"><u>1] Tre Caminhos Simplificados Para Migração De Servidor Windows 201</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/el-command-center-masterminding-visionary-content/"><u>Channel Command Center Masterminding Visionary Content</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/effortless-migration-of-existing-files-and-systems-from-old-hard-drives-to-new-ssdshdds-no-reinstallation-necessary/"><u>Effortless Migration of Existing Files and Systems From Old Hard Drives to New SSDs/HDDs: No Reinstallation Necessary</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/guide-complet-transfert-des-fichiers-de-programme-a-un-autre-hard-drive-sous-windows-11-10-8-ou-7/"><u>Guide Complet : Transfert Des Fichiers De Programme À Un Autre Hard Drive Sous Windows 11, 10, 8 Ou 7</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/mastering-media-integration-adding-online-yt-videos-to-ppts/"><u>Mastering Media Integration Adding Online YT Videos to PPTs</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/quel-est-le-destination-des-fichiers-de-la-corbeille-apres-restauration-sous-windows-1011/"><u>Quel Est Le Destination Des Fichiers De La Corbeille Après Restauration Sous Windows 10/11 ?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/rotate-your-3gp-videos-for-free-top-5-tools-for-2024/"><u>Rotate Your 3GP Videos for Free Top 5 Tools for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/scarlett-solo-driver-windows-download-improve-your-audio-quality/"><u>Scarlett Solo Driver Windows Download - Improve Your Audio Quality</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/the-right-to-appeal-steps-following-abrupt-video-content-suspension-for-2024/"><u>The Right to Appeal Steps Following Abrupt Video Content Suspension for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/top-email-promotion-guides-ideal-for-enhancing-your-business-discover-our-expert-suggestions/"><u>Top Email Promotion Guides Ideal for Enhancing Your Business: Discover Our Expert Suggestions!</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/ultimate-collection-of-free-online-tools-for-vibrant-content-creation-in-2vee-latest-update-massmail-solutions/"><u>Ultimate Collection of Free Online Tools for Vibrant Content Creation in 2Vee [Latest Update] | Massmail Solutions</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/understanding-noindex-tags-and-strategies-in-seo-a-complete-guide-with-optimization-techniques/"><u>Understanding Noindex Tags & Strategies in SEO: A Complete Guide with Optimization Techniques</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/understanding-punycode-in-seo-comprehensive-guide-with-practical-advice/"><u>Understanding Punycode in SEO: Comprehensive Guide with Practical Advice</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/unraveling-the-secrets-of-google-autocomplete-a-comprehensive-guide-and-strategic-seo-advice/"><u>Unraveling the Secrets of Google Autocomplete: A Comprehensive Guide & Strategic SEO Advice</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-discover-the-power-of-nikon-1j5s-4k-video/"><u>[Updated] 2024 Approved Discover the Power of Nikon 1J5's 4K Video</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-cutting-edge-techniques-for-powerful-youtube-thumbnail-designs-for-2024/"><u>[Updated] Cutting-Edge Techniques for Powerful YouTube Thumbnail Designs for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-onestream-integration-tips-for-seamless-livestreaming-for-2024/"><u>[Updated] OneStream Integration Tips for Seamless Livestreaming for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-invisible-scrutiny-unlocking-ig-selfie-verification-secrets/"><u>[Updated] The Invisible Scrutiny Unlocking IG Selfie Verification Secrets</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-iphone-15-pro-max-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase iPhone 15 Pro Max When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/best-of-the-bunch-leading-email-marketing-strategies-in-2012-focus-on-relevancy-automated-messaging-and-next-gen-personalization-with-massmail/"><u>Best of the Bunch: Leading Email Marketing Strategies in 2012 - Focus on Relevancy, Automated Messaging & Next-Gen Personalization with MassMail</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721452858955-cant-get-your-iphone-to-vibrate-in-ring-or-silent-mode-use-these-8-techniques-to-resolve-the-issue/"><u>Can't Get Your iPhone to Vibrate in Ring or Silent Mode? Use These 8 Techniques to Resolve the Issue</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/comment-selectionner-la-plus-pertinente-des-ssd-m2-compatibles-avec-votre-systeme-dexploitation-conseils-utiles/"><u>Comment Sélectionner La Plus Pertinente Des SSD M.ˈ2 Compatibles Avec Votre Système D'exploitation : Conseils Utiles</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/comprehensive-guide-to-email-verification-tools-latest-2023-update-with-massmail-comparison/"><u>Comprehensive Guide to Email Verification Tools - Latest 2023 Update with MassMail Comparison</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effective-mass-sending-solutions-for-academic-institutions-a-deep-dive-by-mmsw-blog-discover-massmail-software-features/"><u>Effective Mass Sending Solutions for Academic Institutions: A Deep Dive by MMSW Blog | Discover Massmail Software Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-troubleshooting-and-repairing-windows-error-code-0xc0000005/"><u>Expert Tips for Troubleshooting and Repairing Windows Error Code 0XC0000005</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/gunstigste-kostenlose-dateisynchronisation-tools-als-ersatz-fur-goodsync-unter-windows-betriebssystemen-781011/"><u>Günstigste Kostenlose Dateisynchronisation-Tools Als Ersatz Für GoodSync Unter Windows-Betriebssystemen (7/8/10/11)</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/high-resolution-hd-wallpapers-and-desktop-icons-of-the-bentley-bentayga-plug-in-hybrid-premium-vehicle-graphics-by-yl-computing/"><u>High-Resolution HD Wallpapers & Desktop Icons of the Bentley Bentayga Plug-In Hybrid - Premium Vehicle Graphics by YL Computing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exposing-the-invisible-voices-of-yt-community/"><u>In 2024, Exposing the Invisible Voices of YT Community</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-to-retrieving-lost-iphone-notes-on-models-8-11-and-xs-series/"><u>Step-by-Step Guide to Retrieving Lost iPhone Notes on Models 8, 11, and XS Series</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/the-ultimate-guide-to-organizing-your-inbox-using-massmail-for-targeted-gmail-folder-placement/"><u>The Ultimate Guide to Organizing Your Inbox Using MassMail for Targeted Gmail Folder Placement</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728505155133-windows-11/"><u>Windows 11でマイドキュメントを再設定して新ドライブに移動する手順集</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/luchshie-specialisty-po-seo-v-kardiffe-dlya-204-goda-obzor-s-pomoshyu-seo-powersuite/"><u>Лучшие Специалисты По SEO В Кардиффе Для 2^04 Года: Обзор С Помощью SEO PowerSuite</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Adapting Email Strategies: The Impact of COVID-19 on Marketing Campaigns - Insights From MMSW Blog"
-date: 2025-02-08T21:30:19.859Z
-updated: 2025-02-12T23:49:20.262Z
+date: 2025-02-27T19:41:26.156Z
+updated: 2025-03-04T00:31:52.167Z
 tags:
   - product
 categories:
@@ -17,10 +17,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
@@ -48,10 +44,6 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -74,10 +66,6 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
@@ -98,10 +86,6 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
@@ -114,10 +98,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -125,10 +105,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,19 +125,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-amplify-audience-connection-best-creative-reacting-techniques/"><u>[New] 2024 Approved Amplify Audience Connection Best Creative Reacting Techniques</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-top-10-games-like-gta-v/"><u>[New] In 2024, Top 10 Games Like GTA V</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-rotate-to-win-insta-tricks-for-video-transformation/"><u>[Updated] Rotate to Win Insta-Tricks for Video Transformation</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-a-beginners-guide-to-use-snapseed-photo-editing-features/"><u>2024 Approved A Beginner's Guide to Use Snapseed Photo Editing Features</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-vivo-y78-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Vivo Y78 5G FRP</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1728486368621-aomei-backupper-mac/"><u>AOMEI Backupper Mac - 全面升级版功能介绍</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/comment-retrouver-vos-fichiers-sauvegardes-avec-wd-easystore/"><u>Comment Retrouver Vos Fichiers Sauvegardés Avec WD EasyStore ?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-our-selection-of-top-6-nutrition-management-apps/"><u>Discover Our Selection of Top 6 Nutrition Management Apps</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/engaging-your-subscribers-top-3-strategies-using-massmail-software/"><u>Engaging Your Subscribers: Top 3 Strategies Using MassMail Software</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/feinabstimmung-ihres-windows-auf-samsung-ssd-professionelle-schritt-fur-schritt-guide/"><u>Feinabstimmung Ihres Windows Auf Samsung SSD: Professionelle Schritt-Für-Schritt-Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-pro-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Pro to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/iphone-storage-mysteries-unveiled-how-to-eliminate-hidden-other-data-and-free-up-memory/"><u>IPhone Storage Mysteries Unveiled: How to Eliminate Hidden 'Other' Data and Free Up Memory</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/master-arma-3-performance-expert-strategies-to-eliminate-crashes-and-boost-playability/"><u>Master Arma 3 Performance: Expert Strategies to Eliminate Crashes and Boost Playability</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-list-for-engrossing-youtube-stories-in-23-for-2024/"><u>The Ultimate List for Engrossing YouTube Stories in '23 for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-converging-music-and-imagery-online-for-2024/"><u>[New] Converging Music and Imagery Online for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-faster-facebook-videos/"><u>[New] The Ultimate Guide to Faster Facebook Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-essential-guide-to-creating-stunning-boomerangs/"><u>2024 Approved The Essential Guide to Creating Stunning Boomerangs</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728470174468-aomei-backupper/"><u>AOMEI Backupperについて学ぶ:主要単語・用語リスト</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-apple-devices-offline-game-roundup/"><u>Exclusive Apple Devices Offline Game Roundup</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/exploring-malwarefox-costs-subscription-options-and-protection-features/"><u>Exploring MalwareFox: Costs, Subscription Options & Protection Features</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/fixes-for-black-screen-issue-on-windows-10-post-login-troubleshooting-steps/"><u>Fixes for Black Screen Issue on Windows 10 Post-Login Troubleshooting Steps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-behind-the-scenes-manycams-recording-system-evolution/"><u>In 2024, Behind the Scenes ManyCam's Recording System Evolution</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revive-print-functionality-top-5-tips-and-tricks-for-a-working-canon-printer-in-windows-11/"><u>Revive Print Functionality: Top 5 Tips & Tricks for a Working Canon Printer in Windows 11</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-iphone-to-pc-file-sharing-applications-the-ultimate-guide/"><u>Top iPhone-to-PC File Sharing Applications: The Ultimate Guide</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728467230094-windows-11/"><u>Windows 11 如何升級而不會丟失程式與數據</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/be-live-pro-tips-outfitting-with-excellent-webcams-for-2024/"><u>YouTube Live Pro Tips Outfitting with Excellent Webcams for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728474366590-windows/"><u>セーフモードでWindowsの不具合時にファイル移行テクニック</u></a></li>
 </ul></div>
 

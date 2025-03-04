@@ -1,7 +1,7 @@
 ---
 title: 1] Tre Caminhos Simplificados Para Migração De Servidor Windows 201
-date: 2025-02-08T03:22:15.901Z
-updated: 2025-02-12T19:33:16.070Z
+date: 2025-03-02T01:27:36.377Z
+updated: 2025-03-03T17:48:04.167Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/1fe7ff1c6ccc0ab7bc1dc02b033d67aea4e7d6e05ae451c6e295e56be2a3c200.jpg
@@ -43,10 +43,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
@@ -65,17 +61,9 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -84,10 +72,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 **Étape 1.** Lancez AOMEI Backuppper Standard, cliquez sur **Sauvegarder**, puis sur **Sauvegarde de fichiers**.
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
@@ -112,10 +96,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -144,10 +124,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -179,10 +155,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,18 +170,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-live-image-processing-into-continuous-action-frames/"><u>[New] Live Image Processing Into Continuous Action Frames</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-integrating-facebook-livestream-into-your-roku-setup/"><u>[Updated] 2024 Approved Integrating Facebook Livestream Into Your Roku Setup</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-comprehensive-guide-to-perfecting-facetime-call-screen-captures-for-2024/"><u>[Updated] Comprehensive Guide to Perfecting FaceTime Call Screen Captures for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2-easy-ways-to-record-google-meet-for-2024/"><u>2 Easy Ways to Record Google Meet for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-from-camera-to-canvas-getting-started-with-lunapic/"><u>2024 Approved From Camera to Canvas Getting Started with LunaPic</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/gratitude-and-confirmation-successful-completion-of-your-mirillis-product-acquisition/"><u>Gratitude and Confirmation: Successful Completion of Your Mirillis Product Acquisition</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-13-mini-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 13 mini without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://solve-help.techidaily.com/1726029977530-mp4/"><u>MP4ビデオの字幕管理を一括で行うワンソフト！編集ツール</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-best-timecode-calculators-a-comprehensive-review/"><u>New The Best Timecode Calculators A Comprehensive Review</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/optimizing-gaming-and-streaming-with-nvidias-advanced-encoder-nvenc-technology/"><u>Optimizing Gaming & Streaming with Nvidia's Advanced Encoder (NVENC) Technology</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-riches-a-deep-dive-into-mr-beasts-wealth-for-2024/"><u>The Riches A Deep Dive Into Mr. Beast's Wealth for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/top-substitutes-for-mactubes-compatible-with-both-mac-and-windows-systems-by-allavsoft/"><u>Top Substitutes for MacTubes Compatible with Both Mac & Windows Systems by AllavSoft</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/ultimate-mp3-conversion-solution-ampassyte-pro-for-cross-platform-use-macwindows/"><u>Ultimate MP3 Conversion Solution: Ampassyte Pro for Cross-Platform Use (Mac/Windows)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-nocturnal-notes-expert-advice-on-low-light-photos/"><u>[New] In 2024, Nocturnal Notes Expert Advice on Low Light Photos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-beginner-to-expert-a-comprehensive-guide-to-looping-your-favorite-vids/"><u>[Updated] In 2024, From Beginner to Expert A Comprehensive Guide to Looping Your Favorite Vids</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-maximizing-macs-potential-capturing-the-spirit-of-roblox-games/"><u>[Updated] Maximizing Mac's Potential Capturing the Spirit of Roblox Games</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/a-beginners-guide-to-forex-trading-with-mt4copier-demystifying-currency-exchange-mechanics/"><u>A Beginner's Guide to Forex Trading with MT4copier - Demystifying Currency Exchange Mechanics</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1725289024562-androidios-winxvideo-ai/"><u>Android/iOS 전자화에서 Winxvideo AI를 확실하게 다운로드: 미디어 검색을 위한 도구</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/comment-recreer-une-partition-de-sysntfs-sur-un-hdd-dans-windows-78-ou-10/"><u>Comment Recréer Une Partition De SysNTFS Sur Un HDD Dans Windows 7,8 Ou 10</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/expert-tips-for-crafting-viral-video-content-using-massmail-tool-boost-your-digital-presence-effortlessly/"><u>Expert Tips for Crafting Viral Video Content Using MassMail Tool – Boost Your Digital Presence Effortlessly</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-xiaomi-redmi-note-12r-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Xiaomi Redmi Note 12R Quickly | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/from-tiktok-to-twitter-a-step-by-step-guide/"><u>From TikTok to Twitter A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/how-global-economic-signals-affect-forex-exchange-rates-insights-from-using-mt4-copy-trade-tools/"><u>How Global Economic Signals Affect Forex Exchange Rates: Insights From Using MT4 Copy Trade Tools</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728506268234-iphone/"><u>IPhoneの画像編集アプリが繰り返し停止する心配はいりません。</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/maximize-subscriptions-and-sales-expert-tips-for-constructing-profitable-opt-in-lists-using-massmail-technology/"><u>Maximize Subscriptions & Sales: Expert Tips for Constructing Profitable Opt-In Lists Using MassMail Technology</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sky-high-improvement-ultimate-video-rescale/"><u>Sky-High Improvement Ultimate Video Rescale</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/step-by-step-tutorial-for-newbies-mastering-forex-copy-trading-with-mt4copier-tools/"><u>Step-by-Step Tutorial for Newbies: Mastering Forex Copy Trading with Mt4copier Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-picks-for-optimal-cloud-space-solutions-for-2024/"><u>Top Picks for Optimal Cloud Space Solutions for 2024</u></a></li>
 </ul></div>
 
